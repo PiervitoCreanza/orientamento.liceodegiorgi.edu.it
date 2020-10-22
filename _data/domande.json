@@ -1,6 +1,6 @@
 {
     "sezione1": {
-        "titolo": "<span class='text-red'>Hai una</span> domanda? ",
+        "titolo": "<span class='text-red'>Hai una</span> domanda?",
         "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
         "pulsanteRosso": "Contattaci",
         "pulsante": "Domande frequenti"
