@@ -1,6 +1,6 @@
 {
     "sezione1": {
-        "sottotitolo": "Qui bisognerebbe scrivere uno slogan semplice ma efficace che occupi possibilmente due righe.",
+        "sottotitolo": " Il Regio Liceo Scientifico di Lecce, intitolato a Cosimo De Giorgi l’anno dopo la sua nascita, fu uno dei primi licei scientifici nati dopo l’istituzione di questo tipo di scuola con la riforma Gentile nel 1923. In questi quasi 100 anni ha curato la formazione umana e culturale di generazioni di giovani salentini. Oggi accoglie nelle sue due sedi circa 1400 studenti suddivisi in 53 classi.",
         "pulsanteRosso": "Scrivici",
         "pulsante": "Domande frequenti"
     },
@@ -25,12 +25,12 @@
         }
     },
     "sezione4": {
-        "titoloRosso": "Vieni a trovarci",
-        "titolo": "nelle nostre due sedi",
-        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "titoloRosso": "Dove Siamo",
+        "titolo": "le nostre due sedi",
+        "sottotitolo": "Dall’ottobre 2012 il Liceo si articola in due sedi: la sede Centrale in viale De Pietro con gli uffici di Presidenza e Segreteria e con 20 classi e il Polo Didattico di via Pozzuolo con 34 classi. In entrambe le sedi ospitano 1 laboratorio linguistico-multimediale di ultima generazione, 1 laboratorio scientifico polivalente e 1 laboratorio di scienze.",
         "paragrafo1": {
             "titolo": "Sede centrale",
-            "sottotitolo":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+            "sottotitolo":"La sede centrale, in viale De Pietro ospita la Presidenza e gli uffici di Segreteria. Ci sono anche le 20 classi delle Sezioni A-B-C-D), inoltre il laboratorio linguistico-multimediale, il alboratorio di Fisica, quello di Scienze, l'aula Video e la palestra."
         },
         "paragrafo2": {
             "titolo": "Sede succursale",
@@ -39,7 +39,7 @@
     },
     "sezione5": {
         "titoloRosso": "Simula il tuo",
-        "titolo": "orario scolastico",
+        "titolo": "orario scolastico --- pag DIDATTICA",
         "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
     }
 }
