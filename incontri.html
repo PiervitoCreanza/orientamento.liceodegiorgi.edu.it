@@ -1,0 +1,60 @@
+---
+layout: default
+title: "Incontri"
+---
+{% include navigation.html %}
+<section class="scene">
+    <div class="container my-auto">
+      <div class="row align-items-center align-middle">
+          <div class="col-12 col-md-6 col-lg-7 order-md-2">
+
+            <!-- Image -->
+            <img src="assets/img/illustration/incontri-01.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate" alt="..." data-aos="fade-up" data-aos-delay="100">
+
+          </div>
+          <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">                    
+            <!-- Heading -->
+            <h1 class="display-3 text-md-left text-center">
+              <span class="text-red">Ci vuoi</span>
+              incontrare?
+          </h1>
+
+            <!-- Text -->
+            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
+              Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor
+            </p>
+
+            <!-- Buttons -->
+            <div class="text-center text-md-left">
+              <a href="overview.html" class="btn btn-red shadow text-center mr-1">
+                  Scrivici una mail
+              </a>
+              <a href="docs/index.html" class="btn btn-primary-soft lift">
+                Domande frequenti
+              </a>
+            </div>
+
+          </div>
+        </div>
+    </div>
+</section>
+{% include date.html 
+    title1=site.data.incontri.sezione1.data1.titolo
+    description1=site.data.incontri.sezione1.data1.descrizione
+    redButton1=site.data.incontri.sezione1.data1.pulsanteRosso
+    button1=site.data.incontri.sezione1.data1.pulsante
+    title2=site.data.incontri.sezione1.data2.titolo
+    description2=site.data.incontri.sezione1.data2.descrizione
+    redButton2=site.data.incontri.sezione1.data2.pulsanteRosso
+    button2=site.data.incontri.sezione1.data2.pulsante
+%}
+{% include date.html 
+    title1=site.data.incontri.sezione2.data1.titolo
+    description1=site.data.incontri.sezione2.data1.descrizione
+    redButton1=site.data.incontri.sezione2.data1.pulsanteRosso
+    button1=site.data.incontri.sezione2.data1.pulsante
+    title2=site.data.incontri.sezione2.data2.titolo
+    description2=site.data.incontri.sezione2.data2.descrizione
+    redButton2=site.data.incontri.sezione2.data2.pulsanteRosso
+    button2=site.data.incontri.sezione2.data2.pulsante
+%}

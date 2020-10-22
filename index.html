@@ -1,0 +1,225 @@
+---
+layout: default
+title: "Home"
+---
+{% include navigation.html %}
+<section class="scene">
+    <div class="container my-auto">
+      <div class="row align-items-center align-middle">
+          <div class="col-12 col-md-5 col-lg-6 order-md-2">
+
+            <!-- Image -->
+            <img src="assets/img/illustration/home-01b.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate" alt="..." data-aos="fade-up" data-aos-delay="100">
+
+          </div>
+          <div class="col-12 col-md-7 col-lg-6 order-md-1 aos-init aos-animate" data-aos="fade-up">                    
+            <!-- Heading -->
+            <h6 class="text-uppercase red aos-init aos-animate text-red text-center">
+              Liceo Scientifico Statale
+            </h6>
+            <h1 class="display-3 text-center">
+             Cosimo De Giorgi
+            </h1>
+
+            <!-- Text -->
+            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
+                {{site.data.home.sezione1.sottotitolo}}
+            </p>
+
+            <!-- Buttons -->
+            <div class="text-center text-md-left">
+              <a href="overview.html" class="btn btn-red shadow text-center mr-1">
+                {{site.data.home.sezione1.pulsanteRosso}}
+              </a>
+              <a href="docs/index.html" class="btn btn-primary-soft lift">
+                {{site.data.home.sezione1.pulsante}}
+              </a>
+            </div>
+
+          </div>
+        </div>
+    </div>
+</section>
+<section class="py-8 py-md-11">
+  <div class="container">
+      <div class="row align-items-center">
+          <div class="col-12 col-md-7 col-lg-6 order-md-2 aos-init aos-animate" data-aos="fade-up">
+              <h1 class="display-3 text-md-right">
+                  <span class="text-red">{{site.data.home.sezione2.titoloRosso}}</span>
+                  {{site.data.home.sezione2.titolo}}
+              </h1>
+              <p class="lead text-md-right text-muted mb-6 mb-lg-8">
+                {{site.data.home.sezione2.sottotitolo}}
+                </p>
+          </div>
+          <div class="col-12 col-md-5 col-lg-6 order-md-1">
+              <div class="embed-responsive embed-responsive-16by9">
+                  <video class="embed-responsive-item rounded-lg bg-light shadow-lg" src="https://landkit.goodthemes.co/assets/video/video-1.mp4" autoplay="" loop="" muted="">
+                    Sorry, your browser doesn't support embedded videos,
+                    but don't worry, you can <a href="assets/video/video-1.mp4">download it</a>
+                    and watch it with your favorite video player!
+                  </video>
+                </div>
+              <!-- <img src="src/img/background/video-background.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..."> -->
+          </div>                
+      </div>
+  </div>
+</section>
+<section class="py-8 py-md-11">
+  <div class="container">
+      <div class="row align-items-center">
+          <div class="col-12 col-md-7 col-lg-6 aos-init aos-animate" data-aos="fade-right">
+              <h1 class="display-3 text-md-left">
+                  <span class="text-red">{{site.data.home.sezione3.titoloRosso}}</span>
+                  {{site.data.home.sezione3.titolo}}
+              </h1>
+              <p class="lead text-md-left text-muted mb-6 mb-lg-8">
+                {{site.data.home.sezione3.sottotitolo}}
+              </p>
+              <img src="assets/img/illustration/home-02.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+          </div>
+          <div class="col-12 col-md-5 col-lg-6">
+            {% include toggleBox.html 
+                title=site.data.home.sezione3.toggleBox1.titolo 
+                description=site.data.home.sezione3.toggleBox1.descrizione
+                buttonText=site.data.home.sezione3.toggleBox1.testoPulsante
+                n=1
+            %}            
+            <div class="toggleBox rounded-heavy box d-flex grey bg-dark flex-column text-light px-4_5 p-4_5 mt-3 max open" id="toggleBox-2" data-isOpen="true">
+              <div class="d-flex justify-content-between my-auto">
+                <h2 class="my-auto">Potenziato</h2>
+                <div class="rounded-circle d-flex my-auto bg-white dark-circle icon-circle" id="toggleBox-2-circle" onclick="toggleBox(2)">
+                  <img src="assets/icns/arrow-down-white.svg" width="17" fill="white" class="mx-auto" id="toggleBox-2-icon">
+                </div>
+              </div>
+              <div class="d-flex flex-column" id="toggleBox-2-hidden">
+                <p class="mt-2">
+                  Prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.
+                </p>
+                <div class="d-flex justify-content-between">
+                  <p class="lead mb-0">
+                    <strong class="">2</strong> ore aggiuntive
+                  </p>
+                  <a href="overview.html" class="btn btn-purple shadow text-center btn-rounded-heavy px-4 my-auto mb-0">
+                    Altre informazioni
+                  </a>
+                </div>
+              </div>                                      
+            </div>
+            {% include toggleBox.html 
+                title=site.data.home.sezione3.toggleBox3.titolo 
+                description=site.data.home.sezione3.toggleBox3.descrizione
+                buttonText=site.data.home.sezione3.toggleBox3.testoPulsante
+                n=3
+            %}                       
+      </div>
+  </div>
+</section>
+<section class="py-8 py-md-11" style="background-color: #F2F5F4;">
+  <div class="container">
+      <div class="row align-items-center">
+          <div class="col-12 col-md-7 col-lg-6 aos-init aos-animate order-md-2" data-aos="fade-left">
+              <h1 class="display-3 text-md-right">
+                  <span class="text-red">{{site.data.home.sezione4.titoloRosso}}</span>                        
+                  {{site.data.home.sezione4.titolo}}
+              </h1>
+              <p class="lead text-md-right text-muted mb-6 mb-lg-8">
+                  {{site.data.home.sezione4.sottotitolo}}
+              </p>
+              <img src="assets/img/illustration/home-03.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+          </div>
+          <div class="col-12 col-md-5 col-lg-6 aos-init aos-animate order-md-1" data-aos="fade-right" data-aos-delay="150">
+              <div class="d-flex justify-content-start">
+                  <img src="assets/img/illustration/home-04.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+              </div>                    
+              <h4 class="text-md-left">
+                {{site.data.home.sezione4.paragrafo1.titolo}}
+              </h4>
+              <p class="lead text-md-left text-muted mb-6 mb-lg-8"> 
+                {{site.data.home.sezione4.paragrafo1.sottotitolo}}
+              </p>
+              <h4 class="text-md-left">
+                {{site.data.home.sezione4.paragrafo2.titolo}}
+              </h4>
+              <p class="lead text-md-left text-muted mb-6 mb-lg-8"> 
+                {{site.data.home.sezione4.paragrafo2.sottotitolo}}
+              </p>
+          </div>                         
+      </div>
+  </div>
+</section>
+<section class="py-8 py-md-11">
+  <div class="container">
+      <div class="row align-items-center">
+          <div class="col-12 col-md-7 col-lg-6 aos-init aos-animate" data-aos="fade-right">
+              <h1 class="display-3 text-md-left">
+                  <span class="text-red">{{site.data.home.sezione5.titoloRosso}}</span>                        
+                  {{site.data.home.sezione5.titolo}}
+              </h1>
+              <p class="lead text-md-left text-muted mb-6 mb-lg-8">
+                {{site.data.home.sezione5.sottotitolo}}
+              </p>
+              <img src="assets/img/illustration/home-05.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+          </div>                
+          <div class="col-12 col-md-5 col-lg-6 aos-init aos-animate" data-aos="fade-left" data-aos-delay="150">
+            <div class="rounded-heavy box d-flex bg-dark text-light flex-column p-4_5">
+              <div class="d-flex justify-content-between">
+                <h2 class="my-auto">Lunedì</h2>
+                <div class="d-flex">
+                  <div class="rounded-circle d-flex my-auto" style="height: 40px; width: 40px; background-color: #4C4F51;">
+                    <img src="assets/icns/arrow-down-white.svg" width="17" fill="white" class="mx-auto" style="transform: rotate(90deg);">
+                  </div>
+                  <div class="rounded-circle d-flex my-auto ml-2" style="height: 40px; width: 40px; background-color: #4C4F51;">
+                    <img src="assets/icns/arrow-down-white.svg" width="17" fill="white" class="mx-auto" style="transform: rotate(-90deg);">
+                  </div>
+                </div>                      
+              </div>                   
+            </div>
+            <div class="grey rounded-heavy box d-flex px-4_5 justify-content-between mt-3">
+              <h2 class="my-auto">Italiano</h2>
+              <div class="rounded-circle bg-white d-flex my-auto" style="height: 40px; width: 40px;">
+                <img src="assets/icns/arrow-down.svg" width="20" class="mx-auto">
+              </div>                    
+            </div>
+            <div class="grey rounded-heavy box d-flex px-4_5 justify-content-between mt-3">
+              <h2 class="my-auto">Latino</h2>
+              <div class="rounded-circle bg-white d-flex my-auto" style="height: 40px; width: 40px;">
+                <img src="assets/icns/arrow-down.svg" width="20" class="mx-auto">
+              </div>                    
+            </div>
+            <div class="grey rounded-heavy box d-flex px-4_5 justify-content-between mt-3">
+              <h2 class="my-auto">Fisica</h2>
+              <div class="rounded-circle bg-white d-flex my-auto" style="height: 40px; width: 40px;">
+                <img src="assets/icns/arrow-down.svg" width="20" class="mx-auto">
+              </div>                    
+            </div>
+            <div class="grey rounded-heavy box d-flex px-4_5 justify-content-between mt-3">
+              <h2 class="my-auto">Fisica</h2>
+              <div class="rounded-circle bg-white d-flex my-auto" style="height: 40px; width: 40px;">
+                <img src="assets/icns/arrow-down.svg" width="20" class="mx-auto">
+              </div>                    
+            </div>
+            <div class="grey rounded-heavy box d-flex px-4_5 justify-content-between mt-3">
+              <h2 class="my-auto">Matematica</h2>
+              <div class="rounded-circle bg-white d-flex my-auto" style="height: 40px; width: 40px;">
+                <img src="assets/icns/arrow-down.svg" width="20" class="mx-auto">
+              </div>                    
+            </div>
+            <div class="rounded-heavy box d-flex bg-dark text-light flex-column p-4_5 mt-3">
+              <div class="d-flex justify-content-between">
+                <h2 class="my-auto">Potenziato</h2>
+                <div class="d-flex">
+                  <div class="rounded-circle d-flex my-auto" style="height: 40px; width: 40px; background-color: #4C4F51;">
+                    <img src="assets/icns/arrow-down-white.svg" width="17" fill="white" class="mx-auto" style="transform: rotate(90deg);">
+                  </div>
+                  <div class="rounded-circle d-flex my-auto ml-2" style="height: 40px; width: 40px; background-color: #4C4F51;">
+                    <img src="assets/icns/arrow-down-white.svg" width="17" fill="white" class="mx-auto" style="transform: rotate(-90deg);">
+                  </div>
+                </div>                      
+              </div>                   
+            </div>
+          </div>                         
+      </div>
+  </div>
+</section>
+<script src="assets/js/index.js"></script>

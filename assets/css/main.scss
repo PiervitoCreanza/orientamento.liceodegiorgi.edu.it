@@ -1,0 +1,132 @@
+---
+---
+
+@import "main";
+
+p, h2 {
+    font-family: 'Raleway', sans-serif;    
+}
+h1, h4 {
+    font-family: 'Yeseva One', cursive;
+}
+h2 {
+    font-weight: 900 !important;
+}
+.lead {
+    font-weight: 400 !important;
+}
+.p-4_5 {
+    padding: 2.1rem!important;
+    padding-top: 2rem !important;
+}
+.px-4_5 {
+    padding-left: 2.1rem!important;
+    padding-right: 2.1rem!important;
+}
+
+$red: #C23F00;
+$grey: #F2F5F4;
+$purple: #4951EC;;
+
+.grey {
+    background-color: $grey;
+}
+
+.rounded-heavy {
+    border-radius: 1.2rem;
+}
+.btn-rounded-heavy {
+    border-radius: .6rem !important;
+}
+.box {
+    min-height: 107px;
+}
+
+.text-red {
+    color: $red;
+}
+.btn-red {
+    color: #fff !important;
+    background-color: $red !important;
+    border-color: $red !important;
+}
+.btn-purple {
+    color: #fff !important;
+    background-color: $purple !important;
+    border-color: $purple !important;
+}
+.nav-link {
+    font-size: 1.5rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+@media (min-width: 768px) {
+    .pt-md-11, .py-md-11 {
+        padding-top: 6rem!important;
+    }
+    .scene {
+        height: calc(100vh - 68px);
+        display: flex;
+
+    }
+}
+
+.pt-8, .py-8 {
+    padding-top: 3rem!important;
+    padding-bottom: 3rem!important;
+}
+.embed-responsive {
+    position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
+
+.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: 0;
+}
+.embed-responsive-16by9::before {
+    padding-top: 56.25%;
+}
+.embed-responsive::before {
+    display: block;
+    content: "";
+}
+
+.dark-circle {
+    background-color: #4C4F51 !important;
+    transform: rotate(180deg);
+}
+.icon-circle {
+    height: 40px; 
+    width: 40px;
+}
+
+/* Animations */
+
+.hidden {
+    display: none !important;
+}
+.open {
+    max-height: 900px !important;
+}
+
+.max {
+    max-height: 107px;
+}
+.fade-out {
+    opacity: 0;
+}
+
+.toggleBox {
+    transition: max-height .4s ease, background-color .15s ease-in-out, opacity 5.5s linear;
+    overflow: hidden;
+}

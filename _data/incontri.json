@@ -1,0 +1,30 @@
+{
+    "sezione1": {
+        "data1": {
+            "titolo": "<span class='text-red'>Lunedì 11</span> Novembre?",
+            "descrizione": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+            "pulsanteRosso": "Guarda le foto",
+            "pulsante": "Altre informazioni"
+        },
+        "data2": {
+            "titolo": "<span class='text-red'>Lunedì 11</span> Novembre?",
+            "descrizione": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+            "pulsanteRosso": "Guarda le foto",
+            "pulsante": "Altre informazioni"
+        }
+    },
+    "sezione2": {
+        "data1": {
+            "titolo": "<span class='text-red'>Lunedì 11</span> Novembre?",
+            "descrizione": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+            "pulsanteRosso": "Guarda le foto",
+            "pulsante": "Altre informazioni"
+        },
+        "data2": {
+            "titolo": "<span class='text-red'>Lunedì 11</span> Novembre?",
+            "descrizione": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+            "pulsanteRosso": "Guarda le foto",
+            "pulsante": "Altre informazioni"
+        }
+    }
+}

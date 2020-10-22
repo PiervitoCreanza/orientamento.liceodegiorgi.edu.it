@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body>
+    {{ content}}
+  </body>
+</html>
+
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="assets/css/main.css">
+    <!-- AOS CSS -->
+    <link href="assets/css/aos.css" rel="stylesheet">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;900&family=Yeseva+One&display=swap" rel="stylesheet">
+
+    <title>{{ page.title }} - {{ site.title }}</title>
+  </head>
+  <body data-aos-easing="ease-out-quad" data-aos-duration="700" data-aos-delay="0">      
+      <!-- AOS JS -->
+      <script src="assets/js/aos.js"></script>
+      <script>
+        AOS.init({
+            duration:700,
+            easing:"ease-out-quad",
+            once: true,
+            startEvent: 'DOMContentLoaded',
+            disable: 'mobile'
+        })
+      </script>
+      <!--  <script src="./src/js/index.js"></script> -->
+    <!-- Option 1: Bootstrap Bundle with Popper.js -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

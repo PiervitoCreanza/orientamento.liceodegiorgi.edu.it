@@ -1,0 +1,6 @@
+url: "https://orientamento.lecosimo.it" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Liceo C. De Giorgi" # the name of your site, e.g. ACME Corp.
+lang: "it-IT"
+
+livereload: true

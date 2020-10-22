@@ -1,0 +1,30 @@
+{
+    "sezione1": {
+        "titolo": "<span class='text-red'>Scegli tra</span></br>i nostri progetti",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+    },
+    "sezione2": {
+        "titolo":"<span class='text-red'>Potenziamento</span> Biomedico",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
+    },
+    "sezione3": {
+        "titolo":"<span class='text-red'>Scambi</span> Internazionali",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
+    },
+    "sezione4": {
+        "titolo":"<span class='text-red'>Competizioni</span> Sportive",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
+    },
+    "sezione5": {
+        "titolo":"<span class='text-red'>Innovazione</span> Didattica",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
+    },
+}

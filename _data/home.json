@@ -1,0 +1,45 @@
+{
+    "sezione1": {
+        "sottotitolo": "Qui bisognerebbe scrivere uno slogan semplice ma efficace che occupi possibilmente due righe.",
+        "pulsanteRosso": "Scrivici",
+        "pulsante": "Domande frequenti"
+    },
+    "sezione2": {
+        "titoloRosso": "Possiamo",
+        "titolo": "presentarci?",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+    },
+    "sezione3": {
+        "titoloRosso": "Tre corsi,",
+        "titolo": "per la tua sete di conoscenza",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "toggleBox1": {
+            "titolo": "Ordinario",
+            "descrizione": "Consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+            "testoPulsante": "Altre informazioni"
+        },
+        "toggleBox3": {
+            "titolo": "Cambridge",
+            "descrizione": "Offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
+            "testoPulsante": "Altre informazioni"
+        }
+    },
+    "sezione4": {
+        "titoloRosso": "Vieni a trovarci",
+        "titolo": "nelle nostre due sedi",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "paragrafo1": {
+            "titolo": "Sede centrale",
+            "sottotitolo":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+        },
+        "paragrafo2": {
+            "titolo": "Sede succursale",
+            "sottotitolo":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+        }        
+    },
+    "sezione5": {
+        "titoloRosso": "Simula il tuo",
+        "titolo": "orario scolastico",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+    }
+}
