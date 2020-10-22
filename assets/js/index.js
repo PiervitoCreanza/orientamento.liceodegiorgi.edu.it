@@ -5,13 +5,11 @@ const toggleBox = (n) => {
     let i = document.getElementById(`toggleBox-${n}-icon`)
 
     let isOpen = p.classList.contains("open")
-    console.log(isOpen)
     p.classList.toggle("text-light")
     p.classList.toggle("open")    
     p.classList.toggle("bg-dark")
     h.classList.toggle("fade-out")
     if (isOpen) {
-        console.log(1)
         setTimeout(() => {
             h.classList.toggle("hidden")
             p.classList.toggle("p-4_5")
@@ -19,7 +17,6 @@ const toggleBox = (n) => {
     } else {
         h.classList.toggle("hidden")
         p.classList.toggle("p-4_5")
-        console.log(2)
     }
     
     
