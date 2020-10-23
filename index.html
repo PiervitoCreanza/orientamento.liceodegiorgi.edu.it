@@ -8,7 +8,7 @@ title: "Home"
       <div class="row align-items-center align-middle">
           <div class="col-12 col-md-5 col-lg-6 order-md-2" data-aos="fade-up">
             <!-- Image -->
-            <img src="assets/img/illustration/home-01b.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+            <img src="assets/img/illustration/home-01b-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
 
           </div>
           <div class="col-12 col-md-7 col-lg-6" data-aos="fade-right">                    
@@ -59,13 +59,13 @@ title: "Home"
                     and watch it with your favorite video player!
                   </video>
                 </div>
-              <!-- <img src="src/img/background/video-background.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..."> -->
+              <!-- <img src="src/img/background/video-background-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..."> -->
           </div>                
       </div>
   </div>
 </section>
 <section class="py-8 py-md-11">
-  <div class="container">
+  <div class="container" style="position: relative;">
       <div class="row align-items-center">
           <div class="col-12 col-md-7 col-lg-6" data-aos="fade-right">
               <h1 class="display-3 text-md-left">
@@ -75,7 +75,7 @@ title: "Home"
               <p class="lead text-md-left text-muted mb-6 mb-lg-8">
                 {{site.data.home.sezione3.sottotitolo}}
               </p>
-              <img src="assets/img/illustration/home-02.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+              <img src="assets/img/illustration/home-02-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
           </div>
           <div class="col-12 col-md-5 col-lg-6" data-aos="fade-up">
             {% include toggleBox.html 
@@ -110,10 +110,14 @@ title: "Home"
                 description=site.data.home.sezione3.toggleBox3.descrizione
                 buttonText=site.data.home.sezione3.toggleBox3.testoPulsante
                 n=3
+                class="box-shadow"
             %}                       
-      </div>
+      </div>      
   </div>
 </section>
+<div style="position: relative;">
+  <img src="assets/img/background/background-01.svg" style="position: absolute; bottom: 0; z-index: -1;" class="img-fluid" alt="..." />
+</div>
 <section class="py-8 py-md-11" style="background-color: #F2F5F4;">
   <div class="container">
       <div class="row align-items-center">
@@ -125,11 +129,11 @@ title: "Home"
               <p class="lead text-md-right text-muted mb-6 mb-lg-8">
                   {{site.data.home.sezione4.sottotitolo}}
               </p>
-              <img src="assets/img/illustration/home-03.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+              <img src="assets/img/illustration/home-03-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
           </div>
           <div class="col-12 col-md-5 col-lg-6 aos-init aos-animate order-md-1" data-aos="fade-right" data-aos-delay="150">
               <div class="d-flex justify-content-start">
-                  <img src="assets/img/illustration/home-04.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+                  <img src="assets/img/illustration/home-04-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
               </div>                    
               <h4 class="text-md-left">
                 {{site.data.home.sezione4.paragrafo1.titolo}}
@@ -158,7 +162,7 @@ title: "Home"
               <p class="lead text-md-left text-muted mb-6 mb-lg-8">
                 {{site.data.home.sezione5.sottotitolo}}
               </p>
-              <img src="assets/img/illustration/home-05.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
+              <img src="assets/img/illustration/home-05-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
           </div>                
           <div class="col-12 col-md-5 col-lg-6 aos-init aos-animate" data-aos="fade-left" data-aos-delay="150">
             <div class="rounded-heavy box d-flex bg-dark text-light flex-column p-4_5">
@@ -221,3 +225,4 @@ title: "Home"
       </div>
   </div>
 </section>
+<script src="assets/js/index.js"></script>
