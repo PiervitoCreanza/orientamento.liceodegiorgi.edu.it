@@ -4,3 +4,6 @@ title: "Liceo C. De Giorgi" # the name of your site, e.g. ACME Corp.
 lang: "it-IT"
 
 livereload: true
+
+plugins:
+  - jekyll-sitemap
