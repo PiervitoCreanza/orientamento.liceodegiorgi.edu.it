@@ -15,12 +15,17 @@
         "sottotitolo": "la scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso Orinario, già ricco e soddisfacente, un percorso specifico per l'ambito bio-medico e un percorso che accompagna al conseguimento delle Certificazioni Cambridge.",
         "toggleBox1": {
             "titolo": "Ordinario",
-            "descrizione": "Consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+            "descrizione": "Liceo Scientifico Ordinario consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+            "testoPulsante": "Altre informazioni"
+        },
+        "toggleBox2": {
+            "titolo": "Potenziato",
+            "descrizione": "iceo Scienifico Potenziato prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
             "testoPulsante": "Altre informazioni"
         },
         "toggleBox3": {
             "titolo": "Cambridge",
-            "descrizione": "Offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
+            "descrizione": "Liceo Scientifico - Cambridge offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
             "testoPulsante": "Altre informazioni"
         }
     },
