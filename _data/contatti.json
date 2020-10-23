@@ -1,8 +1,20 @@
 {
     "sezione1": {
-        "titolo": "<span class='text-red'>Vuoi</span> contattarci?",
-        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "titolo": "<span class='text-red'>Vuoi</span> saperne di più?",
+        "sottotitolo": "Vista l'impossibilità di muoversi ques'anno abbibbiamo previsto dverse tipologie di incontri informativi."
+        "sottotitolo": "Vista l'impossibilità di muoversi ques'anno abbibbiamo previsto dverse tipologie di incontri informativi."
+        "sottotitolo": "Incontri di presentazione"
+
+        serie di incontri Incontri online con la Dirigente scolastica e con il Team Orientamento per la presentazione dell’Offerta Formativa. - Venerdì 06 novembre 2020
+        - Venerdì 20 novembre 2020
+        - Venerdì 04 dicembre 2020
+        - Venerdì 18 dicembre 2020
+        - Venerdì 15 gennaio 2021
+        Gli incontri si svolgeranno in modalità on-line dalle ore 17.00 alle ore 18.30.
+        Per partecipare all’incontro il genitore dovrà andare sul sito del Liceo (https://liceodegiorgi.edu.it) e cliccare sul link, quindi scegliere una delle date proposte e compilare e inviare il modulo di iscrizione.
+        Si riceverà una risposta con la conferma della data scelta. Il giorno prima dell’incontro sarà inviato il link di accesso alla videoconferenza.
+        Per ogni incontro si potranno attivare massimo 90 collegamenti.",
         "pulsanteRosso": "Scrivici una mail",
-        "pulsante": "Domande Frequenti"
+        "pulsante": "Domande Frequenti mmm"
     }
 }
