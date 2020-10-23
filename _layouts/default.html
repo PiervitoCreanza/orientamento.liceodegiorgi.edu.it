@@ -4,6 +4,9 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }} - {{ site.title }}</title>
+    {% if page.description %}
+      <meta name="keywords" content="{{ page.description }}">
+    {% endif %}
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -20,19 +23,19 @@
   </head>
   <body data-aos-easing="ease-out-quad" data-aos-duration="700" data-aos-delay="0">      
       <!-- AOS JS -->
-      <script src="assets/js/aos.js"></script>
+      <script src="assets/js/aos.js"></script>      
+      <!-- Option 1: Bootstrap Bundle with Popper.js -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+      {{ content }}
+      <!--  <script src="./src/js/index.js"></script> -->
       <script>
         AOS.init({
             duration:700,
             easing:"ease-out-quad",
-            //once: true,
+            once: true,
             startEvent: 'DOMContentLoaded',
             disable: 'mobile'
         })
       </script>
-      <!-- Option 1: Bootstrap Bundle with Popper.js -->
-    <script src="assets/js/bootstrap.bundle.min.js"></script>
-      {{ content}}
-      <!--  <script src="./src/js/index.js"></script> -->   
   </body>
 </html>
