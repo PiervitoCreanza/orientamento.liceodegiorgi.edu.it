@@ -114,6 +114,12 @@ $purple: #4951EC;;
     height: 45px;
 }
 
+.box-shadow {
+    -webkit-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.1);
+    -moz-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.1);
+    box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.1);
+}
+
 /* Animations */
 
 .hidden {
@@ -132,5 +138,5 @@ $purple: #4951EC;;
 
 .toggleBox {
     transition: max-height .4s ease, background-color .15s ease-in-out, opacity 5.5s linear;
-    overflow: hidden;
+    overflow: hidden;    
 }
