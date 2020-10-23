@@ -10,22 +10,27 @@
         "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
     },
     "sezione3": {
-        "titoloRosso": "Tre corsi,",
-        "titolo": "per la tua sete di conoscenza",
-        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "titoloRosso": "Tre opportunità,",
+        "titolo": "per la tuo futuro",
+        "sottotitolo": "la scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso Orinario, già ricco e soddisfacente, un percorso specifico per l'ambito bio-medico e un percorso che accompagna al conseguimento delle Certificazioni Cambridge.",
         "toggleBox1": {
             "titolo": "Ordinario",
-            "descrizione": "Consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+            "descrizione": "Liceo Scientifico Ordinario consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+            "testoPulsante": "Altre informazioni"
+        },
+        "toggleBox2": {
+            "titolo": "Potenziato",
+            "descrizione": "iceo Scienifico Potenziato prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
             "testoPulsante": "Altre informazioni"
         },
         "toggleBox3": {
             "titolo": "Cambridge",
-            "descrizione": "Offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
+            "descrizione": "Liceo Scientifico - Cambridge offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
             "testoPulsante": "Altre informazioni"
         }
     },
     "sezione4": {
-        "titoloRosso": "Dove Siamo",
+        "titoloRosso": "Dove sono",
         "titolo": "le nostre due sedi",
         "sottotitolo": "Dall’ottobre 2012 il Liceo si articola in due sedi: la sede Centrale in viale De Pietro con gli uffici di Presidenza e Segreteria e con 20 classi e il Polo Didattico di via Pozzuolo con 34 classi. In entrambe le sedi ospitano 1 laboratorio linguistico-multimediale di ultima generazione, 1 laboratorio scientifico polivalente e 1 laboratorio di scienze.",
         "paragrafo1": {
@@ -33,8 +38,8 @@
             "sottotitolo":"La sede centrale, in viale De Pietro ospita la Presidenza e gli uffici di Segreteria. Ci sono anche le 20 classi delle Sezioni A-B-C-D), inoltre il laboratorio linguistico-multimediale, il laboratorio di Fisica, quello di Scienze, l'aula Video e la palestra."
         },
         "paragrafo2": {
-            "titolo": "Sede succursale",
-            "sottotitolo":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+            "titolo": "Polo didattico di via Pozzuolo",
+            "sottotitolo":"Questa è la sede più grande del De Giorgi perchè ospita quest'anno 33 classi delle sezioni E-F-G-H-I-L-M, oltre ad una Aula Magna intitolata ad Ennio De Giorgi, una Biblioteca, i labortori linguistico-multimediale e scientifico."
         }        
     },
     "sezione5": {
