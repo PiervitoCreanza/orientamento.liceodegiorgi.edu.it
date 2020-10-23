@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0">
+   <defs>
+      <style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{clip-path:url(#clip-path-2);}.cls-4{clip-path:url(#clip-path-3);}.cls-5{fill:#f2f5f4;}</style>
+      <clipPath id="clip-path" transform="translate(282.79 -1.44)">
+         <rect class="cls-1" width="1917.89" height="548.68"/>
+      </clipPath>
+      <clipPath id="clip-path-2" transform="translate(282.79 -1.44)">
+         <rect class="cls-1" x="-2.11" y="-44.32" width="1920" height="593"/>
+      </clipPath>
+      <clipPath id="clip-path-3" transform="translate(282.79 -1.44)">
+         <rect class="cls-1" x="-2.11" y="-32.32" width="1920" height="1166"/>
+      </clipPath>
+   </defs>
+   <g id="Livello_2" data-name="Livello 2">
+      <g id="Livello_1-2" data-name="Livello 1">
+         <g class="cls-2">
+            <g class="cls-3">
+               <g class="cls-4">
+                  <path class="cls-5" d="M-2.11,7.68c83.13-22.48,207.88,17.49,284,92,94.24,92.24,61.87,186.45,134,248,104.83,89.44,289.22-10.58,489-62,385.39-99.21,901.33-36.46,1068,220,88.34,135.93,90.13,344.11,9,493-300.25,551-1880,553.88-2196-64C-380.76,608.78-218.36,66.14-2.11,7.68Z" transform="translate(282.79 -1.44)"/>
+               </g>
+            </g>
+         </g>
+      </g>
+   </g>
+</svg>
