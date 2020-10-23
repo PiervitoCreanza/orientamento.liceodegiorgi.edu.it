@@ -1,3 +1,13 @@
+
 <filesMatch ".(css|jpg|jpeg|png|gif|js|ico|svg|mp4)$">
     Header set Cache-Control "max-age=2628000, public"
 </filesMatch>
+
+# Set custom 404 page
+ErrorDocument 404 /404.html
+
+#remove html file extension-e.g. https://example.com/file.html will become https://example.com/file
+RewriteEngine on 
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.html -f
+RewriteRule ^(.*)$ $1.html [NC,L]
