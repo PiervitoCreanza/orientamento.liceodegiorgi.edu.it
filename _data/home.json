@@ -7,12 +7,12 @@
     "sezione2": {
         "titoloRosso": "Possiamo",
         "titolo": "presentarci?",
-        "sottotitolo": "Il Regio Liceo Scientifico di Lecce, intitolato a Cosimo De Giorgi l’anno dopo la sua nascita, fu uno dei primi licei scientifici nati dopo l’istituzione di questo tipo di scuola con la riforma Gentile nel 1923. In questi quasi 100 anni ha curato la formazione umana e culturale di generazioni di giovani salentini.Oggi accoglie nelle sue due sedi circa 1400 studenti suddivisi in 53 classi."
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
     },
     "sezione3": {
         "titoloRosso": "Tre opportunità,",
         "titolo": "per la tuo futuro",
-        "sottotitolo": "La scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso Orinario, già ricco e soddisfacente, un percorso specifico per l'ambito bio-medico e un percorso che accompagna al conseguimento delle Certificazioni Cambridge.",
+        "sottotitolo": "la scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso Orinario, già ricco e soddisfacente, un percorso specifico per l'ambito bio-medico e un percorso che accompagna al conseguimento delle Certificazioni Cambridge.",
         "toggleBox1": {
             "titolo": "Ordinario",
             "descrizione": "Liceo Scientifico Ordinario consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
@@ -20,7 +20,7 @@
         },
         "toggleBox2": {
             "titolo": "Potenziato",
-            "descrizione": "Liceo Scienifico Potenziato prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
+            "descrizione": "iceo Scienifico Potenziato prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
             "testoPulsante": "Altre informazioni"
         },
         "toggleBox3": {
