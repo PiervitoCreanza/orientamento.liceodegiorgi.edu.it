@@ -1,21 +1,10 @@
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }} - {{ site.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
-  </head>
-  <body>
-    {{ content}}
-  </body>
-</html>
-
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }} - {{ site.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css">
     <!-- Custom CSS -->
@@ -36,14 +25,14 @@
         AOS.init({
             duration:700,
             easing:"ease-out-quad",
-            once: true,
+            //once: true,
             startEvent: 'DOMContentLoaded',
             disable: 'mobile'
         })
       </script>
-      <!--  <script src="./src/js/index.js"></script> -->
-    <!-- Option 1: Bootstrap Bundle with Popper.js -->
+      <!-- Option 1: Bootstrap Bundle with Popper.js -->
     <script src="assets/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/js/index.js"></script>
+      {{ content}}
+      <!--  <script src="./src/js/index.js"></script> -->   
   </body>
 </html>
