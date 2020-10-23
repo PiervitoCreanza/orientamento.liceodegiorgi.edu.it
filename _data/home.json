@@ -41,10 +41,5 @@
             "titolo": "Polo didattico di via Pozzuolo",
             "sottotitolo":"Questa è la sede più grande del De Giorgi perchè ospita quest'anno 33 classi delle sezioni E-F-G-H-I-L-M, oltre ad una Aula Magna intitolata ad Ennio De Giorgi, una Biblioteca, i labortori linguistico-multimediale e scientifico."
         }        
-    },
-    "sezione5": {
-        "titoloRosso": "Simula il tuo",
-        "titolo": "orario scolastico --- pag DIDATTICA",
-        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
-    }
+    }    
 }

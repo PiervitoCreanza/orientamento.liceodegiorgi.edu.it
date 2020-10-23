@@ -1,0 +1,13 @@
+{
+    "sezione1": {
+        "titolo": "<span class='text-red'>Questo è </span></br> un bel titolo",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "pulsanteRosso": "Contattaci",
+        "pulsante": "Domande frequenti"
+    },
+    "sezione5": {
+        "titoloRosso": "Simula il tuo",
+        "titolo": "orario scolastico",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
+    }
+}
