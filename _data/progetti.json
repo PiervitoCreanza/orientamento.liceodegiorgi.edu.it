@@ -4,19 +4,19 @@
         "sottotitolo": "Le opportunità di ampliamento dell'Offerta Formativa sono tantissime. Si tratta di Progetti extra curricolari che permettono agli studenti di approfondire interessi personali, affinare attitudini, condividere esperienze culturali e artistiche."
     },
     "sezione2": {
-        "titolo":"<span class='text-red'>Promozione</span> della lettura",
-        "sottotitolo": "In coerenza con l’obiettivo del PTOF di potenziamento delle abilità di lettura e scrittura, anche in modalità digitale, da diversi anni promuoviamo numerose iniziative di promozione della lettura e diffusione della sua pratica.<br> Ecco allora iniziative come Il Quotidiano in classe, promosso dall’Osservatorio Permanente Giovani Editori, con la lettura dei quotidiani Corriere della Sera e Il Sole 24Ore, con l’obiettivo di aiutare i giovani di oggi a diventare lettori critici di domani in grado di riconoscere l’informazione di qualità dal resto dell’informazione, ma soprattutto cittadini partecipi alla vita democratica del nostro Paese e dotati di un sempre più forte spirito critico e senso civico; <br>Progetto Pon Biblioteche scolastiche innovative - Piattaforma MLOL, che permette la lettura on-line di diverse testate giornalistiche e riviste specialistiche;<br> <i>#io leggo perché</i>: una grande raccolta di libri a sostegno delle biblioteche scolastiche attraverso donazioni;<br> Incontri con gli Autori in collaborazione con le librerie del territorio; <br> Biblioteca scolastica, un grande spazio di incontro, per conoscere l’importante patrimonio librario disponibili in Istituto, al fine di incentivare la lettura nei ragazzi. <br>",
+        "titolo":"<span class='text-red'>Potenziamento</span> Biomedico",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
         "pulsanteRosso": "Guarda le foto",
         "pulsante": "Prospetto del cordo"
     },
     "sezione3": {
-        "titolo":"<span class='text-red'>la Redazione di</span> LeCosimo",
-        "sottotitolo": "Il giornale scolastico online <i>LeCosimò<i> nasce nell’anno scolastico 2017/18 dalla volontà degli studenti del De Giorgi di avere una propria forma di espressione, di informazione libera e coinvolgente. Con un'edizione globale ogni 15 giorni riceve costanti aggiornamenti per non perdere nessuna notizia sull’attualità nazionale, ma anche specifico mondo del Liceo. <br>La Redazione si articola in diverse sezioni che vanno dalla musica, all’attualità, passando per lo sport, la fotografia e molto altro, e si avvale della collaborazione degli insegnanti, di tutti gli studenti del Liceo e di figure esterne che molto spesso offrono spontaneamente il proprio contributo per implementare l’edizione in uscita. Articoli dai temi più leggeri e scherzosi vengono intervallati da veri e propri spunti di riflessione e spesso accompagnati da interviste o servizi disponibili sul canale YouTube collegato al giornale e gallery fotografiche pubblicate sul sito stesso. <br>Dallo scorso anno è attiva una web-radio da ascoltare in podcast ed è attiva una collaborazione per una trasmissione in diretta su portalecce.it dal titolo #facciamoscuola.",
+        "titolo":"<span class='text-red'>Scambi</span> Internazionali",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
         "pulsanteRosso": "Guarda le foto",
         "pulsante": "Prospetto del cordo"
     },
     "sezione4": {
-        "titolo":"<span class='text-red'>La grande</span> Orchestra",
+        "titolo":"<span class='text-red'>Competizioni</span> Sportive",
         "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
         "pulsanteRosso": "Guarda le foto",
         "pulsante": "Prospetto del cordo"
@@ -26,5 +26,23 @@
         "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
         "pulsanteRosso": "Guarda le foto",
         "pulsante": "Prospetto del cordo"
+    },
+    "sezione6": {
+        "titolo":"<span class='text-red'>Promozione</span> della lettura",
+        "sottotitolo": "In coerenza con l’obiettivo del PTOF di potenziamento delle abilità di lettura e scrittura, anche in modalità digitale, da diversi anni promuoviamo numerose iniziative di promozione della lettura e diffusione della sua pratica.<br> Ecco allora iniziative come Il Quotidiano in classe, promosso dall’Osservatorio Permanente Giovani Editori, con la lettura dei quotidiani Corriere della Sera e Il Sole 24Ore, con l’obiettivo di aiutare i giovani di oggi a diventare lettori critici di domani in grado di riconoscere l’informazione di qualità dal resto dell’informazione, ma soprattutto cittadini partecipi alla vita democratica del nostro Paese e dotati di un sempre più forte spirito critico e senso civico; <br>Progetto Pon Biblioteche scolastiche innovative - Piattaforma MLOL, che permette la lettura on-line di diverse testate giornalistiche e riviste specialistiche;<br> <i>#io leggo perché</i>: una grande raccolta di libri a sostegno delle biblioteche scolastiche attraverso donazioni;<br> Incontri con gli Autori in collaborazione con le librerie del territorio; <br> Biblioteca scolastica, un grande spazio di incontro, per conoscere l’importante patrimonio librario disponibili in Istituto, al fine di incentivare la lettura nei ragazzi. <br>",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
+    },
+    "sezione7": {
+        "titolo":"<span class='text-red'>la Redazione di</span> LeCosimo",
+        "sottotitolo": "Il giornale scolastico online <i>LeCosimò<i> nasce nell’anno scolastico 2017/18 dalla volontà degli studenti del De Giorgi di avere una propria forma di espressione, di informazione libera e coinvolgente. Con un'edizione globale ogni 15 giorni riceve costanti aggiornamenti per non perdere nessuna notizia sull’attualità nazionale, ma anche specifico mondo del Liceo. <br>La Redazione si articola in diverse sezioni che vanno dalla musica, all’attualità, passando per lo sport, la fotografia e molto altro, e si avvale della collaborazione degli insegnanti, di tutti gli studenti del Liceo e di figure esterne che molto spesso offrono spontaneamente il proprio contributo per implementare l’edizione in uscita. Articoli dai temi più leggeri e scherzosi vengono intervallati da veri e propri spunti di riflessione e spesso accompagnati da interviste o servizi disponibili sul canale YouTube collegato al giornale e gallery fotografiche pubblicate sul sito stesso. <br>Dallo scorso anno è attiva una web-radio da ascoltare in podcast ed è attiva una collaborazione per una trasmissione in diretta su portalecce.it dal titolo #facciamoscuola.",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
+    },
+    "sezione8": {
+        "titolo":"<span class='text-red'>La grande</span> Orchestra",
+        "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
+        "pulsanteRosso": "Guarda le foto",
+        "pulsante": "Prospetto del cordo"
     }
-}
+} 
