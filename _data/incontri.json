@@ -1,40 +1,67 @@
 {
     "sezione1": {
         "titolo": "<span class='text-red'>Ci vuoi</span> incontrare?",
-        "sottotitolo": "Vista l'impossibilità di muoversi ques'anno abbibbiamo previsto diverse tipologie di incontri informativi."
+        "sottotitolo": "Vista l'impossibilità di muoversi ques'anno abbiamo previsto diverse tipologie di incontri informativi."
     },
     "sezione2": {
-        "data1": {
-            "titolo": "<span class='text-red'>Presentazione</span> dell'Offeta Formativa",
-            "descrizione": "Nelle date sotto elencate, dalle ore 17.00 alle ore 18.30 sono previsti degli incontri online con la Dirigente Scolastica, prof.ssa Giovanna Caretto, e con il Team Orientamento per la presentazione dell’Offerta Formativa. <br> Per partecipare all’incontro il genitore dovrà cliccare sul bottone collegato al Modulo di Prenotazione, compilarlo e inviarlo.<br> Si riceverà una risposta con la conferma della data scelta. Il giorno prima dell’incontro sarà inviato il link di accesso alla videoconferenza. <br> Per ogni incontro si potranno attivare massimo 90 collegamenti. <br> <br> - Venerdì 6 Novembre <br> - Venerdì 20 Novembre <br> - Venerdì 4 Dicembre <br> - Venerdì 18 Dicembre <br> - Venerdì 15 Gennaio",
-            "pulsanteRosso": "Vai al Modulo",
-            "pulsante": "Altre informazioni"
-        },
-        "data2": {
-            "titolo": "<span class='text-red'>Sportello</span> Orientamento",
-            "descrizione": "Nelle date sotto elencate, dalle ore 17.00 alle ore 18.00, in modalità online è possibile incontrare i docenti referenti per l'Orientamento: prof.ssa Maria Rosaria Arlotta e la prof.ssa Giusi Ricciato. <br> Per partecipare all’incontro il genitore dovrà cliccare sul bottone collegato al Modulo di Prenotazione, compilarlo e inviarlo. Si riceverà una risposta con la conferma della data scelta. Il giorno prima dell’incontro sarà inviato il link di accesso a Meet di Google. <br> <br> - Martedì 10 Novembre <br> - Martedì 01 Dicembre<br> - Martedì 12 Gennaio<br> - Martedì 19 Gennaio <br> <br> ",
-            "pulsanteRosso": "Vai al Modulo",
-            "pulsante": "Altre informazioni"
-         },
-     "data3": {
-            "titolo": "<span class='text-red'>Colloqui</span> Individuali",
-            "descrizione": "Le docenti referenti per l’Orientamento in Ingresso offriranno supporto individuale per informazioni e chiarimenti tutti i lunedì pomeriggio, dalle ore 16.00 alle ore 18.00, a partire dal 26 ottobre 2020 e sino al termine delle iscrizioni. ",
-            "pulsanteRosso": "Manda una Mail",
-            "pulsante": "Altre informazioni"
-        }
+        "titolo": "<span class='text-red'>Presentazione</span></br> dell'Offeta Formativa",
+        "sottotitolo": "La Dirigente Scolastica, prof.ssa Giovanna Caretto, e il Team Orientamento ti presenteranno l’Offerta Formativa della scuola. <span class='text-red'>Vuoi partecipare? Scegli una data e clicca su Prenota ora!</span>",
+        "date": [
+            {
+                "giorno": "Venerdì 6",
+                "mese": "Novembre",
+                "orario": "Dalle 17 alle 18:30"
+            },
+            {
+                "giorno": "Venerdì 20",
+                "mese": "Novembre",
+                "orario": "Dalle 17 alle 18:30"
+            },
+            {
+                "giorno": "Venerdì 4",
+                "mese": "Dicembre",
+                "orario": "Dalle 17 alle 18:30"
+            },
+            {
+                "giorno": "Venerdì 18",
+                "mese": "Dicembre",
+                "orario": "Dalle 17 alle 18:30"
+            },
+            {
+                "giorno": "Venerdì 15",
+                "mese": "Gennaio",
+                "orario": "Dalle 17 alle 18:30"
+            }
+        ]
     },
     "sezione3": {
-        "data1": {
-            "titolo": "<span class='text-red'>Colloqui</span> Individuali",
-            "descrizione": "Le docenti referenti per l’Orientamento in Ingresso offriranno supporto individuale per informazioni e chiarimenti tutti i lunedì pomeriggio, dalle ore 16.00 alle ore 18.00, a partire dal 26 ottobre 2020 e sino al termine delle iscrizioni.",
-            "pulsanteRosso": "Manda una Mail ",
-            "pulsante": "Altre informazioni"
-        },
-        "data2": {
-            "titolo": "<span class='text-red'>Lunedì 11</span> Novembre?",
-            "descrizione": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor",
-            "pulsanteRosso": "Guarda le foto",
-            "pulsante": "Altre informazioni"
-        }
+        "titolo": "<span class='text-red'>Scegliere</span></br> un titolo",
+        "sottotitolo": "I docenti referenti per l'Orientamento: prof.ssa Maria Rosaria Arlotta e la prof.ssa Giusi Ricciato sono pronti a rispondere a ogni tuo dubbio o incertezza. Il giorno prima dell’incontro ti sarà inviato il link di accesso a Meet di Google. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br>",
+        "date": [
+            {
+                "giorno": "Martedì 10",
+                "mese": "Novembre",
+                "orario": "Dalle 17 alle 18:00"
+            },
+            {
+                "giorno": "Martedì 1",
+                "mese": "Dicembre",
+                "orario": "Dalle 17 alle 18:00"
+            },
+            {
+                "giorno": "Martedì 12",
+                "mese": "Gennaio",
+                "orario": "Dalle 17 alle 18:00"
+            },
+            {
+                "giorno": "Martedì 19",
+                "mese": "Gennaio",
+                "orario": "Dalle 17 alle 18:00"
+            }
+        ]
+    },
+    "sezione4": {
+        "titolo": "<span class='text-red'>Colloqui</span></br> Individuali",
+        "sottotitolo": "Le docenti referenti per l’Orientamento in Ingresso offriranno <span class='text-red'>supporto individuale</span> per informazioni e chiarimenti <span class='text-red'>tutti i lunedì</span> pomeriggio, <span class='text-red'>dalle ore 16.00 alle ore 18.00</span>, a partire <span class='text-red'>dal 26 ottobre 2020</span> e sino al termine delle iscrizioni."
     }
 }

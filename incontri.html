@@ -6,53 +6,101 @@ title: "Incontri"
 <section class="scene">
     <div class="container my-auto">
       <div class="row align-items-center align-middle">
-          <div class="col-12 col-md-6 col-lg-7 order-md-2" data-aos="fade-left" data-aos-delay="100">
-
-            <!-- Image -->
-            <img src="assets/img/illustration/incontri-01-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate" alt="...">
-
-          </div>
-          <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">                    
-            <!-- Heading -->
-            <h1 class="display-3 text-md-left text-center">
-              {{site.data.incontri.sezione1.titolo}}
-          </h1>
-
-            <!-- Text -->
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
-                {{site.data.incontri.sezione1.sottotitolo}}
-            </p>
-            <!-- Buttons -->
-            <div class="text-center text-md-left">
-              <a href="overview.html" class="btn btn-red shadow text-center mr-1">
-                  Scrivici una mail
-              </a>
-              <a href="docs/index.html" class="btn btn-primary-soft lift">
-                Domande frequenti
-              </a>
-            </div>
-
-          </div>
+        <div class="col-12 col-md-6 col-lg-7 order-md-2" data-aos="fade-left" data-aos-delay="100">
+          <!-- Image -->
+          <img src="assets/img/illustration/incontri-01-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate" alt="...">
         </div>
+        <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">                    
+          <!-- Heading -->
+          <h1 class="display-3 text-md-left text-center">
+            {{site.data.incontri.sezione1.titolo}}
+        </h1>
+
+          <!-- Text -->
+          <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
+              {{site.data.incontri.sezione1.sottotitolo}}
+          </p>
+          <!-- Buttons -->
+          <div class="text-center text-md-left">
+            <a href="overview.html" class="btn btn-red shadow text-center mr-1">
+                Scrivici una mail
+            </a>
+            <a href="docs/index.html" class="btn btn-primary-soft lift">
+              Domande frequenti
+            </a>
+          </div>
+          </div>
+        </div>        
     </div>
 </section>
-{% include date.html 
-    title1=site.data.incontri.sezione3.data1.titolo
-    description1=site.data.incontri.sezione3.data1.descrizione
-    redButton1=site.data.incontri.sezione3.data1.pulsanteRosso
-    button1=site.data.incontri.sezione3.data1.pulsante
-    title2=site.data.incontri.sezione3.data2.titolo
-    description2=site.data.incontri.sezione3.data2.descrizione
-    redButton2=site.data.incontri.sezione3.data2.pulsanteRosso
-    button2=site.data.incontri.sezione3.data2.pulsante
-%}
-{% include date.html 
-    title1=site.data.incontri.sezione3.data1.titolo
-    description1=site.data.incontri.sezione3.data1.descrizione
-    redButton1=site.data.incontri.sezione3.data1.pulsanteRosso
-    button1=site.data.incontri.sezione3.data1.pulsante
-    title2=site.data.incontri.sezione3.data2.titolo
-    description2=site.data.incontri.sezione3.data2.descrizione
-    redButton2=site.data.incontri.sezione3.data2.pulsanteRosso
-    button2=site.data.incontri.sezione3.data2.pulsante
-%}
+<section class="py-8 py-md-11">
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div class="col-12" data-aos="fade-up">                    
+        <!-- Heading -->
+        <h1 class="display-3 text-center">
+          {{site.data.incontri.sezione2.titolo}}
+      </h1>
+        <!-- Text -->
+        <p class="lead text-center text-muted mb-6 mb-lg-8">
+            {{site.data.incontri.sezione2.sottotitolo}}
+        </p>
+        <div class="row align-items-center align-middle justify-content-center">
+          {% for item in site.data.incontri.sezione2.date %}
+            {% include date.html 
+              day=item.giorno
+              month= item.mese
+              time=item.orario
+              description=item.descrizione
+            %}
+          {% endfor %}
+        </div>
+        </div>
+        </div>
+      </div>        
+  </div>
+</section>
+<section class="py-8 py-md-11">
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div class="col-12">                    
+        <!-- Heading -->
+        <h1 class="display-3 text-center">
+          {{site.data.incontri.sezione3.titolo}}
+      </h1>
+        <!-- Text -->
+        <p class="lead text-center text-muted mb-6 mb-lg-8">
+            {{site.data.incontri.sezione3.sottotitolo}}
+        </p>
+        <div class="row align-items-center align-middle justify-content-center">
+          {% for item in site.data.incontri.sezione3.date %}
+            {% include date.html 
+              day=item.giorno
+              month= item.mese
+              time=item.orario
+              description=item.descrizione
+            %}
+          {% endfor %}
+        </div>
+        </div>
+        </div>
+      </div>        
+  </div>
+</section>
+<section class="py-8 py-md-11">
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div class="col-12">                    
+        <!-- Heading -->
+        <h1 class="display-3 text-center">
+          {{site.data.incontri.sezione4.titolo}}
+      </h1>
+        <!-- Text -->
+        <p class="lead text-center text-muted mb-6 mb-lg-8">
+            {{site.data.incontri.sezione4.sottotitolo}}
+        </p>
+        </div>
+        </div>
+      </div>        
+  </div>
+</section>

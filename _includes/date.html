@@ -1,39 +1,14 @@
-<section class="py-8 py-md-11">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-12 col-md-6 aos-init aos-animate" data-aos="fade-up">
-                <h1 class="display-3 text-center">
-                    {{ include.title1 }}
-                </h1>
-                <p class="lead text-center text-muted mb-6 mb-lg-6">
-                    {{ include.description1 }}
-                </p>
-                <!-- Buttons -->
-              <div class="text-center mb-6">
-                <a href="overview.html" class="btn btn-red shadow text-center mr-1">
-                    {{ include.redButton1 }}
-                </a>
-                <a href="docs/index.html" class="btn btn-primary-soft lift">
-                    {{ include.button1 }}
-                </a>
-              </div>
-            </div>
-            <div class="col-12 col-md-6 aos-init aos-animate" data-aos="fade-up">
-                <h1 class="display-3 text-center">
-                    {{ include.title2 }}
-                </h1>
-                <p class="lead text-center text-muted mb-6 mb-lg-6">
-                    {{ include.description2 }}
-                </p>
-                <div class="text-center mb-6">
-                    <!-- Buttons -->
-                    <a href="overview.html" class="btn btn-red shadow text-center mr-1">
-                        {{ include.redButton2 }}
-                    </a>
-                    <a href="docs/index.html" class="btn btn-primary-soft lift">
-                        {{ include.button2 }}
-                    </a>
-            </div>                
-        </div>
+<div class="col-6 col-md-4 mt-5">
+    <h1 class="text-center">
+        <span class='text-red'>{{ include.day }}</span></br>{{ include.month }}
+    </h1>
+    <h6 class="text-center mb-6 mb-lg-6 text-uppercase text-muted">
+        {{ include.time }}
+    </h6>
+    <!-- Buttons -->
+    <div class="text-center mt-3 mb-6">
+    <a href="overview.html" class="btn btn-red shadow text-center mr-1">
+        Prenota ora
+    </a>
     </div>
-  </section>
+</div>
