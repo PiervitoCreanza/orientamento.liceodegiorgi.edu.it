@@ -1,27 +1,28 @@
 <section class="py-8 py-md-11">
-    <div class="container">
-        <div class="row align-items-center">
-            <div class="col-12 col-md-7 col-lg-7 order-md-{{ include.orderMd1 }}" data-aos="fade-up">
-                <h1 class="display-3 text-md-{{ include.alignDirection }}">
-                  {{include.titolo}}
-                </h1>
-                <p class="lead text-md-{{ include.alignDirection }} text-muted mb-6 mb-lg-8">
-                  {{include.sottotitolo}}
-                </p>
-                <!-- Buttons -->
-              <div class="text-center text-md-{{ include.alignDirection }} mb-4">
-                <a href="overview.html" class="btn btn-red shadow text-center mr-1">
-                    {{include.pulsanteRosso}}
-                </a>
-                <a href="docs/index.html" class="btn btn-primary-soft lift">
-                  {{include.pulsante}}
-                </a>
-              </div>
+   <div class="container">
+      <div class="row align-items-center">
+         <div class="col-12 col-md-7 col-lg-7 order-md-{{ include.orderMd1 }}" data-aos="fade-up">
+            <!-- Title -->
+            <h1 class="display-3 text-md-{{ include.alignDirection }}">
+               {{include.titolo}}
+            </h1>
+            <!-- Description -->
+            <p class="lead text-md-{{ include.alignDirection }} text-muted mb-6 mb-lg-8">
+               {{include.sottotitolo}}
+            </p>
+            <!-- Buttons -->
+            <div class="text-center text-md-{{ include.alignDirection }} mb-4">
+               <a href="overview.html" class="btn btn-red shadow text-center mr-1">
+               {{include.pulsanteRosso}}
+               </a>
+               <a href="docs/index.html" class="btn btn-primary-soft lift">
+               {{include.pulsante}}
+               </a>
             </div>
-            <div class="col-12 col-md-5 col-lg-5 order-md-{{ include.orderMd2 }}">
-                <img src="assets/img/illustration/progetti-{{ include.imgIndex }}-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." data-aos="fade-up" data-aos-delay="0">
-                <!-- <img src="src/img/background/video-background-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..."> -->
-            </div>                
-        </div>
-    </div>
-  </section>
+         </div>
+         <div class="col-12 col-md-5 col-lg-5 order-md-{{ include.orderMd2 }}">
+            <img src="assets/img/illustration/progetti-{{ include.imgIndex }}-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." data-aos="fade-up" data-aos-delay="0">
+         </div>
+      </div>
+   </div>
+</section>
