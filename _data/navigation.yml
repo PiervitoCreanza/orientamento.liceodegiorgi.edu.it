@@ -1,6 +1,6 @@
 - name: home
-- name: domande
-- name: progetti
 - name: incontri
-- name: contatti
 - name: didattica
+- name: progetti
+- name: domande
+- name: contatti
