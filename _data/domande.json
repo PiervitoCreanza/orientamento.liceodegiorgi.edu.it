@@ -82,15 +82,15 @@
             ]
         },
         {
-            "argomento": "",
+            "argomento": "Sedi e trasporti",
             "domande": [
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Dove si trova il Liceo <i>De Giorgi</i>?",
+                    "risposta": "Il Liceo ha due sedi: una in Viale De Pietro n. 14 e un'altra in Via Pozzuolo, n. 85."
                 },
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Come posso arrivare a scuola?",
+                    "risposta": "Puoi raggiungere la sede di Viale De Pietro con autobus di linea urbana (fermata su Viale De Pietro) o della società STP (fermata al Foro Boario). <br>La sede di Via Pozzuolo è raggiungibile con un breve tratto a piedi dalle fermate su Viale Grassi (presso Manifattura Tabacchi) e presso il Cimitero Comunale di Lecce. Per maggiori informazioni vedi la Sezione Dove siamo o clicca qui. <br>Se arrivi in bicicletta o motorino, puoi parcheggiare negli spazi dedicati in entrambe le sedi."
                 },
                 {
                     "domanda": "",
@@ -107,15 +107,15 @@
             ]
         },
         {
-            "argomento": "",
+            "argomento": "Il <i>De Giorgi</i> in numeri",
             "domande": [
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Quanti alunni frequentanti? Quante classi ci sono?",
+                    "risposta": "Nell'a.s. 2020-21 frequentano il Liceo 1418 studenti, distribuiti in 53 classi, di cui 20 nella sede di Viale De Pietro e 33 presso il Polo Didattico di Via Pozzuolo."
                 },
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Quanti docenti?",
+                    "risposta": "I docenti del Liceo sono 102.  <br>Il Dirigente Scolastico è la prof.ssa Giovanna Caretto."
                 },
                 {
                     "domanda": "",
