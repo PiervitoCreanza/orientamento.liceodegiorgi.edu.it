@@ -7,19 +7,19 @@
     },
     "domande": [
         {
-            "argomento": "",
+            "argomento": "iscrizioni",
             "domande": [
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Cosa devo fare per iscrivermi?",
+                    "risposta": "L’iscrizione viene fatta on-line, utilizzando un codice personale che ti verrà inviato quando ne farai richiesta al MIUR. Ogni scuola predispone un modulo che descrive le propria offerta formativa e ti offre la possibilità di indicare l'indirizzo e la sede da te scelti. I tuoi insegnanti di terza media ti daranno informazioni su come procedere."
                 },
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Qual è la scadenza per le iscrizioni?",
+                    "risposta": "Non è ancora stata fissata dal Ministero la scadenza precisa. Di solito le iscrizioni devono essere effettuate entro il mese di gennaio."
                 },
                 {
-                    "domanda": "",
-                    "risposta": ""
+                    "domanda": "Posso chiedere di essere in classe con un amico?",
+                    "risposta": "Sì, puoi indicare nella sezione del modulo di iscrizione dedicata alle “note”  il nome della persona con cui vorresti stare.  Il tuo amico dovrà utilizzare lo stesso spazio per chiedere di stare con te."
                 },
                 {
                     "domanda": "",
