@@ -37,3 +37,27 @@ title: "Domande"
         </div>
     </div>
 </section>
+<section class="scene">
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      {% for item in site.data.domande.domande %}
+        {% assign argomento = item.argomento %}
+        {% assign topicIndex = forloop.index %}
+
+        <div class="col-12 mt-5" data-aos="fade-up" data-aos-delay="0"> 
+        <h1 class="display-4 text-md-left text-center text-red">{{argomento}}</h1>
+        
+        {% for domanda in item.domande %}
+        {% assign index = topicIndex | append: "_" | append: forloop.index %}
+
+        {% include faqBox.html 
+          title=domanda.domanda 
+          description=domanda.risposta
+          n=index
+        %}
+        {% endfor %}
+      </div>
+      {% endfor %}
+  </div>
+</section>
+<script src="assets/js/index.js"></script>
