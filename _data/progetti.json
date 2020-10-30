@@ -1,7 +1,7 @@
 {
     "sezione1": {
         "titolo": "<span class='text-red'>Scegli tra</span></br>i nostri progetti",
-        "sottotitolo": "Le opportunità di ampliamento dell'Offerta Formativa sono tantissime. Si tratta di Progetti extra curricolari che permettono agli studenti di approfondire interessi personali, affinare attitudini, condividere esperienze culturali e artistiche."
+        "sottotitolo": " Arricchiamo la nostra offerta formativa con differenti attività progettuali curricolari ed extra curricolari; le attività saranno svolte in presenza o on-line compatibilmente con lo stato di emergenza Covid-19."
     },
     "projects": [
         {
@@ -12,15 +12,15 @@
         },
         {
             "titolo":"<span class='text-red'>Scambi</span> Internazionali",
-            "sottotitolo": " Da anni la scuola persegue una politica di internazionalizzazione con rapporti di confronto e scambio di pratiche formative con altri Licei europei nell’ambito dei Progetti Erasmus+ ed ELvis.<br> Il Liceo promuove periodi di studio all’estero e accoglie studenti stranieri nell’ottica della multiculturalità e dell’inclusione, attraverso scambi internazionali proposti da associazioni di settore.<br><br><b><span class='text-red'>Con tutto il mondo</span> intorno</b><br>Il Liceo Scientifico “De Giorgi” prepara ad un’attiva cittadinanza europea e globale favorendo lo sviluppo di competenze linguistiche ed interculturali che permettono a studenti e studentesse di operare in un contesto multiculturale e di inserirsi con successo in ambiente internazionale di studio e/o lavorativo. <br>Offre opportunità di scambio e di mobilità internazionale realizzate in Erasmus+ ed ELvis in cui sperimentare nuove pratiche didattiche, migliorare le competenze linguistiche, apprendere dalle esperienze vissute con studenti e studentesse degli istituti partner. Gli scambi vedono la condivisione di progetti mirati con scuole inglesi, spagnole (Utebo), tedesche (Freighricht e Engen), Olandesi (Gulpen), Belghe e Danesi.",
+            "sottotitolo": "Il Liceo De Giorgi promuove progetti di partenariato, gemellaggi, attività di scambio, virtuali o in presenza, tramite visite e soggiorni di studio, e stage formativi all’estero in realtà culturali, sociali, produttive, professionali che contribuiscono alla dimensione internazionale del curricolo scolastico e del percorso formativo degli studenti. Di particolare rilievo: <br>- Progetto <b>ELVIS</b> con scambi studenteschi;<br>- Progetto <b>ERASMUS+</b> Elvis Problem Based Learning project for secondary schools; <br>- Progetto <b>ERASMUS+</b> Analyses of ecosystems in Europe according to a comparative approach;<br> Ogni anno diversi studenti partecipano a progetti individuali di studio all’estero o esperienze di orientamento presso Istituzioni internazionali in collaborazione con Organizzazioni del settore.",
             "pulsanteRosso": "Guarda le foto",
-            "pulsante": "Per saperne di più"
+            "pulsante": "vedi il video https://youtu.be/2Ke6r2MB8P0"
         },
         {
             "titolo":"<span class='text-red'>Competizioni</span> Sportive",
             "sottotitolo": "L’istituto aderisce al Centro Sportivo Scolastico, promuovendo la partecipazione a competizioni regionali in numerose discipline: Dama, Scacchi, Atletica, Tennis Tavolo e Beach Volley. Orgoglio del Liceo è la squadra di Step ed Aerobica, da anni sul podio nazionale.",
             "pulsanteRosso": "Guarda le foto",
-            "pulsante": "Prospetto del cordo"
+            "pulsante": "Per saperne di più"
         },
         {
             "titolo":"<span class='text-red'>Orientamento</span> universitario",
@@ -29,16 +29,16 @@
             "pulsante": "Per saperne di più"
         },
         {
-            "titolo":"<span class='text-red'>Competizioni</span> disciplinari",
+            "titolo":"<span class='text-red'>Competizioni</span>disciplinari",
             "sottotitolo": "La didattica curricolare è arricchita da Corsi di approfondimento finalizzati alla partecipazione ad Olimpiadi disciplinari, Certamina, Competizioni nazionali di Debate. La Squadra Olimpionica di Matematica consegue, con continui riscontri, brillanti affermazioni nelle gare nazionali, cui si aggiungono le ottime prestazioni nelle fasi regionali dei Giochi della Chimica.<br><br><b><span class='text-red'>le olimpiadi</span> scientifiche</b><br>Partecipazione con ottimi risultati alle olimpiadi di matematica e di scienze",
             "pulsanteRosso": "Guarda le foto",
             "pulsante": "Prospetto del cordo"
         },
         {
-            "titolo":"<span class='text-red'>Cittadinanza</span> Attiva",
-            "sottotitolo": "Il percorso formativo si completa con attività extracurricolari trasversali di alto senso civico, finalizzate a sensibilizzare e ad educare gli studenti al rispetto dei principi della Costituzione Italiana: l’esperienza giornalistica della Redazione di LeCosimò, il circolo culturale La Bottega di Holden, l’Orchestra del Liceo, la partecipazione attiva al Progetto FAI, le iniziative di Solidarietà e Inclusione.",
+            "titolo":"<span class='text-red'>Cittadinanza</span>Attiva",
+            "sottotitolo": "All'interno del percorso formativo del Liceo De Giorgi, particolare significato rivestono le attività trasversali, curricolari ed extracurriculari, di alto spessore civico che traducono in concrete esperienze di vita i Principi della nostra Carta Costituzionale.",
             "pulsanteRosso": "Guarda le foto",
-            "pulsante": "Prospetto del cordo"
+            "pulsante": "Prospetto del corso"
         },
         {
             "titolo":"<span class='text-red'>Promozione</span> della lettura",
