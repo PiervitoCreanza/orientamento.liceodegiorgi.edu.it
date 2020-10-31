@@ -4,14 +4,23 @@
         "sottotitolo": "Il Liceo individua alcuni fondamentali obiettivi formativi:<br> - potenziamento delle competenze logico-matematiche  e scientifiche; <br> - valorizzazione e potenziamento delle competenze linguistiche, con particolare riferimento alle discipline dell'Italiano,e dell'Inglese, anche mediante l'utilizzo della metodologia CLIL (<i>Content language integrated learning</i>) e con il supporto didattico dei docenti madrelingua;<br> - sviluppo delle competenze di cittadinanza attiva e democratica attraverso l'educazione al dialogo tra le culture, alla solidarietà e alla consapevolezza dei diritti e dei doveri;<br> - potenziamento delle conoscenze in materia giuridica ed economico-finanziaria e di educazione all'autoimprenditorialità;<br> - sviluppo di comportamenti responsabili ispirati alla conoscenza e al rispetto della legalità, della sostenibilità ambientale, dei beni paesaggistici, del patrimonio e delle attività culturali;<br> - sviluppo delle competenze digitali degli studenti, con particolare riguardo al pensiero computazionale, all'utilizzo critico e consapevole dei social network e dei media, alle interazioni con il mondo del lavoro; <br> - potenziamento delle metodologie laboratoriali e delle attività di laboratorio.",
         "pulsanteRosso": "Contatti",
         "pulsante": "-------"
-   
-   
-   
-   
-    },
+ },
+   "sezione2": {
+    "titolo": "<span class='text-red'>Il piano </span></br> Sostegno e Recupero",
+    "sottotitolo": "Il Piano di Sostegno e Recupero mira a promuovere il successo formativo delle studentesse e degli studenti, nel rispetto dei principi di pari opportunità ed equità, con particolare attenzione agli studenti con disagio socioeconomico. Le attività di recupero e consolidamento sono distribuite nell’intero anno scolastico, sia in orario curricolare che extracurricolare, suddivise in tre fasi di intervento.>br><b>Fase 1 - Avvio di anno scolastico</b>: Recupero curricolare per riequilibrare la situazione di partenza, recuperare le macrocarenze e consentire una regolare ed efficace prosecuzione dell’attività didattica del nuovo anno. <br><b>FASE 2 - In corso d’anno scolastico: Recupero curricolare ed extracurricolare </b> Recupero curricolare, per tutto il primo periodo del nuovo anno scolastico (quadrimestre) o per l’intero anno, sono attuate azioni didattiche personalizzate per gli studenti che presentano carenze. E' prevista una prima settimana di riallineamento didattico e/o approfondimento disciplinare prima della sospensione delle lezioni per le vacanze natalizie. Una seconda settimana di riallineamento didattico si svolgerà dopo le valutazioni intermedie del secondo quadrimestre. <br> <b> Recupero extracurricolare con sportelli didattici disciplinari</b>, per tutte le discipline per cui si dispone di organico di potenziamento, da realizzarsi in forma diffusa da ottobre e fino a maggio, a cui gli studenti potranno accedere per scelta individuale o indirizzati dai docenti.  Ciascuno studente, in aggiunta alle attività di riequilibrio e recupero svolte in classe, in relazione alle carenze individuali emerse, potrà liberamente accedere agli sportelli disciplinari di supporto e dovrà intensificare lo studio individuale al fine di colmare tempestivamente le carenze in vista dello scrutinio finale.<br>Sino al perdurare dell’emergenza epidemiologica gli sportelli si svolgeranno in modalità on-line.<br><b> FASE 3 Termine anno scolastico</b>: Dopo il termine delle lezioni saranno avviati i corsi e/o sportelli disciplinari per gli studenti con sospensione del giudizio; tali corsi saranno tutti extracurricolari (giugno-luglio) e saranno attivati per classi parallele, per aree disciplinari o per singole discipline sulla base del numero complessivo di alunni con insufficienze gravi individuati dai CdC e della disponibilità finanziaria dell’Istituto. Le verifiche per il saldo del debito saranno effettuate alla fine di agosto per consentire un adeguato tempo di recupero ed un regolare avvio del nuovo anno scolastico.",
+    "pulsanteRosso": "------",
+    "pulsante": "-------"
+},
     "sezione5": {
         "titoloRosso": "Scegli il tuo",
         "titolo": "quadro orario",
         "sottotitolo": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcor"
-    }
+
+},
+"sezione3": {
+    "titolo": "<span class='text-red'>Seguiamo una </span></br> Metodologia flessibile",
+    "sottotitolo": "Le scelte strategiche del Liceo sono orientate ad un modello organizzativo  che coniughi efficacia ed efficienza delle azioni didattiche, facendo ricorso alle tecnologie multimediali per stimolare gli studenti alla partecipazione attiva al processo di apprendimento. <br>L'implementazione dell'utilizzo delle tecnologie multimediali, in modalità sincrona  ed asincrona, consentirà a ciascuno studente di personalizzare il proprio percorso formativo, di recupero o di potenziamento. La didattica non sarà più limitata nel tempo (ora di lezione) e nello spazio (aula), ma potrà essere fruita a distanza e in momenti diversi. <br>Pur nel rispetto della libertà di insegnamento, ciascun docente  proporrà  pratiche didattiche inclusive e personalizzate, rivolte al successo formativo e alla crescita dello studente come persona e come cittadino.<br>Negli ambienti di apprendimento, in presenza e  a distanza, i docenti utilizzano le TIC (Tecnologie per l'informazione e la comunicazione) per sviluppare negli studenti competenze disciplinari e trasversali.<br>Le metodologie utilizzate, quali cooperative learning, flipped classroom, peer tutoring, debate, digital story telling, sono centrate sul protagonismo degli alunni, sul confronto, sulla rielaborazione condivisa e sulla costruzione collettiva della conoscenza.",
+    "pulsanteRosso": "-------",
+    "pulsante": "-------"
+    }    
 }
