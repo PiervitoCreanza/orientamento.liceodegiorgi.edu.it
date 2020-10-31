@@ -1,31 +1,31 @@
 {
     "sezione1": {
         "sottotitolo": "Il Liceo Scientifico di Lecce, intitolato a Cosimo De Giorgi l’anno dopo la sua istituzione, fu uno dei primi licei scientifici nati dopo la creazione di questo tipo di scuola con la riforma Gentile nel 1923. In questi quasi 100 anni ha curato la formazione umana e culturale di generazioni di giovani salentini. Oggi accoglie nelle sue due sedi circa 1400 studenti suddivisi in 53 classi.",
-        "pulsanteRosso": "Scrivici",
-        "pulsante": "Domande frequenti"
+        "pulsanteRosso": "Contatti",
+        "pulsante": "------"
     },
     "sezione2": {
-        "titoloRosso": "Possiamo",
-        "titolo": "presentarci?",
-        "sottotitolo": "In queste pagine proveremo a presentare in modo essenziale la vita del De Giorgi attraverso la sua storia quasi centenaria, la sua realtà quotidiana, le tante opportunità formative che animano la didattica, le attività extracurricolari che arricchiscono il bagaglio degli studenti di oggi che costruiscono con lungimiranza il loro progetto di vita nel futuro."
+        "titoloRosso": "Vogliamo",
+        "titolo": "presentarci",
+        "sottotitolo": "In queste pagine proveremo a presentare in modo essenziale la vita del <b><i>De Giorgi</b></i> attraverso la sua storia quasi centenaria, la sua realtà quotidiana, le tante opportunità formative che animano la didattica, le attività extracurricolari che arricchiscono il bagaglio degli studenti di oggi che costruiscono con lungimiranza il loro progetto di vita nel futuro."
     },
     "sezione3": {
         "titoloRosso": "Tre opportunità,",
         "titolo": "per la tuo futuro",
-        "sottotitolo": "la scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso Orinario, già ricco e soddisfacente, un percorso specifico per l'ambito bio-medico e un percorso che accompagna al conseguimento delle Certificazioni Cambridge.",
+        "sottotitolo": "La scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso <b><i>Ordinario</b></i>, già ricco e soddisfacente, un percorso specifico per l'ambito <b><i>bio-medico</b></i> e un percorso che accompagna al conseguimento delle <b><i>Certificazioni Cambridge</b></i>.",
         "toggleBox1": {
             "titolo": "Ordinario",
-            "descrizione": "Liceo Scientifico Ordinario: consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+            "descrizione": "<b><i>Liceo Scientifico Ordinario</b></i>: consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
             "testoPulsante": "Altre informazioni"
         },
         "toggleBox2": {
             "titolo": "Potenziato",
-            "descrizione": "Liceo Scienifico Potenziato: prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
+            "descrizione": "<b><i>Liceo Scientifico Potenziato</b></i>: prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
             "testoPulsante": "Altre informazioni"
         },
         "toggleBox3": {
             "titolo": "Cambridge",
-            "descrizione": "Liceo Scientifico - Cambridge offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
+            "descrizione": "<b><i>Liceo Scientifico Cambridge</b></i> offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
             "testoPulsante": "Altre informazioni"
         }
     },
@@ -35,11 +35,11 @@
         "sottotitolo": "Dall’ottobre 2012 il Liceo si articola in due sedi: la sede Centrale in viale De Pietro con gli uffici di Presidenza e Segreteria e con 20 classi e il Polo Didattico di via Pozzuolo con 33 classi. In entrambe le sedi ospitano 1 laboratorio linguistico-multimediale di ultima generazione, 1 laboratorio scientifico polivalente e 1 laboratorio di scienze.",
         "paragrafo1": {
             "titolo": "Sede centrale",
-            "sottotitolo":"La sede centrale, in viale De Pietro ospita la Presidenza e gli uffici di Segreteria. Ci sono anche le 20 classi delle Sezioni A-B-C-D), inoltre il laboratorio linguistico-multimediale, il laboratorio di Fisica, quello di Scienze, l'aula Video e la palestra."
+            "sottotitolo":"La sede centrale, in viale De Pietro ospita la Presidenza e gli uffici di Segreteria. Ci sono anche le 20 classi delle Sezioni A-B-C-D, inoltre il laboratorio linguistico-multimediale, il laboratorio di Fisica, quello di Scienze, l'aula Video e la palestra."
         },
         "paragrafo2": {
             "titolo": "Polo didattico di via Pozzuolo",
-            "sottotitolo":"Questa è la sede più grande del De Giorgi perchè ospita quest'anno 33 classi delle sezioni E-F-G-H-I-L-M, oltre ad una Aula Magna intitolata ad Ennio De Giorgi, una Biblioteca, i labortori linguistico-multimediale e scientifico."
+            "sottotitolo":"Questa è la sede più grande del <b><i>De Giorgi</b></i> perchè ospita quest'anno le 33 classi delle sezioni E-F-G-H-I-L-M, oltre ad una Aula Magna intitolata al matematico salentino <b>Ennio De Giorgi</b>, una Biblioteca, i labortori linguistico-multimediale e scientifico."
         }        
     }    
 }
