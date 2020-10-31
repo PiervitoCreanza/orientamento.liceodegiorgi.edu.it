@@ -35,13 +35,8 @@
             "pulsante": "Prospetto del cordo"
         },        
         {
-<<<<<<< HEAD
             "titolo": "<span class='text-red'>Innovazione</span> didattica",
             "sottotitolo": "Metodologie innovative caratterizzano il curricolo, proposte in ambienti di apprendimento motivanti ed efficaci: il supporto digitale GSuite for Education con tutte le sue applicazioni per la didattica; la piattaforma Spaggiari Classeviva per la comunicazione puntuale e tempestiva con le famiglie; Autocad e Sketchup per la progettazione per la stamp in 3D; Python e il pensiero computazionale per la programmazione digitale.",
-=======
-            "titolo":"<span class='text-red'>Cittadinanza</span>Attiva",
-            "sottotitolo": "All'interno del percorso formativo del Liceo De Giorgi, particolare significato rivestono le attività trasversali, curricolari ed extracurriculari, di alto spessore civico che traducono in concrete esperienze di vita i Principi della nostra Carta Costituzionale.",
->>>>>>> 10059a7da8046f776a14422b24bd9f23bb61243e
             "pulsanteRosso": "Guarda le foto",
             "pulsante": "Prospetto del corso"
         },
