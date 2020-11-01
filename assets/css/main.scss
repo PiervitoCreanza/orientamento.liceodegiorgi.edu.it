@@ -115,9 +115,9 @@ $purple: #4951EC;;
 }
 
 .box-shadow {
-    -webkit-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.1);
-    -moz-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.1);
-    box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.1);
+    -webkit-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.2);
+    -moz-box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.2);
+    box-shadow: 10px 10px 100px 0px rgba(0,0,0,0.2);
 }
 
 /* Animations */
@@ -139,4 +139,8 @@ $purple: #4951EC;;
 .toggleBox {
     transition: max-height .4s ease, background-color .15s ease-in-out, opacity 5.5s linear;
     overflow: hidden;    
+}
+p b {
+    font-family: 'Yeseva One', cursive;
+    font-weight: normal;
 }

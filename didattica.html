@@ -21,19 +21,32 @@ title: "Didattica"
             <!-- Text -->
             <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
                 {{site.data.didattica.sezione1.sottotitolo}}
-            </p>
-            <div class="text-center text-md-left">
-                <a href="/" class="btn btn-red shadow text-center mr-1">
-                    {{site.data.didattica.sezione1.pulsanteRosso}}
-                </a>
-                <a href="https://liceodegiorgi.edu.it" class="btn btn-primary-soft lift">
-                    {{site.data.didattica.sezione1.pulsante}}
-                </a>
-              </div>   
+            </p> 
           </div>
         </div>
     </div>
 </section>
+{% for item in site.data.didattica.sezioni %}
+    {% capture alignDirection %}{% cycle 'left', 'right' %}{% endcapture %}
+    {% capture orderMd1 %}{% cycle '1', '2' %}{% endcapture %}
+    {% capture orderMd2 %}{% cycle '2', '1' %}{% endcapture %}
+    {% assign imgIndex = forloop.index %}
+
+      {% include project.html 
+        titolo=item.titolo
+        sottotitolo=item.sottotitolo
+        pulsanteRosso=item.pulsanteRosso
+        pulsante=item.pulsante
+        alignDirection=alignDirection
+        orderMd1=orderMd1
+        orderMd2=orderMd2
+        img=item.img
+      %}
+{% endfor %}
+
+
+
+
 <section class="py-8 py-md-11">
     <div class="container">
         <div class="row align-items-center">

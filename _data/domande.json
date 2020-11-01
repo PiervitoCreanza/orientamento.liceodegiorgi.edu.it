@@ -3,7 +3,7 @@
         "titolo": "<span class='text-red'>Hai una</span> domanda?",
         "sottotitolo": "Le domande frequenti che possono aiutarti nella fase di scelta e di iscrizione.",
         "pulsanteRosso": "Contattaci",
-        "pulsante": "toglierlo"
+        "pulsante": "Vai alle domande frequenti"
     },
     "domande": [
         {
@@ -20,14 +20,6 @@
                 {
                     "domanda": "Posso chiedere di essere in classe con un amico?",
                     "risposta": "Sì, puoi indicare nella sezione del modulo di iscrizione dedicata alle “note”  il nome della persona con cui vorresti stare.  Il tuo amico dovrà utilizzare lo stesso spazio per chiedere di stare con te."
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
                 }
             ]
         },
@@ -45,14 +37,6 @@
                 {
                     "domanda": "Di quali strumentazioni tecnologiche dispone il Liceo?",
                     "risposta": "Entrambe le sedi del Liceo sono cablate. Ogni aula è dotata di pc e LIM. <br>Sia nella sede centrale che in quella di via Pozzuolo sono presenti laboratori di linguistico-multimediali, di Fisica e di Scienze, biblioteca con aula lettura, aula video, palestra coperta."
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
                 }
             ]
         },
@@ -91,18 +75,6 @@
                 {
                     "domanda": "Come posso arrivare a scuola?",
                     "risposta": "Puoi raggiungere la sede di Viale De Pietro con autobus di linea urbana (fermata su Viale De Pietro) o della società STP (fermata al Foro Boario). <br>La sede di Via Pozzuolo è raggiungibile con un breve tratto a piedi dalle fermate su Viale Grassi (presso Manifattura Tabacchi) e presso il Cimitero Comunale di Lecce. Per maggiori informazioni vedi la Sezione Dove siamo o clicca qui. <br>Se arrivi in bicicletta o motorino, puoi parcheggiare negli spazi dedicati in entrambe le sedi."
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
                 }
             ]
         },
@@ -116,18 +88,6 @@
                 {
                     "domanda": "Quanti docenti?",
                     "risposta": "I docenti del Liceo sono 102.  <br>Il Dirigente Scolastico è la prof.ssa Giovanna Caretto."
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
-                },
-                {
-                    "domanda": "",
-                    "risposta": ""
                 }
             ]
         }

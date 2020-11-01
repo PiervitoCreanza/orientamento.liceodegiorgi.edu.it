@@ -12,17 +12,23 @@
             </p>
             <!-- Buttons -->
             <div class="text-center text-md-{{ include.alignDirection }} mb-4">
-               <a href="overview.html" class="btn btn-red shadow text-center mr-1">
-               {{include.pulsanteRosso}}
+               {% if include.pulsanteRosso.testo %}
+               <a href="{{ include.pulsanteRosso.url }}" target="_blank" class="btn btn-red shadow text-center mr-1">
+               {{ include.pulsanteRosso.testo }}
                </a>
-               <a href="docs/index.html" class="btn btn-primary-soft lift">
-               {{include.pulsante}}
+               {% endif %}
+               {% if include.pulsante.testo %}
+               <a href="{{ include.pulsante.url }}" target="_blank" class="btn btn-primary-soft lift">
+               {{ include.pulsante.testo }}
                </a>
+               {% endif %}
             </div>
          </div>
+         {% if include.img %}
          <div class="col-12 col-md-5 col-lg-5 order-md-{{ include.orderMd2 }}">
-            <img src="assets/img/illustration/progetti-{{ include.imgIndex }}-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." data-aos="fade-up" data-aos-delay="0">
+            <img src="{{ include.img }}" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." data-aos="fade-up" data-aos-delay="0">
          </div>
+         {% endif %}
       </div>
    </div>
 </section>
