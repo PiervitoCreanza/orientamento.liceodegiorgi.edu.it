@@ -1,0 +1,28 @@
+{% for percorso in site.data.orari.percorsi %}
+{% assign index = forloop.index %}
+<div class="mt-5" id="orario-{{ index }}">
+    <h1 class="text-red">{{ percorso.nome }}</h1>
+    <table class="table table-hover" id="{{ percorso.nome }}">
+        <thead>
+          <tr>
+            <th scope="col">Discipline</th>
+            <th scope="col">I anno</th>
+            <th scope="col">II anno</th>
+            <th scope="col">III anno</th>
+            <th scope="col">IV anno</th>
+            <th scope="col">V anno</th>
+          </tr>
+        </thead>
+        <tbody>
+            {% for item in percorso.orario %}
+                <tr>
+                    <th scope="row">{{ item.materia }}</th>
+                    {% for ora in item.ore %}
+                        <td>{{ora}}</td>
+                    {% endfor %}
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
+{% endfor %}
