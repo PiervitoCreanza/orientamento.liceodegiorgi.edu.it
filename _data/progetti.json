@@ -1,7 +1,7 @@
 {
     "sezione1": {
         "titolo": "<span class='text-red'>Scegli tra</span></br>i nostri progetti",
-        "sottotitolo": " Arricchiamo la nostra offerta formativa con differenti attività progettuali curricolari ed extra curricolari; le attività saranno svolte in presenza o on-line compatibilmente con lo stato di emergenza Covid-19."
+        "sottotitolo": "La nostra offerta formativa è arricchita da diverse attività progettuali curricolari ed extra curricolari; le attività saranno svolte in presenza o on-line compatibilmente con lo stato di emergenza Covid-19."
     },
     "projects": [
         {
@@ -31,15 +31,15 @@
             }
         },
         {
-            "titolo":"<span class='text-red'>Competizioni</span> Sportive",
-            "sottotitolo": "L’istituto aderisce al Centro Sportivo Scolastico, promuovendo la partecipazione a competizioni regionali in numerose discipline: Dama, Scacchi, Atletica, Tennis Tavolo e Beach Volley. Orgoglio del Liceo è la squadra di Step ed Aerobica, da anni sul podio nazionale.",
-            "img": "assets/img/illustration/progetti-3-min.png",
+            "titolo":"<span class='text-red'>Potenziamento</span> Linguistico",
+            "sottotitolo": "All’indirizzo Scientifico Cambridge si affiancano Corsi per le certificazioni linguistiche, quali PET - FIRST, C1 ADVANCED e IELTS. Da quest'anno si terrà anche un Corso per il conseguimento del livello C2 PROFICIENCY. Inoltre saranno attivati i Corsi IGCSE per ICT, Chemistry, Computer Science, Global Perspectives, Drama and Film Studies, tenuti da madre-lingua inglese.",
+            "img": "assets/img/illustration/progetti-5-min.png",
             "pulsanteRosso": {
                 "testo": "Guarda le foto",
                 "url": ""
             },
             "pulsante": {
-                "testo": "Per saperne di più",
+                "testo": "Vedi il video",
                 "url": ""
             }
         },
@@ -145,6 +145,19 @@
                 "testo": "Per saperne di più",
                 "url": ""
             }
+        },
+        {
+            "titolo":"<span class='text-red'>Competizioni</span> Sportive",
+            "sottotitolo": "L’istituto aderisce al Centro Sportivo Scolastico, promuovendo la partecipazione a competizioni regionali in numerose discipline: Dama, Scacchi, Atletica, Tennis Tavolo e Beach Volley. Orgoglio del Liceo è la squadra di Step ed Aerobica, da anni sul podio nazionale.",
+            "img": "assets/img/illustration/progetti-3-min.png",
+            "pulsanteRosso": {
+                "testo": "Guarda le foto",
+                "url": ""
+            },
+            "pulsante": {
+                "testo": "Per saperne di più",
+                "url": ""
             }
+        }
     ]
 }

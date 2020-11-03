@@ -7,39 +7,41 @@
     "sezione2": {
         "titoloRosso": "Vogliamo",
         "titolo": "presentarci",
-        "sottotitolo": "In queste pagine proveremo a presentare in modo essenziale la vita del <b><i>De Giorgi</b></i> attraverso la sua storia quasi centenaria, la sua realtà quotidiana, le tante opportunità formative che animano la didattica, le attività extracurricolari che arricchiscono il bagaglio degli studenti di oggi che costruiscono con lungimiranza il loro progetto di vita nel futuro."
+        "sottotitolo": "Presentiamo, in sintesi, uno spaccato di vita del Liceo De Giorgi, dando voce agli studenti, che attraverso le opportunità formative curricolari ed extracurriculari, costruiscono il loro progetto di vita."
     },
     "sezione3": {
-        "titoloRosso": "Tre opportunità,",
+        "titoloRosso": "Tre opzioni di studio,",
         "titolo": "per il tuo futuro",
-        "sottotitolo": "La scelta del Liceo Scientifico ti permette di consolidare una buona formazione di base e defire un chiaro metodo di studio che ti permetteranno di aprire qualsiasi porta verso il tuo futuro. E' proprio questo sguardo al domani che ci ha portato ad affiancare al percorso <b><i>Ordinario</b></i>, già ricco e soddisfacente, un percorso specifico per l'ambito <b><i>bio-medico</b></i> e un percorso che accompagna al conseguimento delle <b><i>Certificazioni Cambridge</b></i>.",
-        "toggleBox1": {
-            "titolo": "Ordinario",
-            "descrizione": "<b><i>Liceo Scientifico Ordinario</b></i>: consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
-            "testoPulsante": "Altre informazioni"
-        },
-        "toggleBox2": {
-            "titolo": "Potenziato",
-            "descrizione": "<b><i>Liceo Scientifico Potenziato</b></i>: prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
-            "testoPulsante": "Altre informazioni"
-        },
-        "toggleBox3": {
-            "titolo": "Cambridge",
-            "descrizione": "<b><i>Liceo Scientifico Cambridge</b></i> offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
-            "testoPulsante": "Altre informazioni"
-        }
+        "sottotitolo": "Studiare al Liceo Scientifico ti permetterà di acquisire un valido metodo di studio ed un'ampia formazione culturale, sia in ambito scientifico che in mabito umanistico. In tale ottica il percorso <b>Ordinario</b> è affiancato da un percorso di <b>Liceo Scientifico Potenziato</b> e da un percorso<b>IGCSE Cambridge</b>",
+        "toggleBoxes": [
+            {
+                "titolo": "Ordinario",
+                "descrizione": "Il <b>Liceo Scientifico Ordinario</b> consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
+                "testoPulsante": "Altre informazioni"
+            },
+            {
+                "titolo": "Potenziato",
+                "descrizione": "Il <b>Liceo Scientifico Potenziato</b> prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
+                "testoPulsante": "Altre informazioni"
+            },
+            {
+                "titolo": "Cambridge",
+                "descrizione": "Il <b>Liceo Scientifico Cambridge</b> offre una prospettiva internazionale, dando la possibilità di conseguire le Certificazioni IGCSE in più discipline. Nel percorso le ore curriculari di Matematica, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. All’insegnamento curriculare della Lingua Inglese si aggiunge un’ora di conversazione con il docente madrelingua.",
+                "testoPulsante": "Altre informazioni"
+            }
+        ]
     },
     "sezione4": {
-        "titoloRosso": "Dove sono",
-        "titolo": "le nostre due sedi",
-        "sottotitolo": "Dall’ottobre 2012 il Liceo si articola in due sedi: la sede Centrale in viale De Pietro con gli uffici di Presidenza e Segreteria e con 20 classi e il Polo Didattico di via Pozzuolo con 33 classi. In entrambe le sedi ospitano 1 laboratorio linguistico-multimediale di ultima generazione, 1 laboratorio scientifico polivalente e 1 laboratorio di scienze.",
+        "titoloRosso": "Le nostre",
+        "titolo": "due sedi",
+        "sottotitolo": "L'istituto è dislocato in due sedi: la Sede Centrale di viale M. De Pietro e il Polo didattico di via Pozzuolo, entrambi dotati di laboratori, palestra e aule dedicate alle diverse attività didattiche.",
         "paragrafo1": {
             "titolo": "Sede centrale",
-            "sottotitolo":"La sede centrale, in viale De Pietro ospita la Presidenza e gli uffici di Segreteria. Ci sono anche le 20 classi delle Sezioni A-B-C-D, inoltre il laboratorio linguistico-multimediale, il laboratorio di Fisica, quello di Scienze, l'aula Video e la palestra."
+            "sottotitolo":"La sede centrale ospita l'ufficio di Presidenza, gli uffici di Segreteria, il laboratorio linguistico-multimediale, un laboratorio di Fisica, di Scienze, una biblioteca, un'aula Video, un'aula Seminari e la palestra."
         },
         "paragrafo2": {
             "titolo": "Polo didattico di via Pozzuolo",
-            "sottotitolo":"Questa è la sede più grande del <b><i>De Giorgi</b></i> perchè ospita quest'anno le 33 classi delle sezioni E-F-G-H-I-L-M, oltre ad una Aula Magna intitolata al matematico salentino <b>Ennio De Giorgi</b>, una Biblioteca, i labortori linguistico-multimediale e scientifico."
-        }        
+            "sottotitolo":"Il polo didattico ospita un ufficio di Segreteria, un laboratorio linguistico-multimediale, un laboratorio di Fisica, di Scienze, una biblioteca, un'aula Video, un'aula Magna e la palestra."
+        }
     }    
 }

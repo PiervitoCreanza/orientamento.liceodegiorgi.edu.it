@@ -1,0 +1,179 @@
+{
+    "percorsi": [
+        {
+            "nome": "Liceo Scientifico Ordinario",
+            "orario": [
+                {
+                    "materia": "Lingua e Letteratura Italiana",
+                    "ore": [4,4,4,4,4]
+                },
+                {
+                    "materia": "Lingua Latina", 
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Lingua e Cultura Inglese",
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Storia e Geografia", 
+                    "ore": [3,3,"-", "-", "-"]
+                },
+                {
+                    "materia": "Storia",
+                    "ore": ["-", "-", 2, 2, 2]
+                },
+                {
+                    "materia": "Filosofia",
+                    "ore": ["-", "-", 3, 3, 3]
+                },
+                {
+                    "materia": "Matematica",
+                    "ore": [5, 5, 4, 4, 4]
+                },
+                {
+                    "materia": "Fisica",
+                    "ore": [2, 2, 3, 3, 3]
+                },
+                {
+                    "materia": "Scienze Naturali",
+                    "ore": [2, 2, 3, 3, 3]
+                },
+                {
+                    "materia": "Disegno e Storia dell'Arte",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Scienze Motorie",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Religione Cattolica, Att. Alternative",
+                    "ore": [1, 1, 1, 1, 1]
+                },
+                {
+                    "materia": "Totale ore",
+                    "ore": [27, 27, 30, 30, 30]
+                }
+            ]
+        },
+        {
+            "nome": "Liceo Scientifico Potenziato",
+            "orario": [
+                {
+                    "materia": "Lingua e Letteratura Italiana",
+                    "ore": [4,4,4,4,4]
+                },
+                {
+                    "materia": "Lingua Latina", 
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Lingua e Cultura Inglese",
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Storia e Geografia", 
+                    "ore": [3,3,"-", "-", "-"]
+                },
+                {
+                    "materia": "Storia",
+                    "ore": ["-", "-", 2, 2, 2]
+                },
+                {
+                    "materia": "Filosofia",
+                    "ore": ["-", "-", 3, 3, 3]
+                },
+                {
+                    "materia": "Matematica",
+                    "ore": [5, 5, 4, 4, 4]
+                },
+                {
+                    "materia": "Fisica",
+                    "ore": ["2+1", 2, 3, 3, 3]
+                },
+                {
+                    "materia": "Scienze Naturali",
+                    "ore": [2, "2+1", 3, 3, 3]
+                },
+                {
+                    "materia": "Disegno e Storia dell'Arte",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Scienze Motorie",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Religione Cattolica, Att. Alternative",
+                    "ore": [1, 1, 1, 1, 1]
+                },
+                {
+                    "materia": "Totale ore",
+                    "ore": [27, 27, 30, 30, 30]
+                }
+            ]
+        },
+        {
+            "nome": "Liceo Scientifico Cambridge IGCSE",
+            "orario": [
+                {
+                    "materia": "Lingua e Letteratura Italiana",
+                    "ore": [4,4,4,4,4]
+                },
+                {
+                    "materia": "Lingua Latina", 
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Lingua e Cultura Inglese",
+                    "ore": [3,3,"2+1","2+1",3]
+                },
+                {
+                    "materia": "Storia e Geografia", 
+                    "ore": [3,3,"-", "-", "-"]
+                },
+                {
+                    "materia": "Storia",
+                    "ore": ["-", "-", 2, 2, 2]
+                },
+                {
+                    "materia": "Filosofia",
+                    "ore": ["-", "-", 3, 3, 3]
+                },
+                {
+                    "materia": "Matematica",
+                    "ore": ["4+1", "4+1", "3+1", "3+1", "3+1"]
+                },
+                {
+                    "materia": "Fisica",
+                    "ore": ["2+1", "2+1", "2+1", "2+1", 3]
+                },
+                {
+                    "materia": "Scienze Naturali",
+                    "ore": ["2+1", "2+1", "2+1", "2+1", 3]
+                },
+                {
+                    "materia": "Disegno e Storia dell'Arte",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Scienze Motorie",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Religione Cattolica, Att. Alternative",
+                    "ore": [1, 1, 1, 1, 1]
+                },
+                {
+                    "materia": "Conversazione in lingua inglese con                    docente madrelingua",
+                    "ore": [1, 1, "-", "-", "-"]
+                },
+                {
+                    "materia": "Totale ore",
+                    "ore": [27, 27, 30, 30, 30]
+                }
+            ]
+        }
+    ]
+}
