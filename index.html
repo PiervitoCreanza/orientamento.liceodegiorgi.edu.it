@@ -72,42 +72,17 @@ title: "Home"
                 {{site.data.home.sezione3.sottotitolo}}
               </p>
               <img src="assets/img/illustration/home-02-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
-          </div>
+          </div>          
           <div class="col-12 col-md-5 col-lg-6" data-aos="fade-up">
+            {% for toggleBox in site.data.home.sezione3.toggleBoxes %}
+            {% assign index = forloop.index0 %}
             {% include toggleBox.html 
-                title=site.data.home.sezione3.toggleBox1.titolo 
-                description=site.data.home.sezione3.toggleBox1.descrizione
-                buttonText=site.data.home.sezione3.toggleBox1.testoPulsante
-                n=1
-            %}            
-            <div class="toggleBox rounded-heavy box d-flex grey bg-dark flex-column text-light px-4_5 p-4_5 mt-3 max open" id="toggleBox-2" data-isOpen="true">
-              <div class="d-flex justify-content-between my-auto">
-                <h2 class="my-auto">{{site.data.home.sezione3.toggleBox2.titolo}}</h2>
-                <div class="rounded-circle d-flex my-auto bg-white dark-circle icon-circle" id="toggleBox-2-circle" onclick="toggleBox(2)">
-                  <img src="assets/icns/arrow-down-white.svg" width="17" fill="white" class="mx-auto" id="toggleBox-2-icon">
-                </div>
-              </div>
-              <div class="d-flex flex-column" id="toggleBox-2-hidden">
-                <p class="mt-2">
-                  {{site.data.home.sezione3.toggleBox2.descrizione}}
-                </p>
-                <div class="d-flex justify-content-between">
-                  <p class="lead mb-0">
-                    <strong class="">2</strong> ore aggiuntive
-                  </p>
-                  <a href="didattica.html" class="btn btn-purple shadow text-center btn-rounded-heavy px-4 my-auto mb-0">
-                    {{site.data.home.sezione3.toggleBox2.testoPulsante}}
-                  </a>
-                </div>
-              </div>                                      
-            </div>
-            {% include toggleBox.html 
-                title=site.data.home.sezione3.toggleBox3.titolo 
-                description=site.data.home.sezione3.toggleBox3.descrizione
-                buttonText=site.data.home.sezione3.toggleBox3.testoPulsante
-                n=3
-                class="box-shadow"
-            %}                       
+              title=toggleBox.titolo 
+              description=toggleBox.descrizione
+              buttonText=toggleBox.testoPulsante
+              n=index
+            %} 
+          {% endfor %}                    
       </div>      
   </div>
 </section>
@@ -146,5 +121,6 @@ title: "Home"
           </div>                         
       </div>
   </div>
+  <iframe width="100%" height="300px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/it/map/liceo-scientifico-de-giorgi-le-sedi_511594?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=1438809#15/40.3560/18.1703"></iframe>
 </section>
 <script src="assets/js/index.js"></script>
