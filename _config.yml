@@ -1,10 +1,15 @@
-url: "https://orientamento.lecosimo.it" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "Liceo C. De Giorgi" # the name of your site, e.g. ACME Corp.
+url: "https://orientamento.lecosimo.it" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site
+title: "Liceo C. De Giorgi" # the name of your site
 lang: "it-IT"
 
-livereload: true
-host: 0.0.0.0
+# SEO
+tagline: "Il Liceo De Giorgi si presenta al pubblico"
+description: "Sei un ragazzo delle scuole medie? Vieni a trovarci per informazioni sulla scuola, la didattica e i docenti."
+
+# Developing settings
+livereload: true # Autoreload on change
+host: 0.0.0.0 # Serve to all local network devices
 
 plugins:
   - jekyll-sitemap
