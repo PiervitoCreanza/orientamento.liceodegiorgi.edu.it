@@ -15,7 +15,7 @@
                 },
                 {
                     "domanda": "Qual è la scadenza per le iscrizioni?",
-                    "risposta": "Non è ancora stata fissata dal Ministero la scadenza precisa. Di solito le iscrizioni devono essere effettuate entro il mese di gennaio."
+                    "risposta": "Il Ministero dell'Istruzione ha fissato l'arcoo di tempo per poter effettuare le iscrizioni: dalle ore 8:00 del 4 gennaio 2021 alle ore 20:00 del 25 gennaio. <br> Ci si potrà registrare sul portale dedicato (www.istruzione.it/iscrizionionline/) già a partire dalle ore 9:00 del 19 dicembre 2020. <br> Chi è in possesso di un'identità digitale (SPID) potrà accedere al servizio utilizzando le credenziali del proprio gestore e senza ulteriori registrazioni."
                 },
                 {
                     "domanda": "Posso chiedere di essere in classe con un amico?",
@@ -52,16 +52,29 @@
                     "risposta": "Il Liceo predispone, dopo un mese dall'avvio delle lezioni e per tutto l'anno scolastico, un piano dettagliato e mirato di supporto agli studenti attraverso gli <b>Sportelli Didattici</b>. Ogni studente può liberamente prenotarsi per avere chiarimenti, per fare approfondimenti, per recuperare argomenti di particolare difficoltà o lezioni eventualmente perse. <br>Sono inoltre previste <b>due settimane di riallineamento didattico</b> nelle ore curricolari, rivolta a tutta la classe, una nella settimana precedente le vacanze di Natale e l'altra a . Durante questo periodo viene sospesa la trattazione del programma per ritornare sui temi importanti ai fini del recupero e dell’approfondimento."
                 },
                 {
-                    "domanda": "Dopo il Liceo che cosa si può fare dopo?",
-                    "risposta": "Il diploma di Liceo Scientifico consente di iscriversi a tutte le facoltà universitarie oppure ai corsi di Istruzione Tecnica Superiore (ITS), permette la partecipazione a concorsi pubblici oppure l'accesso nel mondo del lavoro."
-                },
-                {
                     "domanda": "E' possibile cambiare sezione in caso di particolari motivi?",
                     "risposta": "A fronte di motivi seri e documentati, valutati dal Dirigente, potrai cambiare sezione, considerato inoltre che tutte le sezioni adottano gli stessi libri di testo."
                 },
                 {
                     "domanda": "Mi piace l'Inglese; l'indirizzo Cambridge è quello giusto per me?",
                     "risposta": "Il Liceo Scientifico Cambridge non è un corso linguistico, ma un indirizzo in cui le ore curricolari di Matematica,, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. Inoltre all'insegnamento curricolare della Lingua inglese si aggiunge un'ora di conversazione con il docente madrelingua. Si tratta quindi di un indirizzo che approfondisce le materie scientifiche attraverso il linguaggio settoriale e una metodologia specifica, offrendo una prospettiva internazionale e la possibilità di  conseguire le Certificazioni IGCSE in più discipline."
+                }
+            ]
+        },
+        {
+            "argomento": "Prospettive dopo il Liceo",
+            "domande": [
+                {
+                    "domanda": "Dopo il Liceo che cosa si può fare dopo?",
+                    "risposta": "Il diploma di Liceo Scientifico consente di iscriversi a tutte le facoltà universitarie oppure ai corsi di Istruzione Tecnica Superiore (ITS), permette la partecipazione a concorsi pubblici oppure l'accesso nel mondo del lavoro."
+                },
+                {
+                    "domanda": "Nell'ultimo anno quali aree tematiche hanno scelto i diplomati di questo Liceo?",
+                    "risposta": "32,2% - Area Tecnica   <br> 22,4% - Area Scientifica <br> 15,8% - Area Economico-statistica <br> 8,7% - Area Giuridico-politica <br> 7,6% - Area Medica <br> 5,5% Area Umanistica <br> 4,7% - Area Sanitaria <br> 3% Altro"
+                },
+                    {
+                    "domanda": "In quali Atenei si immatricolano con maggiore frequenza i diplomati di questo Liceo?",
+                    "risposta": "45,4% - Università del Salento <br> 11,1% Politecnico di Torino <br> 6,2% Università Aldo Moro di Bari <br> 37,3% - Altre Università"
                 }
             ]
         },
@@ -73,9 +86,13 @@
                     "risposta": "Il Liceo ha due sedi: una in Viale De Pietro n. 14 e un'altra in Via Pozzuolo, n. 85."
                 },
                 {
-                    "domanda": "Come posso arrivare a scuola?",
-                    "risposta": "Puoi raggiungere la sede di Viale De Pietro con autobus di linea urbana (fermata su Viale De Pietro) o della società STP (fermata al Foro Boario). <br>La sede di Via Pozzuolo è raggiungibile con un breve tratto a piedi dalle fermate su Viale Grassi (presso Manifattura Tabacchi) e presso il Cimitero Comunale di Lecce. Per maggiori informazioni vedi la Sezione Dove siamo o clicca qui. <br>Se arrivi in bicicletta o motorino, puoi parcheggiare negli spazi dedicati in entrambe le sedi."
-                }
+                    "domanda": "E' possibile cambiare sezione in caso di particolari motivi?",
+                    "risposta": "A fronte di motivi seri e documentati, valutati dal Dirigente, potrai cambiare sezione, considerato inoltre che tutte le sezioni adottano gli stessi libri di testo."
+                },
+                {   
+                    "domanda": "Mi piace l'Inglese; l'indirizzo Cambridge è quello giusto per me?",
+                    "risposta": "Il Liceo Scientifico Cambridge non è un corso linguistico, ma un indirizzo in cui le ore curricolari di Matematica,, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. Inoltre all'insegnamento curricolare della Lingua inglese si aggiunge un'ora di conversazione con il docente madrelingua. Si tratta quindi di un indirizzo che approfondisce le materie scientifiche attraverso il linguaggio settoriale e una metodologia specifica, offrendo una prospettiva internazionale e la possibilità di  conseguire le Certificazioni IGCSE in più discipline."
+                }                
             ]
         },
         {
@@ -86,8 +103,16 @@
                     "risposta": "Nell'a.s. 2020-21 frequentano il Liceo 1418 studenti, distribuiti in 53 classi, di cui 20 nella sede di Viale De Pietro e 33 presso il Polo Didattico di Via Pozzuolo."
                 },
                 {
-                    "domanda": "Quanti docenti?",
-                    "risposta": "I docenti del Liceo sono 102.  <br>Il Dirigente Scolastico è la prof.ssa Giovanna Caretto."
+                    "domanda": "Quale è il numero medio dei diplomati per anno?",
+                    "risposta": "Il nuero medio dei diplomati è <b>251</b>"
+                },
+                {
+                    "domanda": "Quanti studenti in media si immatricolano e superano il primo anno universitario?",
+                    "risposta": "L'85% dei diplomati del Liceo che si immatricolano superano il primo anno. <br> La media dei voti al I anno di uNiversità è di <b>26,73</b><br> La media dei crediti acquisiti nel I anno è di <b> 75,26.<br> Gli studenti del Liceo in regola al primo anno universitario è dell'<b>81,1%</b> "
+                },
+                {
+                    "domanda": "Quanti alunni frequentanti? Quante classi ci sono?",
+                    "risposta": "Nell'a.s. 2020-21 frequentano il Liceo 1418 studenti, distribuiti in 53 classi, di cui 20 nella sede di Viale De Pietro e 33 presso il Polo Didattico di Via Pozzuolo."
                 }
             ]
         }

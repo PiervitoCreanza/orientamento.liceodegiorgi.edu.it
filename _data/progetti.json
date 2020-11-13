@@ -39,7 +39,7 @@
                 "url": ""
             },
             "pulsante": {
-                "testo": "Vedi il video",
+                "testo": "Vai il video",
                 "url": ""
             }
         },
@@ -73,12 +73,12 @@
             "titolo": "<span class='text-red'>Innovazione</span> didattica",
             "sottotitolo": "Metodologie innovative caratterizzano il curricolo, proposte in ambienti di apprendimento motivanti ed efficaci: il supporto digitale GSuite for Education con tutte le sue applicazioni per la didattica; la piattaforma Spaggiari Classeviva per la comunicazione puntuale e tempestiva con le famiglie; Autocad e Sketchup per la progettazione per la stamp in 3D; Python e il pensiero computazionale per la programmazione digitale.",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
+                "testo": "--",
                 "url": ""
             },
             "pulsante": {
-                "testo": "inserire il video del premio didattica digitale",
-                "url": ""
+                "testo": "Guarda il video del Premio Scuola Digitale",
+                "url": "https://youtu.be/YyyHZb5Vwyo"
             }
         },
         {
