@@ -79,23 +79,6 @@
             ]
         },
         {
-            "argomento": "Sedi e trasporti",
-            "domande": [
-                {
-                    "domanda": "Dove si trova il Liceo <i>De Giorgi</i>?",
-                    "risposta": "Il Liceo ha due sedi: una in Viale De Pietro n. 14 e un'altra in Via Pozzuolo, n. 85."
-                },
-                {
-                    "domanda": "E' possibile cambiare sezione in caso di particolari motivi?",
-                    "risposta": "A fronte di motivi seri e documentati, valutati dal Dirigente, potrai cambiare sezione, considerato inoltre che tutte le sezioni adottano gli stessi libri di testo."
-                },
-                {   
-                    "domanda": "Mi piace l'Inglese; l'indirizzo Cambridge è quello giusto per me?",
-                    "risposta": "Il Liceo Scientifico Cambridge non è un corso linguistico, ma un indirizzo in cui le ore curricolari di Matematica,, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. Inoltre all'insegnamento curricolare della Lingua inglese si aggiunge un'ora di conversazione con il docente madrelingua. Si tratta quindi di un indirizzo che approfondisce le materie scientifiche attraverso il linguaggio settoriale e una metodologia specifica, offrendo una prospettiva internazionale e la possibilità di  conseguire le Certificazioni IGCSE in più discipline."
-                }                
-            ]
-        },
-        {
             "argomento": "Il <i>De Giorgi</i> in numeri",
             "domande": [
                 {
@@ -115,6 +98,23 @@
                     "risposta": "Nell'a.s. 2020-21 frequentano il Liceo 1418 studenti, distribuiti in 53 classi, di cui 20 nella sede di Viale De Pietro e 33 presso il Polo Didattico di Via Pozzuolo."
                 }
             ]
-        }
+        },
+        {
+            "argomento": "Sedi e trasporti",
+            "domande": [
+                {
+                    "domanda": "Dove si trova il Liceo <i>De Giorgi</i>?",
+                    "risposta": "Il Liceo ha due sedi: una in Viale De Pietro n. 14 e un'altra in Via Pozzuolo, n. 85."
+                },
+                {
+                    "domanda": "E' possibile cambiare sezione in caso di particolari motivi?",
+                    "risposta": "A fronte di motivi seri e documentati, valutati dal Dirigente, potrai cambiare sezione, considerato inoltre che tutte le sezioni adottano gli stessi libri di testo."
+                },
+                {   
+                    "domanda": "Mi piace l'Inglese; l'indirizzo Cambridge è quello giusto per me?",
+                    "risposta": "Il Liceo Scientifico Cambridge non è un corso linguistico, ma un indirizzo in cui le ore curricolari di Matematica,, Fisica e Biologia vengono potenziate con la codocenza di docenti madrelingua inglese esperti in ambito scientifico. Inoltre all'insegnamento curricolare della Lingua inglese si aggiunge un'ora di conversazione con il docente madrelingua. Si tratta quindi di un indirizzo che approfondisce le materie scientifiche attraverso il linguaggio settoriale e una metodologia specifica, offrendo una prospettiva internazionale e la possibilità di  conseguire le Certificazioni IGCSE in più discipline."
+                }                
+            ]
+        }        
     ]
 }
