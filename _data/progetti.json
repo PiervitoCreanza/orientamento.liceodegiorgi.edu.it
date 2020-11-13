@@ -103,8 +103,8 @@
                 "url": ""
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "Vai al video de <i>la favola dei suoni</i>",
+                "url": "https://youtu.be/2rE9ZOKmDhI"
             }
         },
         {
@@ -129,8 +129,8 @@
                 "url": "https://photos.app.goo.gl/jKzbbufDzoPnuRVPA"
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "Il video del Concerto per l'Europa",
+                "url": "https://youtu.be/b6Npu4OfnKQ"
             } 
         },
         {
@@ -142,8 +142,8 @@
                 "url": "https://photos.app.goo.gl/PzXT1fqAAYktzbCb7"
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "Il video di Belli da Morire",
+                "url": "https://youtu.be/fZ-ANvMVOOw"
             }
         },
         {
