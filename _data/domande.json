@@ -74,7 +74,7 @@
                 },
                     {
                     "domanda": "In quali Atenei si immatricolano con maggiore frequenza i diplomati di questo Liceo?",
-                    "risposta": "45,4% - Università del Salento <br> 11,1% Politecnico di Torino <br> 6,2% Università Aldo Moro di Bari <br> 37,3% - Altre Università"
+                    "risposta": "45,4% - Università del Salento <br> 11,1% - Politecnico di Torino <br> 6,2% - Università Aldo Moro di Bari <br> 37,3% - Altre Università"
                 }
             ]
         },
@@ -104,11 +104,11 @@
                 },
                 {
                     "domanda": "Quale è il numero medio dei diplomati per anno?",
-                    "risposta": "Il nuero medio dei diplomati è <b>251</b>"
+                    "risposta": "Il numero medio dei diplomati è <b>251</b>"
                 },
                 {
                     "domanda": "Quanti studenti in media si immatricolano e superano il primo anno universitario?",
-                    "risposta": "L'85% dei diplomati del Liceo che si immatricolano superano il primo anno. <br> La media dei voti al I anno di uNiversità è di <b>26,73</b><br> La media dei crediti acquisiti nel I anno è di <b> 75,26.<br> Gli studenti del Liceo in regola al primo anno universitario è dell'<b>81,1%</b> "
+                    "risposta": "L'85% dei diplomati del Liceo che si immatricolano superano il primo anno. <br> La media dei voti al I anno di uNiversità è di <b>26,73</b><br> La media dei crediti acquisiti nel I anno è di <b> 75,26</b>.<br> Gli studenti del Liceo in regola al primo anno universitario è dell'<b>81,1%</b> "
                 },
                 {
                     "domanda": "Quanti alunni frequentanti? Quante classi ci sono?",
