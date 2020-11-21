@@ -9,8 +9,8 @@
             "sottotitolo": "Percorso orientante alla scelta universitaria di ambito medico-sanitario, in collaborazione con l’Ordine dei Medici di Lecce. Il Corso è strutturato in una fase propedeutica, rivolta agli studenti del primo biennio, con un’ora aggiuntiva curricolare alla settimana di attività laboratoriale di Biologia e Chimica, cui segue un percorso pomeridiano (150 ore in tre anni) di approfondimento extracurricolare di Anatomia, Fisiologia e Genetica per il triennio.",
             "img": "assets/img/illustration/progetti-1-min.png",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
-                "url": ""
+                "testo": "Leggi: i Degiorgini al DReAM",
+                "url": "https://lecosimo.it/2019/05/12/i-degiorgini-al-dream-quando-la-ricerca-universitaria-si-sposa-con-la-medicina/"
             },
             "pulsante": {
                 "testo": "Per saperne di più",
@@ -26,7 +26,7 @@
                 "url": "https://photos.app.goo.gl/fQkXktMdm4Q1d58D7"
             },
             "pulsante": {
-                "testo": "Vedi il video",
+                "testo": "Vedi il video: 'Tower' un PON in Irlanda",
                 "url": "https://youtu.be/2Ke6r2MB8P0"
             }
         },
@@ -35,12 +35,12 @@
             "sottotitolo": "All’indirizzo Scientifico Cambridge si affiancano Corsi per le certificazioni linguistiche, quali PET - FIRST, C1 ADVANCED e IELTS. Da quest'anno si terrà anche un Corso per il conseguimento del livello C2 PROFICIENCY. Inoltre saranno attivati i Corsi IGCSE per ICT, Chemistry, Computer Science, Global Perspectives, Drama and Film Studies, tenuti da madre-lingua inglese.",
             "img": "assets/img/illustration/progetti-2-min.png",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
-                "url": ""
+                "testo": "Foto e articolo: Consegna Cetificazioni",
+                "url": "https://lecosimo.it/2019/11/26/certificazioni-cambridge-allopen-day/"
             },
             "pulsante": {
-                "testo": "Vai il video",
-                "url": ""
+                "testo": "Il video: 'Tower' un PON in Irlanda",
+                "url": "https://youtu.be/2Ke6r2MB8P0"
             }
         },
         {
@@ -48,7 +48,7 @@
             "sottotitolo": "Oltre alle tradizionali attività di orientamento, il Liceo organizza Corsi di Logica, Biologia e Chimica per la preparazione ai Test delle Facoltà Biomediche e dell’Area Ingegneristica ed Economica. <br>Promuove inoltre la partecipazione al Progetto Lauree Scientifiche promosso e coordinato dall’Università del Salento.",
             "img": "assets/img/illustration/progetti-4-min.png",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
+                "testo": "LA photogallery: I raggi cosmici",
                 "url": ""
             },
             "pulsante": {
@@ -66,7 +66,7 @@
             },
             "pulsante": {
                 "testo": "Per saperne di più",
-                "url": ""
+                "url": "https://lecosimo.it/2020/03/02/lets-debate/"
             }
         },        
         {
@@ -155,8 +155,11 @@
                 "url": ""
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "Leggi: vittoria nella gara di scacchi e nuoto",
+                "url": "https://lecosimo.it/2019/05/15/tss-2019-il-de-giorgi-sul-podio-anche-per-gli-scacchi/",
+                "testo": "Leggi: Vittora a bracciate",
+                "url": "https://lecosimo.it/2019/04/20/nuoto-regionali-a-colpi-di-bracciate/",
+        
             }
         }
     ]
