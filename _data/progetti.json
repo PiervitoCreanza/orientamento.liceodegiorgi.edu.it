@@ -39,7 +39,7 @@
                 "url": "https://lecosimo.it/2019/11/26/certificazioni-cambridge-allopen-day/"
             },
             "pulsante": {
-                "testo": "Il video: 'Tower' un PON in Irlanda",
+                "testo": "Il video:'Tower' un PON in Irlanda",
                 "url": "https://youtu.be/2Ke6r2MB8P0"
             }
         },
@@ -48,12 +48,12 @@
             "sottotitolo": "Oltre alle tradizionali attività di orientamento, il Liceo organizza Corsi di Logica, Biologia e Chimica per la preparazione ai Test delle Facoltà Biomediche e dell’Area Ingegneristica ed Economica. <br>Promuove inoltre la partecipazione al Progetto Lauree Scientifiche promosso e coordinato dall’Università del Salento.",
             "img": "assets/img/illustration/progetti-4-min.png",
             "pulsanteRosso": {
-                "testo": "LA photogallery: I raggi cosmici",
+                "testo": "La photogallery: I raggi cosmici",
                 "url": ""
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "video intervista a S. Protopapa (NASA)",
+                "url": "https://youtu.be/ZXRjV2uxs9U"
             }
         },
         {
@@ -61,11 +61,11 @@
             "sottotitolo": "La didattica curricolare è arricchita da Corsi di approfondimento finalizzati alla partecipazione ad Olimpiadi disciplinari, Certamina, Competizioni nazionali di Debate. La Squadra Olimpionica di Matematica consegue, con continui riscontri, brillanti affermazioni nelle gare nazionali, cui si aggiungono le ottime prestazioni nelle fasi regionali dei Giochi della Chimica.<br><br><b><span class='text-red'>le olimpiadi</span> scientifiche</b><br>Partecipazione con ottimi risultati alle olimpiadi di matematica e di scienze",
             "img": "assets/img/illustration/progetti-5-min.png",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
-                "url": ""
+                "testo": "Il De Giorgi al festival della filosofia",
+                "url": "https://lecosimo.it/2019/11/11/filosofando-nel-cilento/"
             },
             "pulsante": {
-                "testo": "Per saperne di più",
+                "testo": "Leggi l'articlo sul debate",
                 "url": "https://lecosimo.it/2020/03/02/lets-debate/"
             }
         },        
@@ -92,6 +92,19 @@
             "pulsante": {
                 "testo": "Per saperne di più",
                 "url": ""
+            }
+        },
+        {
+            "titolo":"<span class='text-red'>La Bottega</span> di Holden",
+            "sottotitolo": "Su iniziativa degli studenti nasce anche un vero e proprio Circolo Culturale ",
+            "img": "assets/img/illustration/progetti-6-min.png",
+            "pulsanteRosso": {
+                "testo": "Guarda le foto",
+                "url": ""
+            },
+            "pulsante": {
+                "testo": "Per saperne di più",
+                "url": "https://photos.app.goo.gl/hsgmvWzE4ia3ZB116"  
             }
         },
         {
@@ -126,7 +139,7 @@
             "img": "assets/img/illustration/progetti-9-min.png",
             "pulsanteRosso": {
                 "testo": "Guarda le foto",
-                "url": "https://photos.app.goo.gl/jKzbbufDzoPnuRVPA"
+                "url": "https://photos.app.goo.gl/atduFGYZxM9rdbFK6"
             },
             "pulsante": {
                 "testo": "Il video del Concerto per l'Europa",
@@ -151,8 +164,8 @@
             "sottotitolo": "L’istituto aderisce al Centro Sportivo Scolastico, promuovendo la partecipazione a competizioni regionali in numerose discipline: Dama, Scacchi, Atletica, Tennis Tavolo e Beach Volley. Orgoglio del Liceo è la squadra di Step ed Aerobica, da anni sul podio nazionale.",
             "img": "assets/img/illustration/progetti-3-min.png",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
-                "url": ""
+                "testo": "Guarda le foto: allenamento di step",
+                "url": "https://photos.app.goo.gl/AqvpYgN8TrgGjXNBA"
             },
             "pulsante": {
                 "testo": "Leggi: vittoria nella gara di scacchi e nuoto",
