@@ -13,8 +13,8 @@
                 "url": "https://lecosimo.it/2019/05/12/i-degiorgini-al-dream-quando-la-ricerca-universitaria-si-sposa-con-la-medicina/"
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "Guarda le foto",
+                "url": "https://photos.app.goo.gl/zeRqQTC7xvMiiHfF6"
             }
         },
         {
@@ -24,6 +24,10 @@
             "pulsanteRosso": {
                 "testo": "Guarda le foto",
                 "url": "https://photos.app.goo.gl/fQkXktMdm4Q1d58D7"
+            },
+            "pulsanteRosso2": {
+                "testo": "Guarda le foto di Freigericht (D)",
+                "url": "https://photos.app.goo.gl/dFfs5oDj8wSgzyCW7"
             },
             "pulsante": {
                 "testo": "Vedi il video: 'Tower' un PON in Irlanda",
@@ -96,14 +100,14 @@
         },
         {
             "titolo":"<span class='text-red'>La Bottega</span> di Holden",
-            "sottotitolo": "Su iniziativa degli studenti nasce anche un vero e proprio Circolo Culturale ",
+            "sottotitolo": "Sa formazione dell’uomo e del cittadino passa anche attraverso modalità di apprendimento informale. Su tale convinzione si fonda l’esperienza del circolo culturale <i>La Bottega di Holden</i>, concepito come laboratorio di idee, spazio pomeridiano in cui gli studenti, guidati da un docente, si confrontano su tematiche legate al mondo giovanile e alla realtà contemporanea, esprimono e condividono talenti e passioni (musica, teatro, fotografia, poesia, cinema), progettano e realizzano iniziative per la promozione della legalità e della cittadinanza attiva. Lo spirito del circolo è rappresentato appieno da una delle sue esperienze più significative: il progetto <b>Periferie</b>, studio condotto dai ragazzi de <i>La Bottega di Holden</i>, in collaborazione con esperti di urbanistica e delle dinamiche sociali, sulle criticità del quartiere 167B di Lecce. L’iniziativa si è conclusa con un incontro aperto al pubblico durante il quale gli studenti hanno illustrato il progetto, consegnando al sindaco della città e ad altri esponenti della giunta comunale un documento programmatico contenente l’analisi delle problematiche e una proposta di riqualificazione del quartiere.",
             "img": "assets/img/illustration/progetti-6-min.png",
             "pulsanteRosso": {
-                "testo": "Guarda le foto",
-                "url": ""
+                "testo": "vai al sito",
+                "url": "https://labottegadiholden.jimdofree.com/"
             },
             "pulsante": {
-                "testo": "Per saperne di più",
+                "testo": "le foto della conferenza sulle periferie",
                 "url": "https://photos.app.goo.gl/hsgmvWzE4ia3ZB116"  
             }
         },
@@ -129,8 +133,8 @@
                 "url": "https://youtu.be/VhCMBHUp7Sk"
             },
             "pulsante": {
-                "testo": "Per saperne di più",
-                "url": ""
+                "testo": "Vai al giornale online",
+                "url": "https://lecosimo.it/"
             }
         },
         {
