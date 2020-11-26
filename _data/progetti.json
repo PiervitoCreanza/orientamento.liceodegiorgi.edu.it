@@ -52,7 +52,7 @@
             "sottotitolo": "Oltre alle tradizionali attività di orientamento, il Liceo organizza Corsi di Logica, Biologia e Chimica per la preparazione ai Test delle Facoltà Biomediche e dell’Area Ingegneristica ed Economica. <br>Promuove inoltre la partecipazione al Progetto Lauree Scientifiche promosso e coordinato dall’Università del Salento.",
             "img": "assets/img/illustration/progetti-4-min.png",
             "pulsanteRosso": {
-                "testo": "La photogallery: I raggi cosmici",
+                "testo": "Guarda le foto: I raggi cosmici",
                 "url": ""
             },
             "pulsante": {
@@ -77,11 +77,11 @@
             "titolo": "<span class='text-red'>Innovazione</span> didattica",
             "sottotitolo": "Metodologie innovative caratterizzano il curricolo, proposte in ambienti di apprendimento motivanti ed efficaci: il supporto digitale GSuite for Education con tutte le sue applicazioni per la didattica; la piattaforma Spaggiari Classeviva per la comunicazione puntuale e tempestiva con le famiglie; Autocad e Sketchup per la progettazione per la stamp in 3D; Python e il pensiero computazionale per la programmazione digitale.",
             "pulsanteRosso": {
-                "testo": "--",
-                "url": ""
+                "testo": "Guarda il video del Premio Scuola Digitale",
+                "url": "https://youtu.be/YyyHZb5Vwyo"
             },
             "pulsante": {
-                "testo": "Guarda il video del Premio Scuola Digitale",
+                "testo": "",
                 "url": "https://youtu.be/YyyHZb5Vwyo"
             }
         },
@@ -100,14 +100,14 @@
         },
         {
             "titolo":"<span class='text-red'>La Bottega</span> di Holden",
-            "sottotitolo": "Sa formazione dell’uomo e del cittadino passa anche attraverso modalità di apprendimento informale. Su tale convinzione si fonda l’esperienza del circolo culturale <i>La Bottega di Holden</i>, concepito come laboratorio di idee, spazio pomeridiano in cui gli studenti, guidati da un docente, si confrontano su tematiche legate al mondo giovanile e alla realtà contemporanea, esprimono e condividono talenti e passioni (musica, teatro, fotografia, poesia, cinema), progettano e realizzano iniziative per la promozione della legalità e della cittadinanza attiva. Lo spirito del circolo è rappresentato appieno da una delle sue esperienze più significative: il progetto <b>Periferie</b>, studio condotto dai ragazzi de <i>La Bottega di Holden</i>, in collaborazione con esperti di urbanistica e delle dinamiche sociali, sulle criticità del quartiere 167B di Lecce. L’iniziativa si è conclusa con un incontro aperto al pubblico durante il quale gli studenti hanno illustrato il progetto, consegnando al sindaco della città e ad altri esponenti della giunta comunale un documento programmatico contenente l’analisi delle problematiche e una proposta di riqualificazione del quartiere.",
+            "sottotitolo": "La formazione dell’uomo e del cittadino passa anche attraverso modalità di apprendimento informale. Su tale convinzione si fonda l’esperienza del circolo culturale <i>La Bottega di Holden</i>, concepito come laboratorio di idee, spazio pomeridiano in cui gli studenti, guidati da un docente, si confrontano su tematiche legate al mondo giovanile e alla realtà contemporanea, esprimono e condividono talenti e passioni (musica, teatro, fotografia, poesia, cinema), progettano e realizzano iniziative per la promozione della legalità e della cittadinanza attiva. Lo spirito del circolo è rappresentato appieno da una delle sue esperienze più significative: il progetto <b>Periferie</b>, studio condotto dai ragazzi de <i>La Bottega di Holden</i>, in collaborazione con esperti di urbanistica e delle dinamiche sociali, sulle criticità del quartiere 167B di Lecce. L’iniziativa si è conclusa con un incontro aperto al pubblico durante il quale gli studenti hanno illustrato il progetto, consegnando al sindaco della città e ad altri esponenti della giunta comunale un documento programmatico contenente l’analisi delle problematiche e una proposta di riqualificazione del quartiere.",
             "img": "assets/img/illustration/progetti-6-min.png",
             "pulsanteRosso": {
-                "testo": "vai al sito",
+                "testo": "Vai al sito",
                 "url": "https://labottegadiholden.jimdofree.com/"
             },
             "pulsante": {
-                "testo": "le foto della conferenza sulle periferie",
+                "testo": "Vedi le foto della conferenza sulle periferie",
                 "url": "https://photos.app.goo.gl/hsgmvWzE4ia3ZB116"  
             }
         },
@@ -159,7 +159,7 @@
                 "url": "https://photos.app.goo.gl/PzXT1fqAAYktzbCb7"
             },
             "pulsante": {
-                "testo": "Il video di Belli da Morire",
+                "testo": "Guarda il video di Belli da Morire",
                 "url": "https://youtu.be/fZ-ANvMVOOw"
             }
         },
