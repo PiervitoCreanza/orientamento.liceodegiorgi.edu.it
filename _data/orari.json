@@ -86,7 +86,7 @@
                 },
                 {
                     "materia": "<B>Matematica</B>",
-                    "ore": [6, 6, 5, 5, 5]
+                    "ore": ["5+1", "5+1", "4+1", "4+1", "4+1"]
                 },
                 {
                     "materia": "Fisica",

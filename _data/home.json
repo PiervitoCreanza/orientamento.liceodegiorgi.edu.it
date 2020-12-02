@@ -10,15 +10,20 @@
         "sottotitolo": "Presentiamo, in sintesi, uno spaccato di vita del Liceo De Giorgi, dando voce agli studenti, che attraverso le opportunità formative curricolari ed extracurriculari, costruiscono il loro progetto di vita."
     },
     "sezione3": {
-        "titoloRosso": "Tre opzioni di studio,",
+        "titoloRosso": "Quattro opzioni di studio,",
         "titolo": "per il tuo futuro",
-        "sottotitolo": "Studiare al Liceo Scientifico ti permetterà di acquisire un valido metodo di studio ed un'ampia formazione culturale, sia in ambito scientifico che in mabito umanistico. In tale ottica il percorso <b>Ordinario</b> è affiancato da un percorso di <b>Liceo Scientifico Potenziato</b> e da un percorso<b>IGCSE Cambridge</b>",
+        "sottotitolo": "Studiare al Liceo Scientifico ti permetterà di acquisire un valido metodo di studio ed un'ampia formazione culturale, sia in ambito scientifico che in mabito umanistico. In tale ottica il percorso <b>Ordinario</b> è affiancato da un percorso di <b>Liceo Scientifico Potenziato</b> e da un percorso<b>IGCSE Cambridge</b> Dall'anno scolastico 2021/22 viene introdotto anche il percorso <b>Matematico</b>",
         "toggleBoxes": [
             {
                 "titolo": "Ordinario",
                 "descrizione": "Il <b>Liceo Scientifico Ordinario</b> consiste in un percorso formativo equilibrato che mira ad integrare la cultura scientifica con la cultura umanistica, assicurando padronanza di linguaggi, tecniche e metodologie delle diverse forme del Sapere.",
                 "testoPulsante": "Altre informazioni"
             },
+            {
+                "titolo": "Matematico",
+                "descrizione": "Il <b>Liceo Matematico</b> prevede un orario settimanale potenziato con un’ora di Matematica aggiuntiva in tutti i cinque anni di corso. Le ore aggiuntive sono dedicate ad attività laboratoriali ed interdisciplinari su argomenti che sappiano unire la matematica con la fisica, le scienze naturali, l’arte, la letteratura e le lingue antiche e moderne. <br>Il <i>Dipartimento di Matematica</i> dell’<i>Università del Salento</i> s’impegna a collaborare con Il Liceo Scientifico <i>C. De Giorgi</i>, offrendo un supporto metodologico e scientifico.",
+                "testoPulsante": "Altre informazioni"
+            }, 
             {
                 "titolo": "Potenziato",
                 "descrizione": "Il <b>Liceo Scientifico Potenziato</b> prevede l’incremento di un’ora di Fisica al primo anno e un’ora di Scienze Naturali al secondo anno, al fine di favorire attività laboratoriali e di acquisire i fondamenti del Metodo Scientifico.",
