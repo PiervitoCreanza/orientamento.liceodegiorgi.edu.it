@@ -58,6 +58,63 @@
             ]
         },
         {
+            "nome": "Liceo Scientifico Matematico - NOVITA' 2021/22",
+            "orario": [
+                {
+                    "materia": "Lingua e Letteratura Italiana",
+                    "ore": [4,4,4,4,4]
+                },
+                {
+                    "materia": "Lingua Latina", 
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Lingua e Cultura Inglese",
+                    "ore": [3,3,3,3,3]
+                },
+                {
+                    "materia": "Storia e Geografia", 
+                    "ore": [3,3,"-", "-", "-"]
+                },
+                {
+                    "materia": "Storia",
+                    "ore": ["-", "-", 2, 2, 2]
+                },
+                {
+                    "materia": "Filosofia",
+                    "ore": ["-", "-", 3, 3, 3]
+                },
+                {
+                    "materia": "<B>Matematica</B>",
+                    "ore": [6, 6, 5, 5, 5]
+                },
+                {
+                    "materia": "Fisica",
+                    "ore": [2, 2, 3, 3, 3]
+                },
+                {
+                    "materia": "Scienze Naturali",
+                    "ore": [2, 2, 3, 3, 3]
+                },
+                {
+                    "materia": "Disegno e Storia dell'Arte",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Scienze Motorie",
+                    "ore": [2, 2, 2, 2, 2]
+                },
+                {
+                    "materia": "Religione Cattolica, Att. Alternative",
+                    "ore": [1, 1, 1, 1, 1]
+                },
+                {
+                    "materia": "Totale ore",
+                    "ore": [28, 28, 31, 31, 31]
+                }
+            ]
+        },
+        {
             "nome": "Liceo Scientifico Potenziato",
             "orario": [
                 {
