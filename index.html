@@ -77,11 +77,13 @@ description: "Sei un ragazzo delle scuole medie? Vieni a trovarci per informazio
           <div class="col-12 col-md-5 col-lg-6" data-aos="fade-up">
             {% for toggleBox in site.data.home.sezione3.toggleBoxes %}
             {% assign index = forloop.index0 %}
+            {% assign last = forloop.last %}
             {% include toggleBox.html 
               title=toggleBox.titolo 
               description=toggleBox.descrizione
               buttonText=toggleBox.testoPulsante
               n=index
+              isLast=last
             %} 
           {% endfor %}                    
       </div>      

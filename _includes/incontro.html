@@ -1,0 +1,28 @@
+<section class="py-8 py-md-11">
+    <div class="container my-auto">
+      <div class="row align-items-center align-middle">
+        <div class="col-12">                    
+          <!-- Heading -->
+          <h1 class="display-3 text-center">
+            {{include.titolo}}
+        </h1>
+          <!-- Text -->
+          <p class="lead text-center text-muted mb-6 mb-lg-8">
+              {{include.sottotitolo}}
+          </p>
+          <div class="row align-items-center align-middle justify-content-center">
+            {% for item in include.date %}
+              {% include date.html 
+                day=item.giorno
+                month= item.mese
+                time=item.orario
+                description=item.descrizione
+                url=item.url
+              %}
+            {% endfor %}
+          </div>
+          </div>
+          </div>
+        </div>        
+    </div>
+  </section>

@@ -1,5 +1,5 @@
 {% for percorso in site.data.orari.percorsi %}
-{% assign index = forloop.index %}
+{% assign index = forloop.index0 %}
 <div class="mt-5" id="orario-{{ index }}">
     <h1 class="text-red">{{ percorso.nome }}</h1>
     <table class="table table-hover" id="{{ percorso.nome }}">

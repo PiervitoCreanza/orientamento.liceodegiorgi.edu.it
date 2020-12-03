@@ -27,7 +27,9 @@ h2 {
 $red: #C23F00;
 $grey: #F2F5F4;
 $purple: #4951EC;;
-
+a{
+    color: $red; 
+}
 .grey {
     background-color: $grey;
 }

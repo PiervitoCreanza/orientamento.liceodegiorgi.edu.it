@@ -34,79 +34,18 @@ description: "Vuoi incontrarci? Abbiamo previsto degli incontri online per ascol
         </div>        
     </div>
 </section>
-<section class="py-8 py-md-11" id="date-1">
-  <div class="container my-auto">
-    <div class="row align-items-center align-middle">
-      <div class="col-12" data-aos="fade-up">                    
-        <!-- Heading -->
-        <h1 class="display-3 text-center">
-          {{site.data.incontri.sezione2.titolo}}
-      </h1>
-        <!-- Text -->
-        <p class="lead text-center text-muted mb-6 mb-lg-8">
-            {{site.data.incontri.sezione2.sottotitolo}}
-        </p>
-        <div class="row align-items-center align-middle justify-content-center">
-          {% for item in site.data.incontri.sezione2.date %}
-            {% include date.html 
-              day=item.giorno
-              month= item.mese
-              time=item.orario
-              description=item.descrizione
-              url=item.url
-            %}
-          {% endfor %}
-        </div>
-        </div>
-        </div>
-      </div>        
-  </div>
-</section>
-<section class="py-8 py-md-11">
-  <div class="container my-auto">
-    <div class="row align-items-center align-middle">
-      <div class="col-12">                    
-        <!-- Heading -->
-        <h1 class="display-3 text-center">
-          {{site.data.incontri.sezione3.titolo}}
-      </h1>
-        <!-- Text -->
-        <p class="lead text-center text-muted mb-6 mb-lg-8">
-            {{site.data.incontri.sezione3.sottotitolo}}
-        </p>
-        <div class="row align-items-center align-middle justify-content-center">
-          {% for item in site.data.incontri.sezione3.date %}
-            {% include date.html 
-              day=item.giorno
-              month= item.mese
-              time=item.orario
-              description=item.descrizione
-              url=item.url
-            %}
-          {% endfor %}
-        </div>
-        </div>
-        </div>
-      </div>        
-  </div>
-</section>
-<section class="py-8 py-md-11">
-  <div class="container my-auto">
-    <div class="row align-items-center align-middle">
-      <div class="col-12">                    
-        <!-- Heading -->
-        <h1 class="display-3 text-center">
-          {{site.data.incontri.sezione4.titolo}}
-      </h1>
-        <!-- Text -->
-        <p class="lead text-center text-muted mb-6 mb-lg-8">
-            {{site.data.incontri.sezione4.sottotitolo}}
-        </p>
-        </div>
-        </div>
-      </div>        
-  </div>
-</section>
+{% for item in site.data.incontri.listaIncontri %}
+    {% capture alignDirection %}{% cycle 'left', 'right' %}{% endcapture %}
+    {% capture orderMd1 %}{% cycle '1', '2' %}{% endcapture %}
+    {% capture orderMd2 %}{% cycle '2', '1' %}{% endcapture %}
+    {% assign imgIndex = forloop.index %}
+
+      {% include incontro.html
+        titolo=item.titolo
+        sottotitolo=item.sottotitolo
+        date=item.date
+      %}
+{% endfor %}
 <style>
   body {scroll-behavior: smooth;}
 </style>

@@ -52,7 +52,7 @@
                     "ore": [1, 1, 1, 1, 1]
                 },
                 {
-                    "materia": "Totale ore",
+                    "materia": "Totale ore <sup>[Educazione Civica]</sup>",
                     "ore": [27, 27, 30, 30, 30]
                 }
             ]
@@ -109,7 +109,7 @@
                     "ore": [1, 1, 1, 1, 1]
                 },
                 {
-                    "materia": "Totale ore",
+                    "materia": "Totale ore <sup>[Educazione Civica]</sup>",
                     "ore": [28, 28, 31, 31, 31]
                 }
             ]
@@ -166,7 +166,7 @@
                     "ore": [1, 1, 1, 1, 1]
                 },
                 {
-                    "materia": "Totale ore",
+                    "materia": "Totale ore <sup>[Educazione Civica]</sup>",
                     "ore": [28, 28, 30, 30, 30]
                 }
             ]
@@ -227,7 +227,7 @@
                     "ore": [1, 1, "-", "-", "-"]
                 },
                 {
-                    "materia": "Totale ore",
+                    "materia": "Totale ore <sup>[Educazione Civica]</sup>",
                     "ore": [30, 30, 30, 30, 30]
                 }
             ]
