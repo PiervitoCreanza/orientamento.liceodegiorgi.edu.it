@@ -36,13 +36,15 @@
                     "giorno": "Venerdì 11",
                     "mese": "Dicembre",
                     "orario": "Dalle 17 alle 18:30",
-                    "url": "-------"
+                    "url": "https://openday.liceodegiorgi.edu.it",
+                    "pulsante": "Segui ora"
                 },
                 {
                     "giorno": "Lunedì 18",
                     "mese": "Gennaio",
                     "orario": "Dalle 17 alle 18:30",
-                    "url": "------"
+                    "url": "https://openday.liceodegiorgi.edu.it",
+                    "pulsante": "Segui ora"
                 }
             ]
         },
@@ -72,13 +74,13 @@
                     "giorno": "Martedì 12",
                     "mese": "Gennaio",
                     "orario": "Dalle 17 alle 18:00",
-                    "url": ""
+                    "url": "https://forms.gle/eNfi3SHVFBDidLZE6"
                 },
                 {
                     "giorno": "Martedì 19",
                     "mese": "Gennaio",
                     "orario": "Dalle 17 alle 18:00",
-                    "url": ""
+                    "url": "https://forms.gle/YocYpDSxXRc9sSKk9"
                 }
             ]
         },
