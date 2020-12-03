@@ -33,16 +33,16 @@
             "sottotitolo": "E' possibile seguire in diretta streaming su Youtube e Facebook la presentazione dell'Offerta formativa del Liceo da parte della Dirigente Scolastica, dei Docenti referenti delle diverse Aree Disciplinari e dei Responsabili del ricco ventaglio di Attività extracurricolari <br> <span class='text-red'>Sei interessato? Scegli una data e clicca su Segui ora!</span></br>",
             "date": [
                 {
-                    "giorno": "Venerdì 11",
+                    "giorno": "Domenica 13",
                     "mese": "Dicembre",
-                    "orario": "Dalle 17 alle 18:30",
+                    "orario": "Dalle 10:30 alle 12:00",
                     "url": "https://openday.liceodegiorgi.edu.it",
                     "pulsante": "Segui ora"
                 },
                 {
-                    "giorno": "Lunedì 18",
+                    "giorno": "Domenica 10",
                     "mese": "Gennaio",
-                    "orario": "Dalle 17 alle 18:30",
+                    "orario": "Dalle 10:30 alle 12:00",
                     "url": "https://openday.liceodegiorgi.edu.it",
                     "pulsante": "Segui ora"
                 }
@@ -62,7 +62,7 @@
                     "giorno": "Lunedì 18",
                     "mese": "Gennaio",
                     "orario": "Dalle 17 alle 18:30",
-                    "url": "------"
+                    "url": "https://forms.gle/euAoT9xw5wJv8vK78"
                 }
             ]
         },
