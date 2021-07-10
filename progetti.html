@@ -1,48 +1,52 @@
 ---
 title: Progetti
 layout: default
-description: Il Liceo C. De Giorgi arricchisce la sua offerta formativa con attività
+description:
+  Il Liceo C. De Giorgi arricchisce la sua offerta formativa con attività
   aggiuntive, appositamente realizzate per stimolare i interessi e la tua creatività!
 ---
 
 {% include navigation.html %}
 <section class="scene">
-    <div class="container my-auto">
-      <div class="row align-items-center align-middle">
-          <div class="col-12 col-md-6 col-lg-6 order-md-2" data-aos="fade-left" data-aos-delay="100">
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div
+        class="col-12 col-md-6 col-lg-6 order-md-2"
+        data-aos="fade-left"
+        data-aos-delay="100"
+      >
+        <!-- Image -->
+        <img
+          src="assets/img/illustration/progetti-main-min.png"
+          class="
+            img-fluid
+            mw-md-150 mw-lg-130
+            mb-6 mb-md-0
+            aos-init aos-animate
+          "
+          alt="..."
+        />
+      </div>
+      <div class="col-12 col-md-6 col-lg-6 order-md-1" data-aos="fade-up">
+        <!-- Heading -->
+        <h1 class="display-3 text-md-left text-center editable">
+          {{site.data.progetti.sezione1.titolo}}
+        </h1>
 
-            <!-- Image -->
-            <img src="assets/img/illustration/progetti-main-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate" alt="..." >
-
-          </div>
-          <div class="col-12 col-md-6 col-lg-6 order-md-1" data-aos="fade-up">                    
-            <!-- Heading -->
-            <h1 class="display-3 text-md-left text-center">
-                {{site.data.progetti.sezione1.titolo}}
-          </h1>
-
-            <!-- Text -->
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
-                {{site.data.progetti.sezione1.sottotitolo}}
-            </p>    
-          </div>
-        </div>
+        <!-- Text -->
+        <p
+          class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable"
+        >
+          {{site.data.progetti.sezione1.sottotitolo}}
+        </p>
+      </div>
     </div>
+  </div>
 </section>
-{% for item in site.data.progetti.projects %}
-    {% capture alignDirection %}{% cycle 'right', 'left' %}{% endcapture %}
-    {% capture orderMd1 %}{% cycle '2', '1' %}{% endcapture %}
-    {% capture orderMd2 %}{% cycle '1', '2' %}{% endcapture %}
-    {% assign imgIndex = forloop.index %}
-
-      {% include project.html 
-        titolo=item.titolo
-        sottotitolo=item.sottotitolo
-        pulsanteRosso=item.pulsanteRosso
-        pulsante=item.pulsante
-        alignDirection=alignDirection
-        orderMd1=orderMd1
-        orderMd2=orderMd2
-        img=item.img
-      %}
-{% endfor %}
+{% for item in site.data.progetti.projects %} {% capture alignDirection %}{%
+cycle 'right', 'left' %}{% endcapture %} {% capture orderMd1 %}{% cycle '2', '1'
+%}{% endcapture %} {% capture orderMd2 %}{% cycle '1', '2' %}{% endcapture %} {%
+assign imgIndex = forloop.index %} {% include project.html titolo=item.titolo
+sottotitolo=item.sottotitolo pulsanteRosso=item.pulsanteRosso
+pulsante=item.pulsante alignDirection=alignDirection orderMd1=orderMd1
+orderMd2=orderMd2 img=item.img %} {% endfor %}

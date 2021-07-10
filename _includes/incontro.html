@@ -3,14 +3,14 @@
       <div class="row align-items-center align-middle">
         <div class="col-12">                    
           <!-- Heading -->
-          <h1 class="display-3 text-center">
+          <h1 class="display-3 text-center editable">
             {{include.titolo}}
         </h1>
           <!-- Text -->
-          <p class="lead text-center text-muted mb-6 mb-lg-8">
+          <p class="lead text-center text-muted mb-6 mb-lg-8 editable">
               {{include.sottotitolo}}
           </p>
-          <div class="row align-items-center align-middle justify-content-center">
+          <div class="row align-items-center align-middle justify-content-center editable">
             {% for item in include.date %}
               {% include date.html 
                 day=item.giorno

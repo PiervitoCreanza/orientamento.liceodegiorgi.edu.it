@@ -1,13 +1,13 @@
 <div class="col-6 col-md-4 mt-5">
-    <h1 class="text-center">
+    <h1 class="text-center editable">
         <span class='text-red'>{{ include.day }}</span></br>{{ include.month }}
     </h1>
-    <h6 class="text-center mb-6 mb-lg-6 text-uppercase text-muted">
+    <h6 class="text-center mb-6 mb-lg-6 text-uppercase text-muted editable">
         {{ include.time }}
     </h6>
     <!-- Buttons -->
     <div class="text-center mt-3 mb-6">
-    <a href="{{ include.url }}" target="_blank" class="btn btn-red shadow text-center mr-1">
+    <a href="{{ include.url }}" target="_blank" class="btn btn-red shadow text-center mr-1 editable">
         {%if include.pulsante %}{{include.pulsante}}{% else %}Prenota ora{% endif %}
     </a>
     </div>

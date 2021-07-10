@@ -1,53 +1,67 @@
 ---
 title: Incontri
 layout: default
-description: Vuoi incontrarci? Abbiamo previsto degli incontri online per ascoltare
+description:
+  Vuoi incontrarci? Abbiamo previsto degli incontri online per ascoltare
   e rispondere ad ogni tuo dubbio e perplessità. Prenotati ora!
 ---
 
 {% include navigation.html %}
 <section class="scene">
-    <div class="container my-auto">
-      <div class="row align-items-center align-middle">
-        <div class="col-12 col-md-6 col-lg-7 order-md-2" data-aos="fade-left" data-aos-delay="100">
-          <!-- Image -->
-          <img src="assets/img/illustration/incontri-01b.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0 aos-init aos-animate" alt="...">
-        </div>
-        <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">                    
-          <!-- Heading -->
-          <h1 class="display-3 text-md-left text-center">
-            {{site.data.incontri.sezione1.titolo}}
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div
+        class="col-12 col-md-6 col-lg-7 order-md-2"
+        data-aos="fade-left"
+        data-aos-delay="100"
+      >
+        <!-- Image -->
+        <img
+          src="assets/img/illustration/incontri-01b.png"
+          class="
+            img-fluid
+            mw-md-150 mw-lg-130
+            mb-6 mb-md-0
+            aos-init aos-animate
+          "
+          alt="..."
+        />
+      </div>
+      <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">
+        <!-- Heading -->
+        <h1 class="display-3 text-md-left text-center editable">
+          {{site.data.incontri.sezione1.titolo}}
         </h1>
 
-          <!-- Text -->
-          <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8">
-              {{site.data.incontri.sezione1.sottotitolo}}
-          </p>
-          <!-- Buttons -->
-          <div class="text-center text-md-left">
-            <a href="#date-1" class="btn btn-red shadow text-center mr-1">
-                Prenotati ora
-            </a>
-            <a href="contatti.html" class="btn btn-primary-soft lift">
-              Richiedi assistenza
-            </a>
-          </div>
-          </div>
-        </div>        
+        <!-- Text -->
+        <p
+          class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable"
+        >
+          {{site.data.incontri.sezione1.sottotitolo}}
+        </p>
+        <!-- Buttons -->
+        <div class="text-center text-md-left">
+          <a
+            href="#date-1"
+            class="btn btn-red shadow text-center mr-1 editable"
+          >
+            Prenotati ora
+          </a>
+          <a href="contatti.html" class="btn btn-primary-soft lift editable">
+            Richiedi assistenza
+          </a>
+        </div>
+      </div>
     </div>
+  </div>
 </section>
-{% for item in site.data.incontri.listaIncontri %}
-    {% capture alignDirection %}{% cycle 'left', 'right' %}{% endcapture %}
-    {% capture orderMd1 %}{% cycle '1', '2' %}{% endcapture %}
-    {% capture orderMd2 %}{% cycle '2', '1' %}{% endcapture %}
-    {% assign imgIndex = forloop.index %}
-
-      {% include incontro.html
-        titolo=item.titolo
-        sottotitolo=item.sottotitolo
-        date=item.date
-      %}
-{% endfor %}
+{% for item in site.data.incontri.listaIncontri %} {% capture alignDirection
+%}{% cycle 'left', 'right' %}{% endcapture %} {% capture orderMd1 %}{% cycle
+'1', '2' %}{% endcapture %} {% capture orderMd2 %}{% cycle '2', '1' %}{%
+endcapture %} {% assign imgIndex = forloop.index %} {% include incontro.html
+titolo=item.titolo sottotitolo=item.sottotitolo date=item.date %} {% endfor %}
 <style>
-  body {scroll-behavior: smooth;}
+  body {
+    scroll-behavior: smooth;
+  }
 </style>

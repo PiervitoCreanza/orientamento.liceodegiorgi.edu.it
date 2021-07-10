@@ -1,13 +1,28 @@
-<div class="toggleBox rounded-heavy box d-flex grey flex-column px-4_5 max mt-3 {{include.class}}" id="toggleBox-{{ include.n }}">
-    <div class="d-flex justify-content-between my-auto">
-      <h2 class="my-auto" style="font-weight: 500 !important;">{{ include.title }}</h2>
-      <div class="rounded-circle bg-white d-flex my-auto icon-circle" id="toggleBox-{{ include.n }}-circle" onclick="toggleBox('{{ include.n }}')">
-        <img src="assets/icns/arrow-down.svg" width="20" id="toggleBox-{{ include.n }}-icon" class="mx-auto">
-      </div>                                            
+<div
+  class="toggleBox rounded-heavy box d-flex grey flex-column px-4_5 max mt-3 {{include.class}}"
+  id="toggleBox-{{ include.n }}"
+>
+  <div class="d-flex justify-content-between my-auto">
+    <h2 class="my-auto editable" style="font-weight: 500 !important">
+      {{ include.title }}
+    </h2>
+    <div
+      class="rounded-circle bg-white d-flex my-auto icon-circle"
+      id="toggleBox-{{ include.n }}-circle"
+      onclick="toggleBox('{{ include.n }}')"
+    >
+      <img
+        src="assets/icns/arrow-down.svg"
+        width="20"
+        id="toggleBox-{{ include.n }}-icon"
+        class="mx-auto"
+      />
     </div>
-    <div class="d-flex flex-column hidden fade-out" id="toggleBox-{{ include.n }}-hidden">
-      <p class="mt-2">
-        {{ include.description }}
-      </p>
-    </div>
+  </div>
+  <div
+    class="d-flex flex-column hidden fade-out"
+    id="toggleBox-{{ include.n }}-hidden"
+  >
+    <p class="mt-2 editable">{{ include.description }}</p>
+  </div>
 </div>

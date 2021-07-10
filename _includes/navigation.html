@@ -17,7 +17,7 @@
         <ul class="navbar-nav ml-auto mx-auto">
             {% for item in site.data.navigation %}
             <li class="nav-item">
-                <a class="nav-link" id="navbarLandings" href="{% if item.name == "home" %}/{% else %}{{item.name}}.html{% endif %}">
+                <a class="nav-link editable" id="navbarLandings" href="{% if item.name == "home" %}/{% else %}{{item.name}}.html{% endif %}">
                 {{item.name | | capitalize}}
                 </a>
             </li>
