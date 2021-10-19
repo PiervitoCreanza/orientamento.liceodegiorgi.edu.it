@@ -1,14 +1,14 @@
 <div class="col-6 col-md-4 mt-5">
     <h1 class="text-center editable">
-      <span class="text-red">Marted&igrave; 19</span><br />Gennaio
+        <span class='text-red'>{{ include.day }}</span></br>{{ include.month }}
     </h1>
     <h6 class="text-center mb-6 mb-lg-6 text-uppercase text-muted editable">
-      Dalle 17 alle 18:00
+        {{ include.time }}
     </h6>
     <!-- Buttons -->
     <div class="text-center mt-3 mb-6">
-    <a href="https://forms.gle/YocYpDSxXRc9sSKk9" target="_blank" class="btn btn-red shadow text-center mr-1 editable">
-        Prenota ora
+    <a href="{{ include.url }}" target="_blank" class="btn btn-red shadow text-center mr-1 editable">
+        {%if include.pulsante %}{{include.pulsante}}{% else %}Prenota ora{% endif %}
     </a>
     </div>
 </div>

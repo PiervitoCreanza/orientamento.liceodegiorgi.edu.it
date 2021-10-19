@@ -4,17 +4,26 @@
         <div class="col-12">                    
           <!-- Heading -->
           <h1 class="display-3 text-center editable">
-            <span class="text-red">Open Day</span><br />"Scuola Aperta"
-          </h1>
+            {{include.titolo}}
+        </h1>
           <!-- Text -->
           <p class="lead text-center text-muted mb-6 mb-lg-8 editable">
-            Le docenti referenti per l&rsquo;Orientamento in Ingresso offriranno <span class="text-red">supporto individuale</span> per informazioni e chiarimenti <span class="text-red"><b><i>tutti i luned&igrave;</i></b></span> pomeriggio, <span class="text-red">dalle ore 16.00 alle ore 18.00</span>, a partire <span class="text-red">dal 26 ottobre 2020</span> e sino al termine delle iscrizioni.
+              {{include.sottotitolo}}
           </p>
           <div class="row align-items-center align-middle justify-content-center editable">
-            
+            {% for item in include.date %}
+              {% include date.html 
+                day=item.giorno
+                month= item.mese
+                time=item.orario
+                description=item.descrizione
+                url=item.url
+                pulsante=item.pulsante
+              %}
+            {% endfor %}
           </div>
           </div>
           </div>
         </div>        
-    
+    </div>
   </section>
