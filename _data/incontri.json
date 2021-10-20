@@ -30,21 +30,35 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Open Day</span></br>\"Scuola Aperta\"",
-			"sottotitolo": "E' possibile seguire in diretta streaming su Youtube e Facebook la presentazione dell'Offerta formativa del Liceo da parte della Dirigente Scolastica, dei Docenti referenti delle diverse Aree Disciplinari e dei Responsabili del ricco ventaglio di Attività extracurricolari <br> <span class='text-red'>Sei interessato? Scegli una data e clicca su Segui ora!</span></br>",
+			"sottotitolo": "E' possibile visitare le sedi del Liceo e conoscere l'Offerta formativa del Liceo da parte della Dirigente Scolastica, dei Docenti e degli Studenti. L'ingresso sarà contingentato in base alle prenotazioni e regolato secondo le norme anti-covid19 vigenti. Il giorno prima dell'incontro riceverai una mail di conferma.  <br> <span class='text-red'>Sei interessato? Scegli una data e clicca su Segui ora!</span></br>",
 			"date": [
 				{
-					"giorno": "Domenica 13",
+					"giorno": "Sabato 11 ",
 					"mese": "Dicembre",
-					"orario": "Dalle 10:30 alle 12:00",
+					"orario": "dalle 16:00 alle ore 19:00",
 					"url": "https://openday.liceodegiorgi.edu.it",
 					"pulsante": "Segui ora"
 				},
 				{
-					"giorno": "Domenica 10",
-					"mese": "Gennaio",
-					"orario": "Dalle 10:30 alle 12:00",
+					"giorno": "Domenica 19",
+					"mese": "Dicembre",
+					"orario": "Dalle ore 16:00 alle ore 19:00",
 					"url": "https://openday.liceodegiorgi.edu.it",
 					"pulsante": "Segui ora"
+				},
+				{
+					"giorno": "Domenica 16",
+					"mese": "Gennaio",
+					"orario": "dalle ore 10:00 alle ore 13:00",
+					"url": "",
+					"pulsante": ""
+				},
+				{
+					"giorno": "Sabato 22",
+					"mese": "Gennaio",
+					"orario": "dalle ore 16:00 alle ore 18:00",
+					"url": "",
+					"pulsante": ""
 				}
 			]
 		},
