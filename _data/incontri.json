@@ -71,16 +71,28 @@
 			"sottotitolo": "Le docenti referenti per l'Orientamento: prof.ssa Maria Rosaria Arlotta e la prof.ssa Giusi Ricciato sono pronte ad incontrarti presso la sede Centrale per rispondere a ogni tuo dubbio o incertezza. Gli incontri saranno contingentati e regolati secondo le norme anti-covid 19 in vigore. Il giorno prima dell’incontro ti sarà inviato il link di conferma dell'appuntamento. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br>",
 			"date": [
 				{
-					"giorno": "Martedì 12",
-					"mese": "Gennaio",
-					"orario": "Dalle 17 alle 18:00",
+					"giorno": "Lunedì 8",
+					"mese": "Novembre",
+					"orario": "Dalle 16:00 alle 17:00",
 					"url": "https://forms.gle/eNfi3SHVFBDidLZE6"
 				},
 				{
-					"giorno": "Martedì 19",
-					"mese": "Gennaio",
-					"orario": "Dalle 17 alle 18:00",
+					"giorno": "Lunedì 15",
+					"mese": "Novembre",
+					"orario": "Dalle 16:00 alle 17:00",
 					"url": "https://forms.gle/YocYpDSxXRc9sSKk9"
+				},
+				{
+					"giorno": "Lunedì 22",
+					"mese": "Novembre",
+					"orario": "dalle ore 16:00 alle ore 17:00",
+					"url": ""
+				},
+				{
+					"giorno": "Lunedì 29 ",
+					"mese": "Novembre",
+					"orario": "dalle ore 16:00 alle ore 17:00",
+					"url": ""
 				}
 			]
 		},
