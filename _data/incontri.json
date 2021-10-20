@@ -51,14 +51,14 @@
 					"mese": "Gennaio",
 					"orario": "dalle ore 10:00 alle ore 13:00",
 					"url": "",
-					"pulsante": ""
+					"pulsante": "Prenota ora"
 				},
 				{
 					"giorno": "Sabato 22",
 					"mese": "Gennaio",
 					"orario": "dalle ore 16:00 alle ore 18:00",
 					"url": "",
-					"pulsante": ""
+					"pulsante": "Prenota ora"
 				}
 			]
 		},
