@@ -161,6 +161,24 @@
 					"mese": "Dicembre ",
 					"orario": "dalle ore 16:00 alle ore 17:00",
 					"url": ""
+				},
+				{
+					"giorno": "Lunedì 10",
+					"mese": "Gennaio ",
+					"orario": "dalle ore 16:00 alle ore 17:00",
+					"url": ""
+				},
+				{
+					"giorno": "Lunedì 24 ",
+					"mese": "Gennaio ",
+					"orario": "dalle ore 16:00 alle ore 17:00",
+					"url": ""
+				},
+				{
+					"giorno": "Lunedì 17 ",
+					"mese": "Gennaio ",
+					"orario": "dalle ore 16:00 alle ore 17:00",
+					"url": ""
 				}
 			]
 		}
