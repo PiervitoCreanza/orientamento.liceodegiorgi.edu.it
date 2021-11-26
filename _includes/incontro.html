@@ -10,7 +10,7 @@
           <p class="lead text-center text-muted mb-6 mb-lg-8 editable">
               {{include.sottotitolo}}
           </p>
-          <div class="row align-items-center align-middle justify-content-center editable">
+          <div id="incontro-{{include.index}}" class="row align-items-center align-middle justify-content-center editable">
             {% for item in include.date %}
               {% include date.html 
                 day=item.giorno
