@@ -15,16 +15,16 @@
 					"url": "https://forms.gle/7Pwu2t8MnGwk776W6"
 				},
 				{
-					"giorno": "Venerdì 3",
-					"mese": "Dicembre",
-					"orario": "Dalle 17:00 alle 18:30",
-					"url": "https://forms.gle/u8S5i4ie1P8tYvuWA"
-				},
-				{
 					"giorno": "Venerdì 14",
 					"mese": "Gennaio",
 					"orario": "Dalle 17:00 alle 18:30",
 					"url": "https://forms.gle/CyUtF2BDFfKfyYPX9"
+				},
+				{
+					"giorno": "Giovedì 20",
+					"mese": "Gennaio",
+					"orario": "Dalle 17:00 alle 18:30",
+					"url": ""
 				}
 			]
 		},
