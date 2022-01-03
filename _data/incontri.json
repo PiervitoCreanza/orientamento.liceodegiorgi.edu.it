@@ -143,7 +143,7 @@
 				{
 					"giorno": "Sabato 22",
 					"mese": "Gennaio",
-					"orario": "dalle ore 9:30 alle ore 12:00 - SEDE CENTRALE",
+					"orario": "dalle ore 9:30 alle ore 10:30 - SEDE CENTRALE",
 					"url": "https://forms.gle/wiUBZDLZLofjKWZS8"
 				},
 				{
@@ -151,12 +151,6 @@
 					"mese": "Gennaio",
 					"orario": "dalle ore 9:30 alle ore 12:00 - VIA POZZUOLO",
 					"url": "https://forms.gle/Y6vSnvqPskN8ziT48"
-				},
-				{
-					"giorno": "Sabato 29",
-					"mese": "Gennaio",
-					"orario": "dalle ore 9:30 alle ore 12:00 ",
-					"url": "https://forms.gle/GparPwVU8UXJsdZDA"
 				}
 			]
 		},
