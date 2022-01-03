@@ -29,40 +29,6 @@
 			]
 		},
 		{
-			"titolo": "<span class='text-red'>Open Day</span></br>\"Scuola Aperta\"",
-			"sottotitolo": "E' possibile visitare le sedi del Liceo e conoscere l'Offerta formativa del Liceo da parte della Dirigente Scolastica, dei Docenti e degli Studenti. L'ingresso sarà contingentato in base alle prenotazioni e regolato secondo le norme anti-covid19 vigenti. Il giorno prima dell'incontro riceverai una mail di conferma.  <br> <span class='text-red'>Sei interessato? Scegli una data e clicca su Segui ora!</span></br>",
-			"date": [
-				{
-					"giorno": "Sabato 11 ",
-					"mese": "Dicembre",
-					"orario": "dalle 16:00 alle ore 19:00",
-					"url": "https://forms.gle/wrg3UBGfr2jutbvu8",
-					"pulsante": "Prenota ora"
-				},
-				{
-					"giorno": "Domenica 19",
-					"mese": "Dicembre",
-					"orario": "Dalle ore 10:00 alle ore 13:00",
-					"url": "https://forms.gle/Lk83Q4YjiYWqmTvm8",
-					"pulsante": "Prenota ora"
-				},
-				{
-					"giorno": "Domenica 16",
-					"mese": "Gennaio",
-					"orario": "dalle ore 10:00 alle ore 13:00",
-					"url": "https://forms.gle/6oWrb9m5yCRJ4ipy6",
-					"pulsante": "Prenota ora"
-				},
-				{
-					"giorno": "Sabato 22",
-					"mese": "Gennaio",
-					"orario": "dalle ore 16:00 alle ore 18:00",
-					"url": "https://forms.gle/7R7pWFuYyNm9nAPr9",
-					"pulsante": "Prenota ora"
-				}
-			]
-		},
-		{
 			"titolo": "<span class='text-red'>Un sabato</span></br>a Scuola",
 			"sottotitolo": "Esperienza immersiva tramite <br>collegamento online </br> nella realtà scolastica del Liceo, <br>dalle ore 9,30 alle ore 10,30</br>. Potranno accedere al collegamento max. 48 studenti per sede. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br> Il giorno prima dell'incontro sarà inviato il link per il collegamento a <br> <i>Meet </br> </i>.",
 			"date": [
@@ -179,6 +145,19 @@
 					"mese": "Gennaio ",
 					"orario": "dalle ore 16:00 alle ore 17:00",
 					"url": "https://forms.gle/hhJ5GfYwL7VexHwA9"
+				}
+			]
+		},
+		{
+			"titolo": "<span class='text-red'>Open Day</span></br>\"Scuola Aperta\"",
+			"sottotitolo": "<br>Gli studenti già prenotati sia per gli Open Day che per un sabato a scuola dovranno rinnovare la prenotazione per gli incontri online. </br>",
+			"date": [
+				{
+					"giorno": "",
+					"mese": "",
+					"orario": "",
+					"url": "",
+					"pulsante": "<br>Gli studenti già prenotati sia per gli Open Day che per un sabato a scuola dovranno rinnovare la prenotazione per gli incontri online. </br>"
 				}
 			]
 		}
