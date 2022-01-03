@@ -29,60 +29,6 @@
 			]
 		},
 		{
-			"titolo": "<span class='text-red'>Un sabato</span></br>a Scuola",
-			"sottotitolo": "Esperienza immersiva tramite <b>collegamento online</b> nella realtà scolastica del Liceo, dalle ore 9,30 alle ore 10,30. Potranno accedere al collegamento max. 48 studenti per sede. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br> Il giorno prima dell'incontro sarà inviato il link per il collegamento a <b> <i>Meet </b> </i>.",
-			"date": [
-				{
-					"giorno": "Sabato 20",
-					"mese": "Novembre",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/cG6XShy6Zfj5uAuaA"
-				},
-				{
-					"giorno": "Sabato 27 ",
-					"mese": "Novembre",
-					"orario": "dalle ore 9:00 alle ore 12:00",
-					"url": "https://forms.gle/BRaMYfaAgi6Q2cYh8"
-				},
-				{
-					"giorno": "Sabato 4",
-					"mese": "Dicembre",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/bdhupw9XzVL2FFje9"
-				},
-				{
-					"giorno": "Sabato 11",
-					"mese": "Dicembre",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/v8KBmQ9Hrtbqor3C7"
-				},
-				{
-					"giorno": "Sabato 18",
-					"mese": "Dicembre",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/eQtPZr4FsKpHkvaq6"
-				},
-				{
-					"giorno": "Sabato 15",
-					"mese": "Gennaio",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/wUdbi9c6gFBBK5o68"
-				},
-				{
-					"giorno": "Sabato 22",
-					"mese": "Gennaio",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/ufn9f26GNbBzySNu9"
-				},
-				{
-					"giorno": "Sabato 29",
-					"mese": "Gennaio",
-					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/GparPwVU8UXJsdZDA"
-				}
-			]
-		},
-		{
 			"titolo": "<span class='text-red'>Sportello</span></br>Orientamento",
 			"sottotitolo": "Le docenti referenti per l'Orientamento: prof.ssa Maria Rosaria Arlotta e la prof.ssa Giusi Ricciato sono pronte ad incontrarti sulla piattaforma <b> <i>Meet </b> </i>per rispondere a ogni tuo dubbio o incertezza. Per ogni incontro saranno accolti fino a 90 collegamenti. Il giorno prima dell'incontro sarà inviato il link per il collegamento a Meet. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span>",
 			"date": [
@@ -145,6 +91,60 @@
 					"mese": "Gennaio ",
 					"orario": "dalle ore 16:00 alle ore 17:00",
 					"url": "https://forms.gle/hhJ5GfYwL7VexHwA9"
+				}
+			]
+		},
+		{
+			"titolo": "<span class='text-red'>Un sabato</span></br>a Scuola",
+			"sottotitolo": "Esperienza immersiva tramite <b>collegamento online</b> nella realtà scolastica del Liceo, dalle ore 9,30 alle ore 10,30. Potranno accedere al collegamento max. 48 studenti per sede. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br> Il giorno prima dell'incontro sarà inviato il link per il collegamento a <b> <i>Meet </b> </i>.",
+			"date": [
+				{
+					"giorno": "Sabato 20",
+					"mese": "Novembre",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/cG6XShy6Zfj5uAuaA"
+				},
+				{
+					"giorno": "Sabato 27 ",
+					"mese": "Novembre",
+					"orario": "dalle ore 9:00 alle ore 12:00",
+					"url": "https://forms.gle/BRaMYfaAgi6Q2cYh8"
+				},
+				{
+					"giorno": "Sabato 4",
+					"mese": "Dicembre",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/bdhupw9XzVL2FFje9"
+				},
+				{
+					"giorno": "Sabato 11",
+					"mese": "Dicembre",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/v8KBmQ9Hrtbqor3C7"
+				},
+				{
+					"giorno": "Sabato 18",
+					"mese": "Dicembre",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/eQtPZr4FsKpHkvaq6"
+				},
+				{
+					"giorno": "Sabato 15",
+					"mese": "Gennaio",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/wUdbi9c6gFBBK5o68"
+				},
+				{
+					"giorno": "Sabato 22",
+					"mese": "Gennaio",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/Y6vSnvqPskN8ziT48"
+				},
+				{
+					"giorno": "Sabato 29",
+					"mese": "Gennaio",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": "https://forms.gle/GparPwVU8UXJsdZDA"
 				}
 			]
 		},
