@@ -64,7 +64,7 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Un sabato</span></br>a Scuola",
-			"sottotitolo": "Vuoi fare un'esperienza immersiva nella realtà scolastica del Liceo, partecipare ad attività didattiche in presenza in una delle due sedi del Liceo? Vieni a passare un sabato con noi. Saranno ospitati fino a 30 studenti per sede. Riceverai una mail di conferma qualche giorno prima della data scelta. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br>",
+			"sottotitolo": "Esperienza immersiva tramite <br>collegamento online </br> nella realtà scolastica del Liceo, <br>dalle ore 9,30 alle ore 10,30</br>. Potranno accedere al collegamento max. 48 studenti per sede. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br> Il giorno prima dell'incontro sarà inviato il link per il collegamento a <br> <i>Meet </br> </i>.",
 			"date": [
 				{
 					"giorno": "Sabato 20",
