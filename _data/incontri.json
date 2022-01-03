@@ -84,7 +84,7 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Sportello</span></br>Orientamento",
-			"sottotitolo": "Le docenti referenti per l'Orientamento: prof.ssa Maria Rosaria Arlotta e la prof.ssa Giusi Ricciato sono pronte ad incontrarti sulla piattaforma <br> <i>Meet </br> </i>per rispondere a ogni tuo dubbio o incertezza. Per ogni incontro saranno accolti fino a 90 collegamenti. Il giorno prima dell'incontro sarà inviato il link per il collegamento a Meet. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span>",
+			"sottotitolo": "Le docenti referenti per l'Orientamento: prof.ssa Maria Rosaria Arlotta e la prof.ssa Giusi Ricciato sono pronte ad incontrarti sulla piattaforma <b> <i>Meet </b> </i>per rispondere a ogni tuo dubbio o incertezza. Per ogni incontro saranno accolti fino a 90 collegamenti. Il giorno prima dell'incontro sarà inviato il link per il collegamento a Meet. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span>",
 			"date": [
 				{
 					"giorno": "Lunedì 8",
