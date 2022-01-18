@@ -164,6 +164,20 @@
 					"orario": "dalle ore 16.00 alle ore 18.00",
 					"url": "Sede Centrale e Polo Didattico di via Pozzuolo",
 					"pulsante": "<b>Dirigente Scolastica</b> e <b>Team Orientamento </b> incontrano genitori e studenti. "
+				},
+				{
+					"giorno": "Martedì 25 ",
+					"mese": "gennaio 2022",
+					"orario": "dalle 15.00 alle ore 17.00",
+					"url": "Sede Centrale ",
+					"pulsante": "<b>Dirigente Scolastica</b> e <b>Team Orientamento </b> incontrano genitori e studenti. "
+				},
+				{
+					"giorno": "Martedì 25",
+					"mese": "gennaio 2022",
+					"orario": "dalle ore 16.00 alle ore 18.00",
+					"url": "Sede Centrale",
+					"pulsante": "<b>La Segreteria Alunni </b> offrirà un supporto per le Iscrizioni "
 				}
 			]
 		}
