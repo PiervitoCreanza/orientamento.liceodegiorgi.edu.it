@@ -156,14 +156,14 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Open Day</span></br>\"Scuola Aperta\"",
-			"sottotitolo": "<b>considerato che alcune attività di orientamento, da voi prenotate, sono state annullate a causa dell’emergenza da Covid-19, si informa che, genitori e studenti potranno incontrare la Dirigente e alcuni docenti del liceo nelle seguenti date:</b>",
+			"sottotitolo": "<b>Considerato che alcune attività di Orientamento, da voi prenotate, sono state annullate a causa dell’emergenza da Covid-19, si informa che genitori e studenti potranno incontrare la Dirigente e alcuni docenti del liceo nelle seguenti date:</b>",
 			"date": [
 				{
-					"giorno": "",
-					"mese": "",
-					"orario": "",
-					"url": "",
-					"pulsante": "Gli studenti già prenotati sia per gli <b<Open Day</b> che per <b> Un sabato a scuola</b> dovranno rinnovare la prenotazione per gli incontri online. "
+					"giorno": "Sabato 22",
+					"mese": "gennaio 2022",
+					"orario": "dalle ore 16.00 alle ore 18.00",
+					"url": "Sede Centrale e Polo Didattico di via Pozzuolo",
+					"pulsante": "<b>Dirigente Scolastica</b> e <b>Team Orientamento </b> incontrano genitori e studenti. "
 				}
 			]
 		}
