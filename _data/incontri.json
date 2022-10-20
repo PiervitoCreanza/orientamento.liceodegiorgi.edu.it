@@ -30,7 +30,7 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Sportello</span></br>Orientamento",
-			"sottotitolo": "<b> <i> Incontri in presenza </b> </i> con le Docenti Referenti per l’Orientamento in ingresso, Prof.sse Maria Rosaria Arlotta e Giusi Ricciato, presso la <b>Sede Centrale del Liceo <i>De Giorgi</i></b>, in Viale De Pietro n. 14. <br> <span class='text-red'>Sei interessato? Scegli una data e clicca su <b> Prenota ora! </b> </span>",
+			"sottotitolo": "<b> Incontri in presenza </b> con le Docenti Referenti per l’Orientamento in ingresso, Prof.sse Maria Rosaria Arlotta e Giusi Ricciato, presso la <b>Sede Centrale del Liceo <i>De Giorgi</i></b>, in Viale De Pietro n. 14. Il giorno prima dell’appuntamento si riceverà una mail con la conferma della data scelta. <br> <span class='text-red'>Sei interessato? Scegli una data e clicca su <b>, Prenota ora! </b>, </span>",
 			"date": [
 				{
 					"giorno": "Lunedì 5",
