@@ -66,13 +66,13 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Un sabato</span></br>a Scuola",
-			"sottotitolo": "Esperienza immersiva tramite <b>collegamento online</b> nella realtà scolastica del Liceo, dalle ore 9,30 alle ore 10,30. Potranno accedere al collegamento max. 48 studenti per sede. <span class='text-red'>Sei interessato? Scegli una data e clicca su Prenota ora!</span></br> Il giorno prima dell'incontro sarà inviato il link per il collegamento a <b> <i>Meet </b> </i>.",
+			"sottotitolo": "Esperienza immersiva <b>in presenza</b> nella realtà scolastica del Liceo insieme con gli studenti del <b><i>De Giorgi</i> presso entrambe le sedi</b> del Liceo.<br> Saranno ospitati max. 30 studenti per sede.<br> <span class='text-red'> Vuoi venire a trovarci? Scegli una data e clicca su <b>, Prenota ora! </b></span></br>  Il giorno prima dell’appuntamento si riceverà una mail con la conferma della data scelta.",
 			"date": [
 				{
-					"giorno": "Sabato 20",
+					"giorno": "Sabato 16",
 					"mese": "Novembre",
 					"orario": "dalle ore 9:30 alle ore 12:00",
-					"url": "https://forms.gle/cG6XShy6Zfj5uAuaA"
+					"url": ""
 				},
 				{
 					"giorno": "Sabato 27 ",
