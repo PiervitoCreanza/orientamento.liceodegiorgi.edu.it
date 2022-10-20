@@ -156,27 +156,34 @@
 		},
 		{
 			"titolo": "<span class='text-red'>Open Day</span></br>\"Scuola Aperta\"",
-			"sottotitolo": "<b>Considerato che alcune attività di Orientamento, da voi prenotate, sono state annullate a causa dell’emergenza da Covid-19, si informa che genitori e studenti potranno incontrare la Dirigente e alcuni docenti del liceo nelle seguenti date:</b>",
+			"sottotitolo": "<b>Visita delle sedi del Liceo</b> e incontri con il Dirigente Scolastico, con gli studenti e i docenti referenti delle attività didattiche ed extradidattiche. <br> <span class='text-brown'> Vuoi essere nostro ospite? Scegli una data e clicca su <b>, Prenota ora! </b></span></br> ",
 			"date": [
 				{
-					"giorno": "Sabato 22",
-					"mese": "gennaio 2022",
+					"giorno": "Domenica 4",
+					"mese": "Dicembre 2022",
+					"orario": "dalle ore 10.00 alle ore 12.00",
+					"url": "Sede Centrale e Polo Didattico di via Pozzuolo",
+					"pulsante": ""
+				},
+				{
+					"giorno": "Sabato 17",
+					"mese": "Dicembre 2022",
 					"orario": "dalle ore 16.00 alle ore 18.00",
 					"url": "Sede Centrale e Polo Didattico di via Pozzuolo",
-					"pulsante": "<b>Dirigente Scolastica</b> e <b>Team Orientamento </b> incontrano genitori e studenti. "
+					"pulsante": ""
 				},
 				{
-					"giorno": "Martedì 25 ",
-					"mese": "gennaio 2022",
-					"orario": "dalle 15.00 alle ore 17.00",
-					"url": "Sede Centrale ",
-					"pulsante": "<b>Dirigente Scolastica</b> e <b>Team Orientamento </b> incontrano genitori e studenti. "
+					"giorno": "Domenica 15 ",
+					"mese": "Gennaio 2023",
+					"orario": "dalle 10.00 alle ore 12.00",
+					"url": "Sede Centrale e Polo Didattico di via Pozzuolo",
+					"pulsante": "<b>La Segreteria Alunni </b> offrirà un supporto per le Iscrizioni "
 				},
 				{
-					"giorno": "Martedì 25",
-					"mese": "gennaio 2022",
-					"orario": "dalle 15.00 alle ore 17.00",
-					"url": "Sede Centrale",
+					"giorno": "Sabato 21",
+					"mese": "Gennaio 2023",
+					"orario": "dalle 16.00 alle ore 18.00",
+					"url": "Sede Centrale e Polo Didattico di via Pozzuolo",
 					"pulsante": "<b>La Segreteria Alunni </b> offrirà un supporto per le Iscrizioni "
 				}
 			]
