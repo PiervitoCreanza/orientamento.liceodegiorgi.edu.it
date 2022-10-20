@@ -81,44 +81,74 @@
 					"url": "https://forms.gle/8ZHtacTAwJ4R4zGr8"
 				},
 				{
-					"giorno": "Sabato 26",
-					"mese": "Novembre",
+					"giorno": "Sabato 26 Novembre",
+					"mese": "Sede Centrale",
 					"orario": "dalle ore 9:00 alle ore 12:00",
 					"url": ""
 				},
 				{
-					"giorno": "Sabato 3",
-					"mese": "Dicembre",
+					"giorno": "Sabato 26 Novembre",
+					"mese": "Sede via Pozzuolo",
+					"orario": "dalle ore 9:00 alle ore 12:00",
+					"url": ""
+				},
+				{
+					"giorno": "Sabato 3 Dicembre",
+					"mese": "Sede Centrale",
 					"orario": "dalle ore 9:30 alle ore 12:00",
 					"url": ""
 				},
 				{
-					"giorno": "Sabato 17",
-					"mese": "Dicembre",
+					"giorno": "Sabato 3 Dicembre",
+					"mese": "Sede Via Pozzuolo",
 					"orario": "dalle ore 9:30 alle ore 12:00",
 					"url": ""
 				},
 				{
-					"giorno": "Sabato 14",
-					"mese": "Gennaio",
+					"giorno": "Sabato 17 Dicembre",
+					"mese": "Sede Centrale",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": ""
+				},
+				{
+					"giorno": "Sabato 17 Dicembre",
+					"mese": "Sede via Pozzuolo",
 					"orario": "dalle ore 9:30 alle ore 12:00",
 					"url": ""
 				},
 				{
 					"giorno": "Sabato 14 Gennaio",
-					"mese": "Sede ",
+					"mese": "Sede Centrale",
+					"orario": "dalle ore 9:30 alle ore 12:00",
+					"url": ""
+				},
+				{
+					"giorno": "Sabato 14 Gennaio",
+					"mese": "Sede via Pozzuolo",
 					"orario": "dalle ore 9:30 alle ore 10:30",
 					"url": ""
 				},
 				{
 					"giorno": "Sabato 21 Gennaio",
-					"mese": "Sede",
+					"mese": "Sede Centrale",
+					"orario": "dalle ore 9:30 alle ore 10:30 ",
+					"url": ""
+				},
+				{
+					"giorno": "Sabato 21 Gennaio",
+					"mese": "Sede via Pozzuolo",
 					"orario": "dalle ore 9:30 alle ore 10:30 ",
 					"url": ""
 				},
 				{
 					"giorno": "Sabato 28 Gennaio",
-					"mese": "Sede",
+					"mese": "Sede Centrale",
+					"orario": "dalle ore 9:30 alle ore 10:30",
+					"url": ""
+				},
+				{
+					"giorno": "Sabato 28 Gennaio",
+					"mese": "Sede via Pozzuolo",
 					"orario": "dalle ore 9:30 alle ore 10:30",
 					"url": ""
 				}
