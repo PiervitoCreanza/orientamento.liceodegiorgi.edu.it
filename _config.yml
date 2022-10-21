@@ -9,14 +9,15 @@ collections:
     title: Uploads
     output: true
 url: https://orientamento.lecosimo.it
-baseurl: ''
+baseurl: ""
 lang: it-IT
 tagline: Il Liceo De Giorgi si presenta al pubblico
-description: Sei un ragazzo delle scuole medie? Vieni a trovarci per informazioni
+description:
+  Sei un ragazzo delle scuole medie? Vieni a trovarci per informazioni
   sulla scuola, la didattica e i docenti.
 livereload: true
 host: 0.0.0.0
 plugins:
-- jekyll-sitemap
+  - jekyll-sitemap
 cloudcannon:
   data: true
