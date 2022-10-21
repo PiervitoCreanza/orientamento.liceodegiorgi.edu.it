@@ -10,7 +10,7 @@ create_data_file("_data/incontri.json", :json,
     listaIncontri: dato.tipi_di_incontris.map do |tipoIncontro|
         {
             titolo: tipoIncontro.titolo,
-            descrizione: tipoIncontro.sottotitolo,
+            sottotitolo: tipoIncontro.sottotitolo,
             date: dato.incontris.select {|incontro| incontro.tipo_di_incontro.titolo == tipoIncontro.titolo}.map do |incontro| 
                 {
                     giorno: incontro.giorno,
