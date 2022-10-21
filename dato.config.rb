@@ -4,7 +4,7 @@ create_data_file("_data/incontri.json", :json,
 
     sezione1: {
         titolo: "<span class='text-red'>Ci vuoi</span> incontrare?",
-        sottotitolo: "Vista l'impossibilità di presentare il nostro Liceo con un classico <b>Open Day</b> (<a href=\"https://youtu.be/01k6tjEpeTk\">come abbiamo fatto gli scorsi anni</a>) abbiamo previsto diverse tipologie di incontri informativi."
+        descrizione: "Vista l'impossibilità di presentare il nostro Liceo con un classico <b>Open Day</b> (<a href=\"https://youtu.be/01k6tjEpeTk\">come abbiamo fatto gli scorsi anni</a>) abbiamo previsto diverse tipologie di incontri informativi."
     },
 
     listaIncontri: dato.tipi_di_incontris.map do |tipoIncontro|
