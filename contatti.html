@@ -1,51 +1,62 @@
 ---
 title: Contatti
 layout: default
-description: Ci vuoi contattare? Scrivi subito al nostro Team per l'Orientamento o
+description:
+  Ci vuoi contattare? Scrivi subito al nostro Team per l'Orientamento o
   partecipa ad uno dei nostri incontri online!
 ---
 
 {% include navigation.html %}
 <section class="scene mt-5 mt-md-0">
-    <div class="container my-auto">
-      <div class="row align-items-center align-middle">
-          <div class="col-12 col-md-6 col-lg-7 order-md-2" data-aos="fade-left" data-aos-delay="100">
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div
+        class="col-12 col-md-6 col-lg-7 order-md-2"
+        data-aos="fade-left"
+        data-aos-delay="100"
+      >
+        <!-- Image -->
+        <img
+          src="assets/img/illustration/contatti-01-min.png"
+          class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
+          alt="..."
+        />
+      </div>
+      <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">
+        <!-- Heading -->
+        <h1 class="display-3 text-md-left text-center editable">
+          <span class="text-red"
+            >{{site.data.contatti.sezione1.titolo_rosso}}</span
+          >
+          {{site.data.contatti.sezione1.titolo_nero}}
+        </h1>
+        <p
+          class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable"
+        >
+          {{site.data.contatti.sezione1.sottotitolo}}
+        </p>
+        <!-- Text -->
+        {% for item in site.data.contatti.sezione1.corpo %}
+        <p
+          class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable"
+        >
+          {{item}}
+        </p>
+        {% endfor %}
 
-            <!-- Image -->
-            <img src="assets/img/illustration/contatti-01-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="...">
-
-          </div>
-          <div class="col-12 col-md-6 col-lg-5 order-md-1" data-aos="fade-up">                    
-            <!-- Heading -->
-            <h1 class="display-3 text-md-left text-center editable">
-              {{site.data.contatti.sezione1.titolo}}
-          </h1>
-
-            <!-- Text -->
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable">
-              {{site.data.contatti.sezione1.sottotitolo}}
-            </p>
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable">
-              {{site.data.contatti.sezione1.sottotitolo1}}
-            </p>
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable">
-              {{site.data.contatti.sezione1.sottotitolo2}}
-            </p>
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable">
-              {{site.data.contatti.sezione1.sottotitolo3}}
-            </p>
-
-            <!-- Buttons -->
-            <div class="text-center text-md-left">
-              <a href="overview.html" class="btn btn-red shadow text-center mr-1 editable">
-                {{site.data.contatti.sezione1.pulsanteRosso}}
-              </a>
-              <a href="docs/index.html" class="btn btn-primary-soft lift editable">
-                {{site.data.contatti.sezione1.pulsante}}
-              </a>
-            </div>
-
-          </div>
+        <!-- Buttons -->
+        <div class="text-center text-md-left">
+          <a
+            href="overview.html"
+            class="btn btn-red shadow text-center mr-1 editable"
+          >
+            {{site.data.contatti.sezione1.pulsanteRosso}}
+          </a>
+          <a href="docs/index.html" class="btn btn-primary-soft lift editable">
+            {{site.data.contatti.sezione1.pulsante}}
+          </a>
         </div>
+      </div>
     </div>
+  </div>
 </section>

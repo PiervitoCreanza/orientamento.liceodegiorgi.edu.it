@@ -50,3 +50,17 @@ create_data_file("_data/domande.json", :json,
         }
         end
 )
+
+contatti = dato.contatti
+create_data_file("_data/contatti.json", :json,
+    sezione1: {
+        titolo_rosso: contatti.titolo_rosso,
+        titolo_nero: contatti.titolo,
+        sottotitolo: contatti.sottotitolo,
+        pulsanteRosso: contatti.pulsante_rosso,
+        pulsante: contatti.pulsante,
+        corpo: contatti.corpo.map do |paragrafo|
+            paragrafo.testo
+        end
+    }
+)
