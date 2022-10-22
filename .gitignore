@@ -4,3 +4,5 @@ _site/
 .jekyll-metadata
 .liquidrc
 .DS_Store
+_data/domande.json
+_data/incontri.json
