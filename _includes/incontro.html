@@ -4,17 +4,16 @@
         <div class="col-12">                    
           <!-- Heading -->
           <h1 class="display-3 text-center editable">
-            {{include.titolo}}
+            <span class="text-red">{{include.titolo.titolo_rosso}}</span><br> {{include.titolo.titolo_nero}}
         </h1>
           <!-- Text -->
           <p class="lead text-center text-muted mb-6 mb-lg-8 editable">
-              {{include.sottotitolo}}
+              {{include.sottotitolo.sottotitolo_nero}} <span class="text-red">{{include.sottotitolo.sottotitolo_rosso}}</span>
           </p>
           <div id="incontro-{{include.index}}" class="row align-items-center align-middle justify-content-center editable">
             {% for item in include.date %}
               {% include date.html 
-                day=item.giorno
-                month= item.mese
+                date=item.data
                 time=item.orario
                 description=item.descrizione
                 url=item.url

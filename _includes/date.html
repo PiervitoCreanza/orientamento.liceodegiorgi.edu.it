@@ -1,6 +1,32 @@
+
+    {% assign m = include.date | date: "%-m" %}
+    {% assign a = include.date | date: "%-u" %}
+    {% case a %}
+        {% when '1' %}{% assign A = "Lunedì" %}
+        {% when '2' %}{% assign A = "Martedì" %}
+        {% when '3' %}{% assign A = "Mercoledì" %}
+        {% when '4' %}{% assign A = "Giovedì" %}
+        {% when '5' %}{% assign A = "Venerdì" %}
+        {% when '6' %}{% assign A = "Sabato" %}
+        {% when '7' %}{% assign A = "Domenica" %}
+    {% endcase %}
+    {% case m %}
+        {% when '1' %}{% assign B = "Gennaio" %}
+        {% when '2' %}{% assign B = "Febbraio" %}
+        {% when '3' %}{% assign B = "Marzo" %}
+        {% when '4' %}{% assign B = "Aprile" %}
+        {% when '5' %}{% assign B = "Maggio" %}
+        {% when '6' %}{% assign B = "Giugno" %}
+        {% when '7' %}{% assign B = "Luglio" %}
+        {% when '8' %}{% assign B = "Agosto" %}
+        {% when '9' %}{% assign B = "Settembre" %}
+        {% when '10' %}{% assign B = "Ottobre" %}
+        {% when '11' %}{% assign B = "Novembre" %}
+        {% when '12' %}{% assign B = "Dicembre" %}
+    {% endcase %}
 <div class="col-6 col-md-4 mt-5">
     <h1 class="text-center editable">
-        <span class='text-red'>{{ include.day }}</span></br>{{ include.month }}
+        <span class='text-red'>{{ A }} {{ include.date | date: "%-d"}}</span></br>{{ B }}
     </h1>
     <h6 class="text-center mb-6 mb-lg-6 text-uppercase text-muted editable">
         {{ include.time }}
