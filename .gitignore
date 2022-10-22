@@ -6,3 +6,4 @@ _site/
 .DS_Store
 _data/domande.json
 _data/incontri.json
+_data/contatti.json
