@@ -1,12 +1,15 @@
 # dato.config.rb
 
+page_incontri = dato.page_incontri
+
 create_data_file("_data/incontri.json", :json, 
-
     sezione1: {
-        titolo: "<span class='text-red'>Ci vuoi</span> incontrare?",
-        sottotitolo: "Vista l'impossibilità di presentare il nostro Liceo con un classico <b>Open Day</b> (<a href=\"https://youtu.be/01k6tjEpeTk\">come abbiamo fatto gli scorsi anni</a>) abbiamo previsto diverse tipologie di incontri informativi."
+    titolo: {
+        rosso: page_incontri.titolo_rosso,
+        nero: page_incontri.titolo_nero
     },
-
+    sottotitolo: page_incontri.sottotitolo,
+    },
     listaIncontri: dato.tipi_di_incontris.map do |tipoIncontro|
         {
             titolo: {
@@ -63,4 +66,31 @@ create_data_file("_data/contatti.json", :json,
             paragrafo.testo
         end
     }
+)
+
+home = dato.page_home
+create_data_file("_data/home.json",:json,
+  sezione1: {
+    sottotitolo: home.sottotitolo,
+    pulsanteRosso: home.pulsante_rosso,
+    pulsante: home.pulsante
+  },
+  sezioni: home.sezioni.map do |sezione| {
+    titoloRosso: sezione.titolo_rosso,
+    titolo: sezione.titolo_nero,
+    sottotitolo: sezione.sottotitolo,
+    toggleBoxes: sezione.extra.select {| extra | extra.item_type.api_key == "toggle_box"}.map do |toggleBox| 
+        {
+        titolo: toggleBox.titolo,
+        descrizione: toggleBox.descrizione,
+        testoPulsante: toggleBox.testo_pulsante
+      }
+    end,
+    paragrafi: sezione.extra.select {| extra | extra.item_type.api_key == "paragrafo"}.map do |paragrafo| {
+        titolo: paragrafo.titolo,
+        sottotitolo: paragrafo.testo
+    }
+    end
+}
+end
 )

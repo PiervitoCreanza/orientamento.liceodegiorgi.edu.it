@@ -1,34 +1,52 @@
 <section class="py-8 py-md-11">
-   <div class="container">
-      <div class="row align-items-center">
-         <div class="col-12 col-md-7 col-lg-7 order-md-{{ include.orderMd1 }}" data-aos="fade-up">
-            <!-- Title -->
-            <h1 class="display-3 text-md-{{ include.alignDirection }}">
-               {{include.titolo}}
-            </h1>
-            <!-- Description -->
-            <p class="lead text-md-{{ include.alignDirection }} text-muted mb-6 mb-lg-8">
-               {{include.sottotitolo}}
-            </p>
-            <!-- Buttons -->
-            <div class="text-center text-md-{{ include.alignDirection }} mb-4">
-               {% if include.pulsanteRosso.testo %}
-               <a href="{{ include.pulsanteRosso.url }}" target="_blank" class="btn btn-red shadow text-center mr-1">
-               {{ include.pulsanteRosso.testo }}
-               </a>
-               {% endif %}
-               {% if include.pulsante.testo %}
-               <a href="{{ include.pulsante.url }}" target="_blank" class="btn btn-primary-soft lift">
-               {{ include.pulsante.testo }}
-               </a>
-               {% endif %}
-            </div>
-         </div>
-         {% if include.img %}
-         <div class="col-12 col-md-5 col-lg-5 order-md-{{ include.orderMd2 }}">
-            <img src="{{ include.img }}" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." data-aos="fade-up" data-aos-delay="0">
-         </div>
-         {% endif %}
+  <div class="container">
+    <div class="row align-items-center">
+      <div
+        class="col-12 col-md-7 col-lg-7 order-md-{{ include.orderMd1 }}"
+        data-aos="fade-up"
+      >
+        <!-- Title -->
+        <h1 class="display-3 text-md-{{ include.alignDirection }}">
+          {{include.titolo}}
+        </h1>
+        <!-- Description -->
+        <p
+          class="lead text-md-{{ include.alignDirection }} text-muted mb-6 mb-lg-8"
+        >
+          {{include.sottotitolo}}
+        </p>
+        <!-- Buttons -->
+        <div class="text-center text-md-{{ include.alignDirection }} mb-4">
+          {% if include.pulsanteRosso.testo %}
+          <a
+            href="{{ include.pulsanteRosso.url }}"
+            target="_blank"
+            class="btn btn-red shadow text-center mr-1"
+          >
+            {{ include.pulsanteRosso.testo }}
+          </a>
+          {% endif %} {% if include.pulsante.testo %}
+          <a
+            href="{{ include.pulsante.url }}"
+            target="_blank"
+            class="btn btn-primary-soft lift"
+          >
+            {{ include.pulsante.testo }}
+          </a>
+          {% endif %}
+        </div>
       </div>
-   </div>
+      {% if include.img %}
+      <div class="col-12 col-md-5 col-lg-5 order-md-{{ include.orderMd2 }}">
+        <img
+          src="{{ include.img }}"
+          class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
+          alt="..."
+          data-aos="fade-up"
+          data-aos-delay="0"
+        />
+      </div>
+      {% endif %}
+    </div>
+  </div>
 </section>

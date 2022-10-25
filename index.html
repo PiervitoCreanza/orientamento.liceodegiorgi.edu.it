@@ -1,128 +1,170 @@
 ---
 title: Home
 layout: default
-description: Sei un ragazzo delle scuole medie? Vieni a trovarci per informazioni
+description:
+  Sei un ragazzo delle scuole medie? Vieni a trovarci per informazioni
   sulla scuola, la didattica e i docenti.
 ---
 
 {% include navigation.html %}
 <section class="scene mt-sm-4 mt-xs-5">
-    <div class="container my-auto">
-      <div class="row align-items-center align-middle">
-          <div class="col-12 col-md-5 col-lg-6 order-md-2" data-aos="fade-up">
-            <!-- Image -->
-            <img src="assets/img/illustration/home-01b-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." />
+  <div class="container my-auto">
+    <div class="row align-items-center align-middle">
+      <div class="col-12 col-md-5 col-lg-6 order-md-2" data-aos="fade-up">
+        <!-- Image -->
+        <img
+          src="assets/img/illustration/home-01b-min.png"
+          class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
+          alt="..."
+        />
+      </div>
+      <div class="col-12 col-md-7 col-lg-6" data-aos="fade-right">
+        <!-- Heading -->
+        <h6 class="text-uppercase red text-red text-center editable">
+          Liceo Scientifico Statale
+        </h6>
+        <h1 class="display-3 text-center editable">Cosimo De Giorgi</h1>
 
-          </div>
-          <div class="col-12 col-md-7 col-lg-6" data-aos="fade-right">                    
-            <!-- Heading -->
-            <h6 class="text-uppercase red text-red text-center editable">
-              Liceo Scientifico Statale
-            </h6>
-            <h1 class="display-3 text-center editable">
-              Cosimo De Giorgi
-            </h1>
+        <!-- Text -->
+        <p
+          class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable"
+        >
+          {{site.data.home.sezione1.sottotitolo}}
+        </p>
 
-            <!-- Text -->
-            <p class="lead text-center text-md-left text-muted mb-6 mb-lg-8 editable">
-              Il Liceo Scientifico di Lecce, intitolato a Cosimo De Giorgi l&rsquo;anno dopo la sua istituzione, fu uno dei primi licei scientifici nati dopo la creazione di questo tipo di scuola con la riforma Gentile nel 1923. In questi quasi 100 anni ha curato la formazione umana e culturale di generazioni di giovani salentini. Oggi accoglie nelle sue due sedi circa 1400 studenti suddivisi in 53 classi.
-            </p>
-
-            <!-- Buttons -->
-            <div class="text-center text-md-left">
-              <a href="contatti.html" class="btn btn-red shadow text-center mr-1 editable">
-                Contatti
-              </a>
-              <a href="https://liceodegiorgi.edu.it/?utm_source=orientamento&utm_medium=home_button&utm_campaign=orientamento_2020" class="btn btn-primary-soft lift editable">
-                Vai al sito interno
-              </a>
-            </div>
-
-          </div>
+        <!-- Buttons -->
+        <div class="text-center text-md-left">
+          <a
+            href="contatti.html"
+            class="btn btn-red shadow text-center mr-1 editable"
+          >
+            {{site.data.home.sezione1.pulsanteRosso}}
+          </a>
+          <a
+            href="https://liceodegiorgi.edu.it/?utm_source=orientamento&utm_medium=home_button&utm_campaign=orientamento_2020"
+            class="btn btn-primary-soft lift editable"
+          >
+            {{site.data.home.sezione1.pulsante}}
+          </a>
         </div>
+      </div>
     </div>
+  </div>
 </section>
 <section class="py-8 py-md-11">
   <div class="container">
-      <div class="row align-items-center">
-          <div class="col-12 col-md-7 col-lg-6 order-md-2" data-aos="fade-up">
-              <h1 class="display-3 text-md-right editable">
-                <span class="text-red">Vogliamo</span> presentarci
-              </h1>
-              <p class="lead text-md-right text-muted mb-6 mb-lg-8 editable">
-                Presentiamo, in sintesi, uno spaccato di vita del Liceo De Giorgi, dando voce agli studenti, che attraverso le opportunit&agrave; formative curricolari ed extracurriculari, costruiscono il loro progetto di vita.
-              </p>
-          </div>
-          <div class="col-12 col-md-5 col-lg-6 order-md-1" data-aos="fade-right">
-              <div class="embed-responsive embed-responsive-16by9">                  
-                  <iframe class="embed-responsive-item rounded-lg bg-light shadow-lg" loading="lazy" src="https://www.youtube-nocookie.com/embed/JUpg6IHGAck?autoplay=1&mute=1&loop=1&playlist=JUpg6IHGAck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-              <!-- <img src="src/img/background/video-background-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..."> -->
-          </div>                
+    <div class="row align-items-center">
+      <div class="col-12 col-md-7 col-lg-6 order-md-2" data-aos="fade-up">
+        <h1 class="display-3 text-md-right editable">
+          <span class="text-red"
+            >{{site.data.home.sezioni[0].titoloRosso}}</span
+          >
+          {{site.data.home.sezioni[0].titolo}}
+        </h1>
+        <p class="lead text-md-right text-muted mb-6 mb-lg-8 editable">
+          {{site.data.home.sezioni[0].sottotitolo}}
+        </p>
       </div>
+      <div class="col-12 col-md-5 col-lg-6 order-md-1" data-aos="fade-right">
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe
+            class="embed-responsive-item rounded-lg bg-light shadow-lg"
+            loading="lazy"
+            src="https://www.youtube-nocookie.com/embed/JUpg6IHGAck?autoplay=1&mute=1&loop=1&playlist=JUpg6IHGAck"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+        <!-- <img src="src/img/background/video-background-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..."> -->
+      </div>
+    </div>
   </div>
 </section>
 <section class="py-8 py-md-11">
-  <div class="container" style="position: relative;">
-      <div class="row align-items-center">
-          <div class="col-12 col-md-7 col-lg-6" data-aos="fade-right">
-              <h1 class="display-3 text-md-left editable">
-                <span class="text-red">Quattro opzioni di studio,</span> per il tuo futuro
-              </h1>
-              <p class="lead text-md-left text-muted mb-6 mb-lg-8 editable">
-                Studiare al Liceo Scientifico ti permetter&agrave; di acquisire un valido metodo di studio ed un'ampia formazione culturale, sia in ambito scientifico che in ambito umanistico. In tale ottica il percorso <b>Ordinario</b> &egrave; affiancato da un percorso di <b>Liceo Scientifico Potenziato</b> e da un percorso<b>IGCSE Cambridge</b> Dall'anno scolastico 2021/22 viene introdotto anche il percorso <b>Matematico</b>
-              </p>
-              <img src="assets/img/illustration/home-02-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." />
-          </div>          
-          <div class="col-12 col-md-5 col-lg-6" data-aos="fade-up">
-            {% for toggleBox in site.data.home.sezione3.toggleBoxes %}
-            {% assign index = forloop.index0 %}
-            {% assign last = forloop.last %}
-            {% include toggleBox.html 
-              title=toggleBox.titolo 
-              description=toggleBox.descrizione
-              buttonText=toggleBox.testoPulsante
-              n=index
-              isLast=last
-            %} 
-          {% endfor %}                    
-      </div>      
+  <div class="container" style="position: relative">
+    <div class="row align-items-center">
+      <div class="col-12 col-md-7 col-lg-6" data-aos="fade-right">
+        <h1 class="display-3 text-md-left editable">
+          <span class="text-red"
+            >{{site.data.home.sezioni[1].titoloRosso}}</span
+          >
+          {{site.data.home.sezioni[1].titolo}}
+        </h1>
+        <p class="lead text-md-left text-muted mb-6 mb-lg-8 editable">
+          {{site.data.home.sezioni[1].sottotitolo}}
+        </p>
+        <img
+          src="assets/img/illustration/home-02-min.png"
+          class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
+          alt="..."
+        />
+      </div>
+      <div class="col-12 col-md-5 col-lg-6" data-aos="fade-up">
+        {% for toggleBox in site.data.home.sezioni[1].toggleBoxes %} {% assign
+        index = forloop.index0 %} {% assign last = forloop.last %} {% include
+        toggleBox.html title=toggleBox.titolo description=toggleBox.descrizione
+        buttonText=toggleBox.testoPulsante n=index isLast=last %} {% endfor %}
+      </div>
+    </div>
   </div>
-</div></section>
-<div style="position: relative;">
-  <img src="assets/img/background/background-01.svg" style="position: absolute; bottom: 0; z-index: -1;" class="img-fluid" alt="..." />
+</section>
+<div style="position: relative">
+  <img
+    src="assets/img/background/background-01.svg"
+    style="position: absolute; bottom: 0; z-index: -1"
+    class="img-fluid"
+    alt="..."
+  />
 </div>
-<section class="py-8 py-md-11" style="background-color: #F2F5F4;">
+<section class="py-8 py-md-11" style="background-color: #f2f5f4">
   <div class="container">
-      <div class="row align-items-center">
-          <div class="col-12 col-md-7 col-lg-6 order-md-2" data-aos="fade-left">
-              <h1 class="display-3 text-md-right editable">
-                <span class="text-red">Le nostre</span> due sedi
-              </h1>
-              <p class="lead text-md-right text-muted mb-6 mb-lg-8 editable">
-                L'istituto &egrave; dislocato in due sedi: la Sede Centrale di viale M. De Pietro e il Polo didattico di via Pozzuolo, entrambi dotati di laboratori, palestra e aule dedicate alle diverse attivit&agrave; didattiche.
-              </p>
-              <img src="assets/img/illustration/home-03-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." />
-          </div>
-          <div class="col-12 col-md-5 col-lg-6 order-md-1" data-aos="fade-right" data-aos-delay="150">
-              <div class="d-flex justify-content-start">
-                  <img src="assets/img/illustration/home-04-min.png" class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0" alt="..." />
-              </div>                    
-              <h4 class="text-md-left editable">
-                Sede centrale
-              </h4>
-              <p class="lead text-md-left text-muted mb-6 mb-lg-8 editable">
-                La sede centrale ospita l'ufficio di Presidenza, gli uffici di Segreteria, il laboratorio linguistico-multimediale, un laboratorio di Fisica, di Scienze, una biblioteca, un'aula Video, un'aula Seminari e la palestra.
-              </p>
-              <h4 class="text-md-left editable">
-                Polo didattico di via Pozzuolo
-              </h4>
-              <p class="lead text-md-left text-muted mb-6 mb-lg-8 editable">
-                Il polo didattico ospita un ufficio di Segreteria, un laboratorio linguistico-multimediale, un laboratorio di Fisica, di Scienze, una biblioteca, un'aula Video, un'aula Magna e la palestra.
-              </p>
-          </div>                         
+    <div class="row align-items-center">
+      <div class="col-12 col-md-7 col-lg-6 order-md-2" data-aos="fade-left">
+        <h1 class="display-3 text-md-left editable">
+          <span class="text-red"
+            >{{site.data.home.sezioni[2].titoloRosso}}</span
+          >
+          {{site.data.home.sezioni[2].titolo}}
+        </h1>
+        <p class="lead text-md-right text-muted mb-6 mb-lg-8 editable">
+          {{site.data.home.sezioni[2].sottotitolo}}
+        </p>
+        <img
+          src="assets/img/illustration/home-03-min.png"
+          class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
+          alt="..."
+        />
       </div>
-      <iframe width="100%" height="300px" class="rounded-lg mt-4" frameborder="0" allowfullscreen loading="lazy" src="//umap.openstreetmap.fr/it/map/liceo-scientifico-de-giorgi-le-sedi_511594?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=1438809#15/40.3560/18.1703"></iframe>
-  </div>  
+      <div
+        class="col-12 col-md-5 col-lg-6 order-md-1"
+        data-aos="fade-right"
+        data-aos-delay="150"
+      >
+        <div class="d-flex justify-content-start">
+          <img
+            src="assets/img/illustration/home-04-min.png"
+            class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
+            alt="..."
+          />
+        </div>
+        {% for paragrafo in site.data.home.sezioni[2].paragrafi %}
+        <h4 class="text-md-left editable">{{paragrafo.titolo}}</h4>
+        <p class="lead text-md-left text-muted mb-6 mb-lg-8 editable">
+          {{paragrafo.sottotitolo}}
+        </p>
+        {% endfor %}
+      </div>
+    </div>
+    <iframe
+      width="100%"
+      height="300px"
+      class="rounded-lg mt-4"
+      frameborder="0"
+      allowfullscreen
+      loading="lazy"
+      src="//umap.openstreetmap.fr/it/map/liceo-scientifico-de-giorgi-le-sedi_511594?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=1438809#15/40.3560/18.1703"
+    ></iframe>
+  </div>
 </section>
 <script src="assets/js/index.js"></script>
