@@ -4,6 +4,9 @@ on:
   push:
     branches: [ production ]
 
+  # Allows external webhook trigger
+  workflow_dispatch:
+
 jobs:
   build:
     runs-on: ubuntu-latest
