@@ -33,3 +33,11 @@ jobs:
         ftp_password: ${{ secrets.ftp_password }} 
       run: |
         ncftpput -R -v -u "$ftp_username" -p "$ftp_password" orientamento.liceodegiorgi.edu.it $ftp_location _site/*
+    - name: On fail
+      if: failure()
+      run: |
+        curl -n -X POST https://webhooks.datocms.com/elGggTYQOb/deploy-results -H 'Content-Type: application/json' -d '{ "status": "error" }'
+    - name: On success
+      run: |
+        curl -n -X POST https://webhooks.datocms.com/elGggTYQOb/deploy-results -H 'Content-Type: application/json' -d '{ "status": "success" }'
+
