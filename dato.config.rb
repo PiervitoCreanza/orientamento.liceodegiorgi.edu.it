@@ -94,3 +94,28 @@ create_data_file("_data/home.json",:json,
 }
 end
 )
+
+page_progetti = dato.page_progetti
+create_data_file("_data/progetti.json", :json,
+    sezione1: {
+        titoloRosso: page_progetti.titolo_rosso,
+        titoloNero: page_progetti.titolo_nero,
+        sottotitolo: page_progetti.sottotitolo,
+    },
+    projects: dato.page_progetti.progetti.map do |progetto|
+        {
+            titoloRosso: progetto.titolo_rosso,
+            titoloNero: progetto.titolo_nero,
+            sottotitolo: progetto.sottotitolo,
+            img: progetto.img,
+            pulsante: {
+                testo: progetto.pulsante,
+                url: progetto.url_pulsante
+            },
+            pulsanteRosso: {
+                testo: progetto.pulsante_rosso,
+                url: progetto.url_pulsante_rosso
+            }
+        }
+    end
+)
