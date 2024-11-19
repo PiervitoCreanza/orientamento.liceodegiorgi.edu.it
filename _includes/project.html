@@ -1,8 +1,7 @@
 {% assign numbers = "1,2,3,4,5,6,7,8,9,10" | split: "," %}
 {% assign randomNumber = numbers | sample %}
 {% assign img_name = "progetti-" | append: randomNumber | append: "-min.png" %}
-{% assign default_img_src = "/assets/img/illustration/" | append: img_name %}
-{% assign img_src = include.img | default: default_img_src %}
+{% assign img_src = include.img | default: img_name %}
 
 <section class="py-8 py-md-11">
   <div class="container">
@@ -46,7 +45,7 @@
       {% if include.img %}
       <div class="col-12 col-md-5 col-lg-5 order-md-{{ include.orderMd2 }}">
         <img
-          src="{{ img_src }}"
+          src="/assets/img/illustration/{{ img_src }}"
           class="img-fluid mw-md-150 mw-lg-130 mb-6 mb-md-0"
           alt="..."
           data-aos="fade-up"
