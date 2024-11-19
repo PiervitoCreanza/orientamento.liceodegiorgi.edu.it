@@ -29,7 +29,8 @@ description: Il Liceo C. De Giorgi arricchisce la sua offerta formativa con atti
       <div class="col-12 col-md-6 col-lg-6 order-md-1" data-aos="fade-up">
         <!-- Heading -->
         <h1 class="display-3 text-md-left text-center editable">
-          {{site.data.progetti.sezione1.titolo}}
+            <span class='text-red'>{{site.data.progetti.sezione1.titoloRosso}}</span></br>{{site.data.progetti.sezione1.titoloNero}}
+          
         </h1>
 
         <!-- Text -->
@@ -45,7 +46,7 @@ description: Il Liceo C. De Giorgi arricchisce la sua offerta formativa con atti
 {% for item in site.data.progetti.projects %} {% capture alignDirection %}{%
 cycle 'right', 'left' %}{% endcapture %} {% capture orderMd1 %}{% cycle '2', '1'
 %}{% endcapture %} {% capture orderMd2 %}{% cycle '1', '2' %}{% endcapture %} {%
-assign imgIndex = forloop.index %} {% include project.html titolo=item.titolo
+assign imgIndex = forloop.index %} {% include project.html titoloRosso=item.titoloRosso titoloNero=item.titoloNero
 sottotitolo=item.sottotitolo pulsanteRosso=item.pulsanteRosso
 pulsante=item.pulsante alignDirection=alignDirection orderMd1=orderMd1
 orderMd2=orderMd2 img=item.img %} {% endfor %}
